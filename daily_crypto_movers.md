@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2025-12-25
+# Daily Crypto Movers - 2025-12-26
 
 ## Top 3 Gainers (24h)
-### 1. Canton (CC)
-- **Price:** $0.11
-- **Change:** +18.05%
-- **Analysis:** Canton (cc)'s 18.05% price surge is likely due to general market volatility and speculative trading, as no specific major news directly impacting this particular cryptocurrency has been widely reported.
+### 1. World Liberty Financial (WLFI)
+- **Price:** $0.14
+- **Change:** +5.16%
+- **Analysis:** As no specific news for World Liberty Financial (wlfi) has been identified, its 5.16% price increase most likely follows general market volatility.
 
-### 2. Zcash (ZEC)
-- **Price:** $447.16
-- **Change:** +9.98%
-- **Analysis:** Absent any specific Zcash-related news, its 9.98% increase most likely reflects general market volatility and positive sentiment within the broader cryptocurrency market.
+### 2. Ethena (ENA)
+- **Price:** $0.21
+- **Change:** +3.92%
+- **Analysis:** Ethena's 3.92% price increase is most likely due to ongoing investor interest in its USDe synthetic dollar and prevailing positive sentiment in the broader cryptocurrency market.
 
-### 3. Bittensor (TAO)
-- **Price:** $221.86
-- **Change:** +6.64%
-- **Analysis:** Bittensor's price increase is most likely due to continued strong market interest and positive sentiment surrounding AI-related cryptocurrency projects.
+### 3. LEO Token (LEO)
+- **Price:** $8.45
+- **Change:** +2.88%
+- **Analysis:** The LEO Token's 2.88% increase most likely reflects general positive sentiment and volatility within the broader cryptocurrency market, as no significant specific news for LEO has been released.
 
 ## Top 3 Losers (24h)
-### 1. TRON (TRX)
-- **Price:** $0.28
-- **Change:** -0.86%
-- **Analysis:** The 0.86% drop in TRON's price most likely reflects general cryptocurrency market volatility, as there is no specific recent news impacting TRX directly.
+### 1. MemeCore (M)
+- **Price:** $1.34
+- **Change:** -3.18%
+- **Analysis:** MemeCore's 3.18% dip most likely reflects general cryptocurrency market volatility, a common characteristic of meme coins.
 
-### 2. Rain (RAIN)
+### 2. Canton (CC)
+- **Price:** $0.10
+- **Change:** -6.87%
+- **Analysis:** Canton's 6.87% price drop most likely reflects general cryptocurrency market volatility, as no specific news for the coin has been reported.
+
+### 3. Rain (RAIN)
 - **Price:** $0.01
-- **Change:** -0.87%
-- **Analysis:** The 0.87% dip in Rain's price most likely reflects general cryptocurrency market volatility, rather than specific news or trends related to the project itself.
-
-### 3. Provenance Blockchain (HASH)
-- **Price:** $0.03
-- **Change:** -3.33%
-- **Analysis:** Absent specific project-related news, Provenance Blockchain's 3.33% decline most likely reflects general market volatility and broader cryptocurrency market sentiment.
+- **Change:** -12.57%
+- **Analysis:** Rain's 12.57% decline is most likely attributed to general cryptocurrency market volatility and a broader cooling trend, as there is no specific negative news directly impacting the project.
 
