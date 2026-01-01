@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2025-12-31
+# Daily Crypto Movers - 2026-01-01
 
 ## Top 3 Gainers (24h)
 ### 1. Canton (CC)
-- **Price:** $0.15
-- **Change:** +12.20%
-- **Analysis:** The 12.20% increase in Canton's price is most likely attributable to general cryptocurrency market volatility, given the absence of specific project news.
+- **Price:** $0.16
+- **Change:** +9.84%
+- **Analysis:** Without specific news, Canton's 9.84% price increase likely reflects general cryptocurrency market volatility or speculative trading activity.
 
-### 2. MemeCore (M)
-- **Price:** $1.57
-- **Change:** +10.37%
-- **Analysis:** The 10.37% price increase for MemeCore is most likely driven by general market volatility and renewed social media interest often seen with meme cryptocurrencies.
+### 2. LEO Token (LEO)
+- **Price:** $9.68
+- **Change:** +5.73%
+- **Analysis:** LEO Token's price increase most likely reflects the positive sentiment and upward trend currently observed across the broader cryptocurrency market.
 
-### 3. LEO Token (LEO)
-- **Price:** $9.15
-- **Change:** +5.49%
-- **Analysis:** Absent specific news, LEO Token's 5.49% price increase most likely reflects general cryptocurrency market volatility and positive broader market trends.
+### 3. OKB (OKB)
+- **Price:** $109.88
+- **Change:** +2.18%
+- **Analysis:** The 2.18% increase in OKB's price most likely reflects general market volatility and positive sentiment echoing across the broader cryptocurrency market.
 
 ## Top 3 Losers (24h)
-### 1. Mantle (MNT)
-- **Price:** $0.95
-- **Change:** -4.16%
-- **Analysis:** Mantle's decline most likely stems from general cryptocurrency market volatility and a slight downturn in Bitcoin's price, rather than specific project news.
+### 1. Ondo (ONDO)
+- **Price:** $0.36
+- **Change:** -4.32%
+- **Analysis:** Ondo's 4.32% drop most likely reflects general market volatility and minor profit-taking following a period of broader crypto market consolidation.
 
-### 2. Sky (SKY)
-- **Price:** $0.06
-- **Change:** -5.03%
-- **Analysis:** Sky's 5.03% decline likely mirrors general cryptocurrency market volatility, rather than being driven by specific news related to the coin itself.
+### 2. Uniswap (UNI)
+- **Price:** $5.65
+- **Change:** -4.42%
+- **Analysis:** Uniswap's 4.42% price drop in the last 24 hours is most likely attributed to general cryptocurrency market volatility, rather than specific, impactful news directly concerning the protocol.
 
 ### 3. Midnight (NIGHT)
-- **Price:** $0.09
-- **Change:** -8.43%
-- **Analysis:** Midnight's 8.43% decline likely reflects general market volatility, as no specific news has emerged to explain the movement.
+- **Price:** $0.08
+- **Change:** -5.73%
+- **Analysis:** Midnight's 5.73% price drop most likely reflects general cryptocurrency market volatility and broader altcoin consolidation, rather than specific negative news directly impacting the project.
 
