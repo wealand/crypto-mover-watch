@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-01
+# Daily Crypto Movers - 2026-01-02
 
 ## Top 3 Gainers (24h)
-### 1. Canton (CC)
-- **Price:** $0.16
-- **Change:** +9.84%
-- **Analysis:** Without specific news, Canton's 9.84% price increase likely reflects general cryptocurrency market volatility or speculative trading activity.
+### 1. Pepe (PEPE)
+- **Price:** $0.00
+- **Change:** +24.55%
+- **Analysis:** Pepe's price increase is most likely due to renewed speculative interest in meme coins, amplified by the broader positive sentiment across the cryptocurrency market.
 
-### 2. LEO Token (LEO)
-- **Price:** $9.68
-- **Change:** +5.73%
-- **Analysis:** LEO Token's price increase most likely reflects the positive sentiment and upward trend currently observed across the broader cryptocurrency market.
+### 2. Filecoin (FIL)
+- **Price:** $1.45
+- **Change:** +11.75%
+- **Analysis:** Filecoin's surge is likely fueled by renewed investor interest in its decentralized storage capabilities for AI data and its position within the growing DePIN (Decentralized Physical Infrastructure Networks) sector.
 
-### 3. OKB (OKB)
-- **Price:** $109.88
-- **Change:** +2.18%
-- **Analysis:** The 2.18% increase in OKB's price most likely reflects general market volatility and positive sentiment echoing across the broader cryptocurrency market.
+### 3. Quant (QNT)
+- **Price:** $76.98
+- **Change:** +11.21%
+- **Analysis:** The price increase for Quant (QNT) most likely reflects general positive sentiment and volatility across the broader cryptocurrency market, rather than specific recent project news.
 
 ## Top 3 Losers (24h)
-### 1. Ondo (ONDO)
-- **Price:** $0.36
-- **Change:** -4.32%
-- **Analysis:** Ondo's 4.32% drop most likely reflects general market volatility and minor profit-taking following a period of broader crypto market consolidation.
+### 1. Hyperliquid (HYPE)
+- **Price:** $24.40
+- **Change:** -4.67%
+- **Analysis:** The 4.67% decline in Hyperliquid (HYPE) most likely reflects general cryptocurrency market volatility, as there isn't significant project-specific news driving the movement.
 
-### 2. Uniswap (UNI)
-- **Price:** $5.65
-- **Change:** -4.42%
-- **Analysis:** Uniswap's 4.42% price drop in the last 24 hours is most likely attributed to general cryptocurrency market volatility, rather than specific, impactful news directly concerning the protocol.
+### 2. Canton (CC)
+- **Price:** $0.15
+- **Change:** -5.53%
+- **Analysis:** Canton's price movement most likely reflects general market volatility within the cryptocurrency sector.
 
-### 3. Midnight (NIGHT)
-- **Price:** $0.08
-- **Change:** -5.73%
-- **Analysis:** Midnight's 5.73% price drop most likely reflects general cryptocurrency market volatility and broader altcoin consolidation, rather than specific negative news directly impacting the project.
+### 3. Provenance Blockchain (HASH)
+- **Price:** $0.03
+- **Change:** -9.29%
+- **Analysis:** The decline in Provenance Blockchain (HASH) most likely reflects general market volatility and a broader downturn currently affecting the cryptocurrency sector.
 
