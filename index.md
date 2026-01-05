@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-04
+# Daily Crypto Movers - 2026-01-05
 
 ## Top 3 Gainers (24h)
-### 1. MYX Finance (MYX)
-- **Price:** $6.72
-- **Change:** +30.04%
-- **Analysis:** The 30.04% surge in MYX Finance's price is most likely attributed to increased speculative trading and general market volatility, as no specific news catalyst has been widely reported.
+### 1. Render (RENDER)
+- **Price:** $2.10
+- **Change:** +15.24%
+- **Analysis:** Render's price increase is most likely driven by its strong positioning within the booming AI sector, reinforced by its prominent featuring at the recent NVIDIA GTC conference.
 
-### 2. World Liberty Financial (WLFI)
-- **Price:** $0.18
-- **Change:** +16.11%
-- **Analysis:** World Liberty Financial (WLFI)'s 16.11% increase likely reflects general cryptocurrency market volatility, as there is no specific news reported for this particular asset.
+### 2. Kaspa (KAS)
+- **Price:** $0.05
+- **Change:** +5.64%
+- **Analysis:** Kaspa's 5.64% price increase is most likely attributed to general positive sentiment in the broader cryptocurrency market, rather than a specific major news event for Kaspa itself.
 
-### 3. Pepe (PEPE)
-- **Price:** $0.00
-- **Change:** +14.22%
-- **Analysis:** Pepe's 24-hour price increase is most likely a reflection of a general uptrend in the broader cryptocurrency market, encouraging speculative investment in meme coins.
+### 3. Hyperliquid (HYPE)
+- **Price:** $26.45
+- **Change:** +5.37%
+- **Analysis:** The 5.37% increase in Hyperliquid's price most likely reflects general market volatility and continued positive sentiment surrounding its growth in the decentralized exchange sector.
 
 ## Top 3 Losers (24h)
-### 1. Figure Heloc (FIGR_HELOC)
-- **Price:** $1.02
-- **Change:** -0.86%
-- **Analysis:** Figure Heloc's 0.86% price drop most likely reflects general cryptocurrency market volatility, absent any specific news for the token.
+### 1. Midnight (NIGHT)
+- **Price:** $0.09
+- **Change:** -5.47%
+- **Analysis:** Midnight's 5.47% price drop most likely reflects general cryptocurrency market volatility and recent profit-taking, rather than specific negative news for the token.
 
-### 2. MemeCore (M)
-- **Price:** $1.60
-- **Change:** -3.42%
-- **Analysis:** MemeCore's 3.42% price drop most likely reflects general cryptocurrency market volatility, as no specific news event appears to be driving its movement.
+### 2. Canton (CC)
+- **Price:** $0.15
+- **Change:** -6.67%
+- **Analysis:** Canton's 6.67% price drop most likely reflects general cryptocurrency market volatility rather than specific project news.
 
 ### 3. Provenance Blockchain (HASH)
 - **Price:** $0.03
-- **Change:** -6.44%
-- **Analysis:** The 6.44% drop in Provenance Blockchain most likely reflects general cryptocurrency market volatility, aligning with broader altcoin trends rather than specific project news.
+- **Change:** -11.48%
+- **Analysis:** The 11.48% price drop for Provenance Blockchain (HASH) most likely reflects general cryptocurrency market volatility, with no specific negative news directly impacting the project.
 
