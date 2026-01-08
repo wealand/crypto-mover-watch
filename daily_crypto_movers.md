@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-07
+# Daily Crypto Movers - 2026-01-08
 
 ## Top 3 Gainers (24h)
-### 1. Rain (RAIN)
-- **Price:** $0.01
-- **Change:** +11.15%
-- **Analysis:** The 11.15% price increase for Rain (rain) is most likely a result of general positive sentiment across the broader cryptocurrency market and typical altcoin volatility.
+### 1. LEO Token (LEO)
+- **Price:** $9.17
+- **Change:** +1.70%
+- **Analysis:** The 1.70% increase in LEO Token's price most likely reflects general positive market sentiment and volatility within the broader cryptocurrency space, without specific token-related news driving the movement.
 
-### 2. MemeCore (M)
-- **Price:** $1.66
-- **Change:** +6.39%
-- **Analysis:** MemeCore's 6.39% increase most likely reflects positive momentum across the broader cryptocurrency market, a common trend for highly volatile meme coins.
+### 2. Canton (CC)
+- **Price:** $0.14
+- **Change:** +1.30%
+- **Analysis:** The 1.30% increase in Canton (cc) most likely reflects general cryptocurrency market volatility, as no specific news or significant trends are directly influencing the asset.
 
-### 3. Hyperliquid (HYPE)
-- **Price:** $27.65
-- **Change:** +4.11%
-- **Analysis:** The 4.11% increase for Hyperliquid likely reflects a general positive sentiment in the DeFi sector, potentially boosted by ongoing anticipation for platform incentives.
+### 3. sUSDS (SUSDS)
+- **Price:** $1.09
+- **Change:** +0.89%
+- **Analysis:** The 0.89% increase in sUSDS most likely reflects general market volatility and minor trading activity, as no specific major news event has been reported.
 
 ## Top 3 Losers (24h)
-### 1. LEO Token (LEO)
-- **Price:** $9.01
-- **Change:** -2.78%
-- **Analysis:** The 2.78% decline in LEO Token likely stems from general market volatility and broader cryptocurrency market trends rather than specific news about the token itself.
+### 1. Kaspa (KAS)
+- **Price:** $0.05
+- **Change:** -8.67%
+- **Analysis:** Kaspa's price decline most likely reflects broader cryptocurrency market volatility and a general altcoin correction.
 
-### 2. Midnight (NIGHT)
-- **Price:** $0.08
-- **Change:** -5.88%
-- **Analysis:** Analysis unavailable due to error.
+### 2. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** -10.52%
+- **Analysis:** The 10.52% decline in Pump.fun's price most likely reflects a broader market correction, particularly affecting memecoins and speculative altcoins.
 
-### 3. Provenance Blockchain (HASH)
-- **Price:** $0.03
-- **Change:** -12.19%
-- **Analysis:** Analysis unavailable due to error.
+### 3. Zcash (ZEC)
+- **Price:** $441.70
+- **Change:** -10.72%
+- **Analysis:** Zcash's 10.72% price drop most likely reflects broader cryptocurrency market volatility or a general market downturn, rather than specific ZEC-related news.
 
