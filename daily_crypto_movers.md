@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-09
+# Daily Crypto Movers - 2026-01-10
 
 ## Top 3 Gainers (24h)
 ### 1. POL (ex-MATIC) (POL)
-- **Price:** $0.15
-- **Change:** +15.45%
-- **Analysis:** The price increase for POL (ex-MATIC) is most likely due to renewed investor interest surrounding the ongoing Polygon 2.0 transition to the new POL token, coupled with positive sentiment across the broader altcoin market.
+- **Price:** $0.17
+- **Change:** +14.91%
+- **Analysis:** The recent price surge for POL (Polygon) is primarily driven by the ongoing rollout of the Polygon 2.0 upgrade and the MATIC to POL token swap, which enables new staking functionalities for the token.
 
-### 2. Provenance Blockchain (HASH)
-- **Price:** $0.03
-- **Change:** +7.07%
-- **Analysis:** Absent specific news for the project, Provenance Blockchain (HASH) is likely experiencing a price increase due to general market volatility and positive trends within the broader cryptocurrency sector.
+### 2. Cosmos Hub (ATOM)
+- **Price:** $2.62
+- **Change:** +7.36%
+- **Analysis:** The 7.36% price increase for Cosmos Hub (ATOM) most likely reflects positive sentiment and an upward trend in the broader cryptocurrency market.
 
-### 3. Monero (XMR)
-- **Price:** $462.22
-- **Change:** +3.91%
-- **Analysis:** Monero's 3.91% price increase most likely reflects general positive sentiment and typical volatility across the broader cryptocurrency market, as no specific project news has been released.
+### 3. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** +4.42%
+- **Analysis:** The 4.42% increase in Pump.fun's price is most likely driven by general market volatility and an overall positive sentiment within the meme coin sector.
 
 ## Top 3 Losers (24h)
-### 1. Pepe (PEPE)
-- **Price:** $0.00
-- **Change:** -4.47%
-- **Analysis:** Pepe's price decline most likely reflects its inherent volatility as a memecoin, amplified by general fluctuations and a slight downtrend in the broader cryptocurrency market.
+### 1. Hyperliquid (HYPE)
+- **Price:** $24.30
+- **Change:** -6.20%
+- **Analysis:** The 6.20% decline in Hyperliquid (HYPE) most likely reflects general cryptocurrency market volatility and broader profit-taking across the altcoin sector.
 
-### 2. Sky (SKY)
-- **Price:** $0.06
-- **Change:** -4.75%
-- **Analysis:** Sky's price movement is most likely due to general cryptocurrency market volatility, as altcoins often follow broader market trends without specific project news driving its recent decline.
-
-### 3. Midnight (NIGHT)
+### 2. Midnight (NIGHT)
 - **Price:** $0.07
-- **Change:** -5.77%
-- **Analysis:** Midnight's 5.77% price drop most likely reflects general cryptocurrency market volatility, given no specific recent negative news impacting the project directly.
+- **Change:** -6.44%
+- **Analysis:** Midnight's 6.44% price drop most likely reflects general cryptocurrency market volatility rather than specific negative news.
+
+### 3. Zcash (ZEC)
+- **Price:** $382.93
+- **Change:** -12.81%
+- **Analysis:** The Zcash price drop most likely reflects a broader cryptocurrency market downturn and general volatility.
 
