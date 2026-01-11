@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-10
+# Daily Crypto Movers - 2026-01-11
 
 ## Top 3 Gainers (24h)
-### 1. POL (ex-MATIC) (POL)
-- **Price:** $0.17
-- **Change:** +14.91%
-- **Analysis:** The recent price surge for POL (Polygon) is primarily driven by the ongoing rollout of the Polygon 2.0 upgrade and the MATIC to POL token swap, which enables new staking functionalities for the token.
+### 1. Monero (XMR)
+- **Price:** $482.23
+- **Change:** +6.30%
+- **Analysis:** Monero's 6.30% price increase most likely reflects general positive sentiment and volatility within the broader cryptocurrency market, rather than specific Monero-related news.
 
-### 2. Cosmos Hub (ATOM)
-- **Price:** $2.62
-- **Change:** +7.36%
-- **Analysis:** The 7.36% price increase for Cosmos Hub (ATOM) most likely reflects positive sentiment and an upward trend in the broader cryptocurrency market.
+### 2. POL (ex-MATIC) (POL)
+- **Price:** $0.18
+- **Change:** +5.98%
+- **Analysis:** The 5.98% increase in POL's price most likely reflects a general positive uptrend across the broader cryptocurrency market, rather than specific project news.
 
-### 3. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** +4.42%
-- **Analysis:** The 4.42% increase in Pump.fun's price is most likely driven by general market volatility and an overall positive sentiment within the meme coin sector.
+### 3. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** +5.96%
+- **Analysis:** Rain's 5.96% price increase is likely due to general cryptocurrency market volatility, with no specific major news reported for the project.
 
 ## Top 3 Losers (24h)
-### 1. Hyperliquid (HYPE)
-- **Price:** $24.30
-- **Change:** -6.20%
-- **Analysis:** The 6.20% decline in Hyperliquid (HYPE) most likely reflects general cryptocurrency market volatility and broader profit-taking across the altcoin sector.
+### 1. Figure Heloc (FIGR_HELOC)
+- **Price:** $1.00
+- **Change:** -3.20%
+- **Analysis:** Figure Heloc's 3.20% price decline is most likely a result of general market volatility, mirroring broader cryptocurrency trends over the last 24 hours.
 
-### 2. Midnight (NIGHT)
-- **Price:** $0.07
-- **Change:** -6.44%
-- **Analysis:** Midnight's 6.44% price drop most likely reflects general cryptocurrency market volatility rather than specific negative news.
+### 2. KuCoin (KCS)
+- **Price:** $10.82
+- **Change:** -6.39%
+- **Analysis:** The decline in KCS likely stems from ongoing market concerns regarding KuCoin's recent legal and regulatory challenges in the US.
 
-### 3. Zcash (ZEC)
-- **Price:** $382.93
-- **Change:** -12.81%
-- **Analysis:** The Zcash price drop most likely reflects a broader cryptocurrency market downturn and general volatility.
+### 3. Provenance Blockchain (HASH)
+- **Price:** $0.02
+- **Change:** -6.50%
+- **Analysis:** Provenance Blockchain's (HASH) 6.50% decline is most likely due to general cryptocurrency market volatility, with no specific negative news emerging for the project.
 
