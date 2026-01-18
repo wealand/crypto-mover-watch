@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-17
+# Daily Crypto Movers - 2026-01-18
 
 ## Top 3 Gainers (24h)
-### 1. Quant (QNT)
-- **Price:** $84.99
-- **Change:** +14.33%
-- **Analysis:** Quant's price increase likely reflects a positive trend across the broader cryptocurrency market, rather than a single specific news catalyst.
-
-### 2. Provenance Blockchain (HASH)
+### 1. Provenance Blockchain (HASH)
 - **Price:** $0.03
-- **Change:** +11.20%
-- **Analysis:** The price increase for Provenance Blockchain (HASH) is most likely driven by rising market interest in real-world asset (RWA) tokenization, a primary focus of the platform.
+- **Change:** +2.82%
+- **Analysis:** Provenance Blockchain's 2.82% gain most likely follows general positive market trends and overall crypto volatility, as no specific major news for the project has been reported.
 
-### 3. Sky (SKY)
-- **Price:** $0.06
-- **Change:** +4.60%
-- **Analysis:** The 4.60% increase in Sky's price most likely reflects general market volatility and positive sentiment across the broader cryptocurrency altcoin market rather than specific project news.
+### 2. Hyperliquid (HYPE)
+- **Price:** $25.75
+- **Change:** +2.79%
+- **Analysis:** Hyperliquid's 2.79% price increase most likely reflects a general positive sentiment across the broader cryptocurrency market, especially within the decentralized finance (DeFi) sector, rather than being driven by specific project news.
+
+### 3. TRON (TRX)
+- **Price:** $0.32
+- **Change:** +1.90%
+- **Analysis:** TRON's 1.90% increase most likely reflects general cryptocurrency market volatility and broader positive market trends, with no specific major news driving the movement.
 
 ## Top 3 Losers (24h)
-### 1. Canton (CC)
-- **Price:** $0.13
-- **Change:** -4.71%
-- **Analysis:** Canton's 4.71% price drop is most likely due to general cryptocurrency market volatility, as no specific project news has been reported.
+### 1. Monero (XMR)
+- **Price:** $590.66
+- **Change:** -5.44%
+- **Analysis:** The Monero price drop most likely reflects general market volatility and a broader downturn across cryptocurrencies, rather than specific negative news directly impacting XMR.
 
-### 2. Internet Computer (ICP)
-- **Price:** $4.01
-- **Change:** -6.63%
-- **Analysis:** The ICP price drop most likely reflects general cryptocurrency market volatility and a broader market consolidation, with no specific negative news affecting the token directly.
+### 2. Canton (CC)
+- **Price:** $0.12
+- **Change:** -7.49%
+- **Analysis:** Canton (cc)'s 7.49% decline most likely reflects general volatility in the broader cryptocurrency market.
 
-### 3. Monero (XMR)
-- **Price:** $623.94
-- **Change:** -10.69%
-- **Analysis:** Monero's recent price drop most likely reflects the general bearish sentiment across the broader cryptocurrency market, compounded by ongoing regulatory pressures faced by privacy coins.
+### 3. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** -8.97%
+- **Analysis:** Pump.fun's price decline is likely due to lingering investor concerns from its recent security exploit, combined with general crypto market volatility affecting speculative assets.
 
