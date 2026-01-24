@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-23
+# Daily Crypto Movers - 2026-01-24
 
 ## Top 3 Gainers (24h)
-### 1. River (RIVER)
-- **Price:** $50.69
-- **Change:** +9.73%
-- **Analysis:** River's 9.73% price increase most likely reflects general cryptocurrency market volatility and positive sentiment, with no specific project-related news cited as a direct cause.
+### 1. Hyperliquid (HYPE)
+- **Price:** $22.88
+- **Change:** +7.05%
+- **Analysis:** The price increase for Hyperliquid (HYPE) likely reflects its continued strong performance and growing dominance within the decentralized perpetual exchange market.
 
-### 2. Rain (RAIN)
-- **Price:** $0.01
-- **Change:** +8.99%
-- **Analysis:** The 8.99% rise in Rain (RAIN) most likely reflects general market volatility and speculative trading, with no specific news driving the movement.
+### 2. MYX Finance (MYX)
+- **Price:** $6.14
+- **Change:** +6.88%
+- **Analysis:** The increase in MYX Finance's price most likely reflects general cryptocurrency market volatility rather than specific recent news.
 
-### 3. Monero (XMR)
-- **Price:** $520.07
-- **Change:** +3.49%
-- **Analysis:** Monero's 3.49% price increase is most likely due to general cryptocurrency market volatility, as no specific news has been identified to drive this particular movement.
+### 3. Canton (CC)
+- **Price:** $0.15
+- **Change:** +6.67%
+- **Analysis:** Lacking specific news, the 6.67% price increase for Canton (cc) most likely reflects general cryptocurrency market volatility.
 
 ## Top 3 Losers (24h)
-### 1. MYX Finance (MYX)
-- **Price:** $5.78
-- **Change:** -3.54%
-- **Analysis:** The 3.54% price drop for MYX Finance most likely reflects general market volatility, as no specific negative news for the project has been reported.
+### 1. TRON (TRX)
+- **Price:** $0.30
+- **Change:** -3.78%
+- **Analysis:** TRON's 3.78% price drop most likely reflects broader cryptocurrency market volatility, influenced by Bitcoin's recent consolidation and minor pullbacks.
 
-### 2. Provenance Blockchain (HASH)
-- **Price:** $0.02
-- **Change:** -4.13%
-- **Analysis:** Lacking specific negative news for Provenance Blockchain (HASH), its 4.13% decline likely mirrors general cryptocurrency market volatility.
+### 2. POL (ex-MATIC) (POL)
+- **Price:** $0.13
+- **Change:** -4.38%
+- **Analysis:** The 4.38% drop in POL most likely reflects general cryptocurrency market volatility, absent any specific negative news directly impacting the project.
 
-### 3. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** -6.29%
-- **Analysis:** The 6.29% drop in Pump.fun's price most likely reflects general market volatility, common for highly speculative assets within the meme coin sector.
+### 3. Internet Computer (ICP)
+- **Price:** $3.45
+- **Change:** -4.94%
+- **Analysis:** The Internet Computer's 4.94% price decline likely reflects general cryptocurrency market volatility and profit-taking rather than specific negative news for the project.
 
