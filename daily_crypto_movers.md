@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-24
+# Daily Crypto Movers - 2026-01-25
 
 ## Top 3 Gainers (24h)
-### 1. Hyperliquid (HYPE)
-- **Price:** $22.88
-- **Change:** +7.05%
-- **Analysis:** The price increase for Hyperliquid (HYPE) likely reflects its continued strong performance and growing dominance within the decentralized perpetual exchange market.
+### 1. River (RIVER)
+- **Price:** $58.89
+- **Change:** +18.66%
+- **Analysis:** Absent specific news for a project named "River," its 18.66% gain likely reflects general cryptocurrency market volatility and broader sentiment, common for smaller altcoins.
 
 ### 2. MYX Finance (MYX)
-- **Price:** $6.14
-- **Change:** +6.88%
-- **Analysis:** The increase in MYX Finance's price most likely reflects general cryptocurrency market volatility rather than specific recent news.
+- **Price:** $6.87
+- **Change:** +11.68%
+- **Analysis:** Given the absence of specific recent news, the 11.68% price increase for MYX Finance (myx) most likely reflects general market volatility.
 
-### 3. Canton (CC)
-- **Price:** $0.15
-- **Change:** +6.67%
-- **Analysis:** Lacking specific news, the 6.67% price increase for Canton (cc) most likely reflects general cryptocurrency market volatility.
+### 3. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** +6.25%
+- **Analysis:** Pump.fun's 6.25% gain is most likely a recovery following its recent security exploit and the subsequent arrest of the perpetrator, which has helped restore market confidence.
 
 ## Top 3 Losers (24h)
-### 1. TRON (TRX)
-- **Price:** $0.30
-- **Change:** -3.78%
-- **Analysis:** TRON's 3.78% price drop most likely reflects broader cryptocurrency market volatility, influenced by Bitcoin's recent consolidation and minor pullbacks.
+### 1. Quant (QNT)
+- **Price:** $76.04
+- **Change:** -4.36%
+- **Analysis:** Quant's 4.36% decline likely reflects general market volatility and a broader downward trend in the cryptocurrency sector, rather than specific project news.
 
-### 2. POL (ex-MATIC) (POL)
-- **Price:** $0.13
-- **Change:** -4.38%
-- **Analysis:** The 4.38% drop in POL most likely reflects general cryptocurrency market volatility, absent any specific negative news directly impacting the project.
+### 2. Monero (XMR)
+- **Price:** $491.60
+- **Change:** -5.57%
+- **Analysis:** Monero's price decline likely reflects broader market volatility, compounded by persistent regulatory uncertainty facing privacy-focused cryptocurrencies.
 
-### 3. Internet Computer (ICP)
-- **Price:** $3.45
-- **Change:** -4.94%
-- **Analysis:** The Internet Computer's 4.94% price decline likely reflects general cryptocurrency market volatility and profit-taking rather than specific negative news for the project.
+### 3. Provenance Blockchain (HASH)
+- **Price:** $0.02
+- **Change:** -9.95%
+- **Analysis:** The 9.95% decline in Provenance Blockchain (HASH) most likely reflects general cryptocurrency market volatility, with no specific negative news for the project cited.
 
