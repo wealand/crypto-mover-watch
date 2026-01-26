@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-25
+# Daily Crypto Movers - 2026-01-26
 
 ## Top 3 Gainers (24h)
 ### 1. River (RIVER)
-- **Price:** $58.89
-- **Change:** +18.66%
-- **Analysis:** Absent specific news for a project named "River," its 18.66% gain likely reflects general cryptocurrency market volatility and broader sentiment, common for smaller altcoins.
+- **Price:** $80.30
+- **Change:** +37.55%
+- **Analysis:** The 37.55% price surge for River most likely reflects general market volatility and speculative trading, given the absence of any widely reported specific news.
 
-### 2. MYX Finance (MYX)
-- **Price:** $6.87
-- **Change:** +11.68%
-- **Analysis:** Given the absence of specific recent news, the 11.68% price increase for MYX Finance (myx) most likely reflects general market volatility.
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.02
+- **Change:** +2.61%
+- **Analysis:** Provenance Blockchain (HASH) is likely mirroring the broader positive trend currently observed across the cryptocurrency market.
 
-### 3. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** +6.25%
-- **Analysis:** Pump.fun's 6.25% gain is most likely a recovery following its recent security exploit and the subsequent arrest of the perpetrator, which has helped restore market confidence.
+### 3. Algorand (ALGO)
+- **Price:** $0.12
+- **Change:** +1.55%
+- **Analysis:** Algorand's 1.55% increase most likely reflects general positive sentiment and volatility within the broader cryptocurrency market rather than specific recent project news.
 
 ## Top 3 Losers (24h)
-### 1. Quant (QNT)
-- **Price:** $76.04
-- **Change:** -4.36%
-- **Analysis:** Quant's 4.36% decline likely reflects general market volatility and a broader downward trend in the cryptocurrency sector, rather than specific project news.
+### 1. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** -5.21%
+- **Analysis:** Pump.fun's price decline is most likely due to continued market reaction following the recent exploit by a former employee.
 
-### 2. Monero (XMR)
-- **Price:** $491.60
-- **Change:** -5.57%
-- **Analysis:** Monero's price decline likely reflects broader market volatility, compounded by persistent regulatory uncertainty facing privacy-focused cryptocurrencies.
+### 2. World Liberty Financial (WLFI)
+- **Price:** $0.16
+- **Change:** -6.07%
+- **Analysis:** The 6.07% drop in World Liberty Financial (WLFI) likely reflects general market volatility, as there is no specific recent news directly attributed to this movement.
 
-### 3. Provenance Blockchain (HASH)
-- **Price:** $0.02
-- **Change:** -9.95%
-- **Analysis:** The 9.95% decline in Provenance Blockchain (HASH) most likely reflects general cryptocurrency market volatility, with no specific negative news for the project cited.
+### 3. MYX Finance (MYX)
+- **Price:** $5.86
+- **Change:** -14.85%
+- **Analysis:** The 14.85% drop in MYX Finance (myx) most likely reflects general cryptocurrency market volatility, rather than specific project news.
 
