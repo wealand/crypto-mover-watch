@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-28
+# Daily Crypto Movers - 2026-01-29
 
 ## Top 3 Gainers (24h)
-### 1. Hyperliquid (HYPE)
-- **Price:** $34.22
-- **Change:** +23.94%
-- **Analysis:** The price surge for Hyperliquid (HYPE) is most likely due to its continued strong performance and growing trading volume as a leading decentralized perpetual exchange, attracting speculative interest amidst a generally bullish altcoin market.
+### 1. Worldcoin (WLD)
+- **Price:** $0.51
+- **Change:** +11.37%
+- **Analysis:** Worldcoin's recent price increase is most likely due to positive developments regarding its regulatory status in European markets, including the recent lifting of a temporary ban on its operations in Spain.
 
-### 2. Quant (QNT)
-- **Price:** $79.58
-- **Change:** +8.69%
-- **Analysis:** The price increase for Quant (QNT) most likely reflects positive sentiment and general volatility within the broader cryptocurrency market, aligning with Bitcoin's recent movements, as no major specific project news has been widely reported.
+### 2. PAX Gold (PAXG)
+- **Price:** $5555.86
+- **Change:** +4.68%
+- **Analysis:** PAX Gold's increase is most likely due to the recent strong rally in the price of physical gold, which has been hitting new all-time highs driven by safe-haven demand amidst global economic uncertainty and expectations of future interest rate cuts.
 
-### 3. Aster (ASTER)
-- **Price:** $0.71
-- **Change:** +7.31%
-- **Analysis:** Aster's 7.31% price increase most likely reflects general cryptocurrency market trends and volatility, as there is no specific recent news driving its independent surge.
+### 3. Tether Gold (XAUT)
+- **Price:** $5538.21
+- **Change:** +4.48%
+- **Analysis:** The price surge for Tether Gold (XAUT) most likely reflects an increased demand for physical gold as a safe-haven asset, driven by ongoing geopolitical tensions and persistent inflation concerns.
 
 ## Top 3 Losers (24h)
-### 1. Rain (RAIN)
-- **Price:** $0.01
-- **Change:** -4.71%
-- **Analysis:** The 4.71% decline in Rain (rain) is most likely due to general market volatility affecting altcoins, without specific project-related news driving the movement.
+### 1. Zcash (ZEC)
+- **Price:** $364.68
+- **Change:** -7.06%
+- **Analysis:** The 7.06% drop in Zcash is most likely a reflection of general cryptocurrency market volatility, rather than specific ZEC-related news.
 
-### 2. Provenance Blockchain (HASH)
-- **Price:** $0.03
-- **Change:** -7.01%
-- **Analysis:** The 7.01% drop for Provenance Blockchain (hash) most likely mirrors general cryptocurrency market volatility, influenced by ongoing macroeconomic concerns and a broader risk-off sentiment.
+### 2. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** -7.47%
+- **Analysis:** The decline in Pump.fun's price is most likely attributed to general market volatility and a broader trend of consolidation in the cryptocurrency sector.
 
 ### 3. River (RIVER)
-- **Price:** $56.21
-- **Change:** -9.83%
-- **Analysis:** With no specific news related to River, its 9.83% drop most likely reflects general cryptocurrency market volatility and broader altcoin trends.
+- **Price:** $49.76
+- **Change:** -10.24%
+- **Analysis:** The 10.24% decline for the cryptocurrency River (river) most likely reflects general market volatility, as no specific news or developments related to the project have been reported.
 
