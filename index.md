@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-29
+# Daily Crypto Movers - 2026-01-30
 
 ## Top 3 Gainers (24h)
-### 1. Worldcoin (WLD)
-- **Price:** $0.51
-- **Change:** +11.37%
-- **Analysis:** Worldcoin's recent price increase is most likely due to positive developments regarding its regulatory status in European markets, including the recent lifting of a temporary ban on its operations in Spain.
+### 1. Canton (CC)
+- **Price:** $0.18
+- **Change:** +9.67%
+- **Analysis:** The rise in Canton's price most likely reflects general cryptocurrency market volatility, absent any specific project news.
 
-### 2. PAX Gold (PAXG)
-- **Price:** $5555.86
-- **Change:** +4.68%
-- **Analysis:** PAX Gold's increase is most likely due to the recent strong rally in the price of physical gold, which has been hitting new all-time highs driven by safe-haven demand amidst global economic uncertainty and expectations of future interest rate cuts.
+### 2. Figure Heloc (FIGR_HELOC)
+- **Price:** $1.04
+- **Change:** +1.34%
+- **Analysis:** Figure Heloc's 1.34% price increase likely reflects general market volatility and a slightly positive trend across the broader cryptocurrency market, without any specific coin-related news driving the movement.
 
-### 3. Tether Gold (XAUT)
-- **Price:** $5538.21
-- **Change:** +4.48%
-- **Analysis:** The price surge for Tether Gold (XAUT) most likely reflects an increased demand for physical gold as a safe-haven asset, driven by ongoing geopolitical tensions and persistent inflation concerns.
+### 3. LEO Token (LEO)
+- **Price:** $9.22
+- **Change:** +0.27%
+- **Analysis:** The minor 0.27% increase for LEO Token is most likely due to general market volatility rather than specific news.
 
 ## Top 3 Losers (24h)
-### 1. Zcash (ZEC)
-- **Price:** $364.68
-- **Change:** -7.06%
-- **Analysis:** The 7.06% drop in Zcash is most likely a reflection of general cryptocurrency market volatility, rather than specific ZEC-related news.
+### 1. Hyperliquid (HYPE)
+- **Price:** $29.30
+- **Change:** -9.89%
+- **Analysis:** Hyperliquid's 9.89% price drop likely reflects general cryptocurrency market volatility and a broader downward trend.
 
-### 2. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** -7.47%
-- **Analysis:** The decline in Pump.fun's price is most likely attributed to general market volatility and a broader trend of consolidation in the cryptocurrency sector.
+### 2. Worldcoin (WLD)
+- **Price:** $0.46
+- **Change:** -10.76%
+- **Analysis:** The decline in Worldcoin's price is most likely attributed to the recent order from Portugal's data regulator for the project to halt biometric data collection.
 
-### 3. River (RIVER)
-- **Price:** $49.76
-- **Change:** -10.24%
-- **Analysis:** The 10.24% decline for the cryptocurrency River (river) most likely reflects general market volatility, as no specific news or developments related to the project have been reported.
+### 3. Mantle (MNT)
+- **Price:** $0.79
+- **Change:** -11.52%
+- **Analysis:** Mantle's 11.52% decline likely reflects general cryptocurrency market volatility and recent profit-taking, as no specific negative news unique to Mantle has emerged.
 
