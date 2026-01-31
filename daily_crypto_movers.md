@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-01-30
+# Daily Crypto Movers - 2026-01-31
 
 ## Top 3 Gainers (24h)
-### 1. Canton (CC)
-- **Price:** $0.18
-- **Change:** +9.67%
-- **Analysis:** The rise in Canton's price most likely reflects general cryptocurrency market volatility, absent any specific project news.
+### 1. Monero (XMR)
+- **Price:** $497.48
+- **Change:** +12.74%
+- **Analysis:** Monero's price increase likely reflects general market volatility and positive momentum observed across the broader cryptocurrency sector.
 
-### 2. Figure Heloc (FIGR_HELOC)
-- **Price:** $1.04
-- **Change:** +1.34%
-- **Analysis:** Figure Heloc's 1.34% price increase likely reflects general market volatility and a slightly positive trend across the broader cryptocurrency market, without any specific coin-related news driving the movement.
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.03
+- **Change:** +8.96%
+- **Analysis:** The price increase for Provenance Blockchain (HASH) most likely reflects general cryptocurrency market optimism and growing interest in specialized financial blockchain solutions, rather than specific recent news.
 
-### 3. LEO Token (LEO)
-- **Price:** $9.22
-- **Change:** +0.27%
-- **Analysis:** The minor 0.27% increase for LEO Token is most likely due to general market volatility rather than specific news.
+### 3. Canton (CC)
+- **Price:** $0.19
+- **Change:** +5.85%
+- **Analysis:** Canton's 5.85% price increase most likely reflects general cryptocurrency market volatility, as no specific news catalysts for the project have been reported.
 
 ## Top 3 Losers (24h)
-### 1. Hyperliquid (HYPE)
-- **Price:** $29.30
-- **Change:** -9.89%
-- **Analysis:** Hyperliquid's 9.89% price drop likely reflects general cryptocurrency market volatility and a broader downward trend.
+### 1. MYX Finance (MYX)
+- **Price:** $5.30
+- **Change:** -4.94%
+- **Analysis:** The 4.94% decline in MYX Finance is most likely due to general cryptocurrency market volatility, with no specific news driving the movement.
 
-### 2. Worldcoin (WLD)
-- **Price:** $0.46
-- **Change:** -10.76%
-- **Analysis:** The decline in Worldcoin's price is most likely attributed to the recent order from Portugal's data regulator for the project to halt biometric data collection.
+### 2. MemeCore (M)
+- **Price:** $1.41
+- **Change:** -5.05%
+- **Analysis:** The 5.05% drop in MemeCore's price most likely reflects general market volatility and broader cryptocurrency trends, as there is no specific news currently driving its movement.
 
-### 3. Mantle (MNT)
-- **Price:** $0.79
-- **Change:** -11.52%
-- **Analysis:** Mantle's 11.52% decline likely reflects general cryptocurrency market volatility and recent profit-taking, as no specific negative news unique to Mantle has emerged.
+### 3. Aster (ASTER)
+- **Price:** $0.58
+- **Change:** -5.93%
+- **Analysis:** Aster's 5.93% price drop most likely reflects general cryptocurrency market volatility, as there is no specific recent news directly impacting the project.
 
