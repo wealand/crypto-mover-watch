@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-02
+# Daily Crypto Movers - 2026-02-03
 
 ## Top 3 Gainers (24h)
-### 1. MYX Finance (MYX)
-- **Price:** $5.60
-- **Change:** +10.42%
-- **Analysis:** Absent specific news, MYX Finance's 10.42% price surge most likely reflects general market volatility and speculative interest common in smaller-cap cryptocurrencies.
+### 1. Hyperliquid (HYPE)
+- **Price:** $37.53
+- **Change:** +21.93%
+- **Analysis:** The surge in Hyperliquid's price is most likely driven by increased user engagement and speculative interest surrounding its points program for a future token airdrop, alongside recent integrations like with Blast L2.
 
-### 2. MemeCore (M)
-- **Price:** $1.34
-- **Change:** +8.73%
-- **Analysis:** MemeCore's 8.73% price increase likely reflects a general uplift in meme coin market sentiment and broader cryptocurrency volatility, rather than specific project news.
+### 2. Kinetiq Staked HYPE (KHYPE)
+- **Price:** $37.91
+- **Change:** +21.82%
+- **Analysis:** The price increase for Kinetiq Staked HYPE (khype) most likely reflects general market volatility and positive sentiment within the broader cryptocurrency market, as no specific news has been identified.
 
-### 3. Canton (CC)
-- **Price:** $0.18
-- **Change:** +3.43%
-- **Analysis:** Without specific new developments, Canton's 3.43% price increase most likely reflects general market volatility within the cryptocurrency space.
+### 3. POL (ex-MATIC) (POL)
+- **Price:** $0.12
+- **Change:** +13.54%
+- **Analysis:** POL's 13.54% price increase most likely reflects general market volatility and broader positive sentiment across the cryptocurrency landscape, in the absence of specific news directly impacting the token.
 
 ## Top 3 Losers (24h)
-### 1. Wrapped stETH (WSTETH)
-- **Price:** $2747.46
-- **Change:** -7.43%
-- **Analysis:** The decline in Wrapped stETH (wsteth) most likely reflects a broader downturn in the cryptocurrency market, particularly impacting Ethereum (ETH).
+### 1. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** -1.17%
+- **Analysis:** Rain's 1.17% price drop most likely reflects general market volatility rather than specific news directly impacting the token.
 
-### 2. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** -7.70%
-- **Analysis:** Pump.fun's price decline is most likely due to the recent security exploit and the subsequent arrest of an employee, damaging investor confidence.
+### 2. Zcash (ZEC)
+- **Price:** $291.04
+- **Change:** -2.42%
+- **Analysis:** The decline in Zcash's price most likely reflects general cryptocurrency market volatility, rather than specific news related to ZEC.
 
 ### 3. Monero (XMR)
-- **Price:** $394.29
-- **Change:** -8.00%
-- **Analysis:** The decline in Monero's price likely follows general cryptocurrency market volatility, without specific XMR-related news driving the movement.
+- **Price:** $376.74
+- **Change:** -4.48%
+- **Analysis:** The 4.48% decline in Monero's price most likely reflects general cryptocurrency market volatility and broader investor sentiment, in the absence of specific XMR-related news driving the movement.
 
