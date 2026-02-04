@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-03
+# Daily Crypto Movers - 2026-02-04
 
 ## Top 3 Gainers (24h)
-### 1. Hyperliquid (HYPE)
-- **Price:** $37.53
-- **Change:** +21.93%
-- **Analysis:** The surge in Hyperliquid's price is most likely driven by increased user engagement and speculative interest surrounding its points program for a future token airdrop, alongside recent integrations like with Blast L2.
+### 1. World Liberty Financial (WLFI)
+- **Price:** $0.14
+- **Change:** +4.47%
+- **Analysis:** Without specific news driving the change, World Liberty Financial's price movement is most likely a result of general market volatility common among smaller cryptocurrencies.
 
-### 2. Kinetiq Staked HYPE (KHYPE)
-- **Price:** $37.91
-- **Change:** +21.82%
-- **Analysis:** The price increase for Kinetiq Staked HYPE (khype) most likely reflects general market volatility and positive sentiment within the broader cryptocurrency market, as no specific news has been identified.
+### 2. Cosmos Hub (ATOM)
+- **Price:** $2.08
+- **Change:** +3.92%
+- **Analysis:** The 3.92% price increase for Cosmos Hub (ATOM) most likely reflects general cryptocurrency market volatility and minor positive sentiment rather than a specific recent news event.
 
-### 3. POL (ex-MATIC) (POL)
-- **Price:** $0.12
-- **Change:** +13.54%
-- **Analysis:** POL's 13.54% price increase most likely reflects general market volatility and broader positive sentiment across the cryptocurrency landscape, in the absence of specific news directly impacting the token.
+### 3. WhiteBIT Coin (WBT)
+- **Price:** $53.41
+- **Change:** +3.55%
+- **Analysis:** The 3.55% increase in WhiteBIT Coin (WBT) likely reflects general positive sentiment in the broader cryptocurrency market or recent developments within the WhiteBIT exchange platform.
 
 ## Top 3 Losers (24h)
-### 1. Rain (RAIN)
-- **Price:** $0.01
-- **Change:** -1.17%
-- **Analysis:** Rain's 1.17% price drop most likely reflects general market volatility rather than specific news directly impacting the token.
+### 1. Canton (CC)
+- **Price:** $0.18
+- **Change:** -8.20%
+- **Analysis:** With no specific news regarding Canton (cc), its 8.20% price drop most likely follows general cryptocurrency market volatility.
 
-### 2. Zcash (ZEC)
-- **Price:** $291.04
-- **Change:** -2.42%
-- **Analysis:** The decline in Zcash's price most likely reflects general cryptocurrency market volatility, rather than specific news related to ZEC.
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.02
+- **Change:** -9.34%
+- **Analysis:** The 9.34% drop in Provenance Blockchain (HASH) most likely reflects general cryptocurrency market volatility and recent broader market corrections.
 
-### 3. Monero (XMR)
-- **Price:** $376.74
-- **Change:** -4.48%
-- **Analysis:** The 4.48% decline in Monero's price most likely reflects general cryptocurrency market volatility and broader investor sentiment, in the absence of specific XMR-related news driving the movement.
+### 3. Hyperliquid (HYPE)
+- **Price:** $33.06
+- **Change:** -11.91%
+- **Analysis:** The price drop in Hyperliquid (hype) likely reflects general market volatility and a broader cryptocurrency market correction, as no specific negative news regarding the platform has been reported.
 
