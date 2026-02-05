@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-04
+# Daily Crypto Movers - 2026-02-05
 
 ## Top 3 Gainers (24h)
-### 1. World Liberty Financial (WLFI)
-- **Price:** $0.14
-- **Change:** +4.47%
-- **Analysis:** Without specific news driving the change, World Liberty Financial's price movement is most likely a result of general market volatility common among smaller cryptocurrencies.
+### 1. Hyperliquid (HYPE)
+- **Price:** $34.99
+- **Change:** +5.60%
+- **Analysis:** Hyperliquid's 5.60% gain is most likely due to general market volatility and positive sentiment across the broader cryptocurrency sector, absent specific project news driving the move.
 
-### 2. Cosmos Hub (ATOM)
-- **Price:** $2.08
-- **Change:** +3.92%
-- **Analysis:** The 3.92% price increase for Cosmos Hub (ATOM) most likely reflects general cryptocurrency market volatility and minor positive sentiment rather than a specific recent news event.
+### 2. MYX Finance (MYX)
+- **Price:** $6.06
+- **Change:** +2.97%
+- **Analysis:** MYX Finance's 2.97% price increase most likely reflects general cryptocurrency market volatility rather than a specific news event.
 
-### 3. WhiteBIT Coin (WBT)
-- **Price:** $53.41
-- **Change:** +3.55%
-- **Analysis:** The 3.55% increase in WhiteBIT Coin (WBT) likely reflects general positive sentiment in the broader cryptocurrency market or recent developments within the WhiteBIT exchange platform.
+### 3. MemeCore (M)
+- **Price:** $1.50
+- **Change:** +2.34%
+- **Analysis:** The 2.34% price increase for MemeCore most likely follows general market volatility, as there is no specific news driving the movement.
 
 ## Top 3 Losers (24h)
-### 1. Canton (CC)
-- **Price:** $0.18
-- **Change:** -8.20%
-- **Analysis:** With no specific news regarding Canton (cc), its 8.20% price drop most likely follows general cryptocurrency market volatility.
+### 1. Morpho (MORPHO)
+- **Price:** $1.18
+- **Change:** -9.83%
+- **Analysis:** The 9.83% drop in Morpho's price most likely reflects general market volatility and broader downward pressure across the cryptocurrency sector, as no specific negative news for the project has been reported.
 
-### 2. Provenance Blockchain (HASH)
-- **Price:** $0.02
-- **Change:** -9.34%
-- **Analysis:** The 9.34% drop in Provenance Blockchain (HASH) most likely reflects general cryptocurrency market volatility and recent broader market corrections.
+### 2. XRP (XRP)
+- **Price:** $1.44
+- **Change:** -10.36%
+- **Analysis:** XRP's price drop most likely reflects a broader cryptocurrency market pullback, following general market volatility and profit-taking in the altcoin sector.
 
-### 3. Hyperliquid (HYPE)
-- **Price:** $33.06
-- **Change:** -11.91%
-- **Analysis:** The price drop in Hyperliquid (hype) likely reflects general market volatility and a broader cryptocurrency market correction, as no specific negative news regarding the platform has been reported.
+### 3. Zcash (ZEC)
+- **Price:** $247.42
+- **Change:** -11.59%
+- **Analysis:** The Zcash price decline most likely reflects broader cryptocurrency market volatility and a general altcoin pullback rather than specific project news.
 
