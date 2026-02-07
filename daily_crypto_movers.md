@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-06
+# Daily Crypto Movers - 2026-02-07
 
 ## Top 3 Gainers (24h)
-### 1. MYX Finance (MYX)
-- **Price:** $6.50
-- **Change:** +7.27%
-- **Analysis:** MYX Finance's 7.27% gain is most likely due to general cryptocurrency market volatility, given the absence of specific project news.
+### 1. LEO Token (LEO)
+- **Price:** $7.82
+- **Change:** +17.59%
+- **Analysis:** The most likely reason for LEO Token's surge is the recent successful completion of the iFinex shareholder redemption program, which involved the burning of LEO tokens and reduced its supply.
 
-### 2. MemeCore (M)
-- **Price:** $1.56
-- **Change:** +4.20%
-- **Analysis:** MemeCore's 4.20% gain most likely reflects general cryptocurrency market volatility and speculative interest common for meme coins, given the lack of specific news.
+### 2. Midnight (NIGHT)
+- **Price:** $0.05
+- **Change:** +15.89%
+- **Analysis:** The 15.89% increase in Midnight (night) most likely reflects general market volatility and speculative interest common in smaller altcoins, as no specific major news has been widely reported.
 
-### 3. Figure Heloc (FIGR_HELOC)
-- **Price:** $1.03
-- **Change:** +2.91%
-- **Analysis:** Absent any specific project news, Figure Heloc's 2.91% increase most likely reflects general cryptocurrency market volatility and broader positive sentiment.
+### 3. Worldcoin (WLD)
+- **Price:** $0.40
+- **Change:** +14.54%
+- **Analysis:** The increase is most likely driven by sustained investor interest in AI-related cryptocurrencies, amplified by its association with OpenAI CEO Sam Altman.
 
 ## Top 3 Losers (24h)
-### 1. Jupiter (JUP)
-- **Price:** $0.16
-- **Change:** -17.32%
-- **Analysis:** The most likely reason for Jupiter's price drop is the recent unlock of a substantial amount of team and strategic investor tokens, increasing supply and selling pressure.
+### 1. A7A5 (A7A5)
+- **Price:** $0.01
+- **Change:** -0.61%
+- **Analysis:** The 0.61% decline in A7A5's price over the past 24 hours is most likely a reflection of general market volatility.
 
-### 2. LEO Token (LEO)
-- **Price:** $6.69
-- **Change:** -17.38%
-- **Analysis:** The LEO Token's price decline most likely reflects broader cryptocurrency market volatility, as there is no specific negative news directly affecting the token.
+### 2. POL (ex-MATIC) (POL)
+- **Price:** $0.10
+- **Change:** -2.45%
+- **Analysis:** The 2.45% decline in POL (ex-MATIC) likely reflects general market volatility and a slight downturn in the broader cryptocurrency market.
 
-### 3. Official Trump (TRUMP)
-- **Price:** $3.24
-- **Change:** -21.05%
-- **Analysis:** The drop in Official Trump (trump) price most likely reflects market reaction to Donald Trump's conviction on all 34 counts in his New York criminal trial.
+### 3. World Liberty Financial (WLFI)
+- **Price:** $0.10
+- **Change:** -6.65%
+- **Analysis:** The 6.65% price drop for World Liberty Financial (wlfi) is most likely a reflection of general cryptocurrency market volatility, with no specific project-related news cited for the decline.
 
