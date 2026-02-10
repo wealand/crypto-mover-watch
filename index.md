@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-09
+# Daily Crypto Movers - 2026-02-10
 
 ## Top 3 Gainers (24h)
-### 1. World Liberty Financial (WLFI)
-- **Price:** $0.11
-- **Change:** +8.25%
-- **Analysis:** The most likely reason for World Liberty Financial's (WLFI) 8.25% increase is general market volatility, as no specific recent news appears to be driving the movement.
+### 1. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** +18.89%
+- **Analysis:** Rain's 18.89% price increase is most likely due to general market volatility, as no specific news has been reported.
 
 ### 2. Aster (ASTER)
-- **Price:** $0.61
-- **Change:** +2.57%
-- **Analysis:** The 2.57% increase in Aster's price most likely reflects general positive sentiment in the broader cryptocurrency market and typical market volatility.
+- **Price:** $0.65
+- **Change:** +5.46%
+- **Analysis:** Aster's 5.46% price increase is most likely influenced by a general positive sentiment in the broader cryptocurrency market, coupled with sustained interest in the Polkadot ecosystem and Web3 infrastructure.
 
-### 3. Hyperliquid (HYPE)
-- **Price:** $32.24
-- **Change:** +2.35%
-- **Analysis:** Hyperliquid's 2.35% gain most likely reflects general positive sentiment in the broader cryptocurrency market and typical altcoin volatility, as no specific news event appears to be the direct cause.
+### 3. Quant (QNT)
+- **Price:** $68.30
+- **Change:** +4.40%
+- **Analysis:** The 4.40% increase in Quant's price is most likely a reflection of general positive sentiment in the broader cryptocurrency market, with no distinct QNT-specific news driving the move.
 
 ## Top 3 Losers (24h)
-### 1. Filecoin (FIL)
-- **Price:** $0.92
-- **Change:** -5.68%
-- **Analysis:** The Filecoin (FIL) price drop most likely reflects general cryptocurrency market volatility, aligning with broader market trends rather than specific project news.
+### 1. Jupiter (JUP)
+- **Price:** $0.15
+- **Change:** -5.53%
+- **Analysis:** Jupiter's 5.53% decline most likely reflects general market volatility and a slight consolidation seen across the broader cryptocurrency market, absent any specific project news.
 
-### 2. Ethena (ENA)
-- **Price:** $0.12
-- **Change:** -5.96%
-- **Analysis:** Ethena's price decline most likely reflects general cryptocurrency market volatility and a broader altcoin correction rather than specific project-related news.
+### 2. MYX Finance (MYX)
+- **Price:** $6.04
+- **Change:** -5.87%
+- **Analysis:** The 5.87% drop in MYX Finance (myx) is most likely a result of general cryptocurrency market volatility, as no specific negative news has been reported for the project.
 
-### 3. Ondo (ONDO)
-- **Price:** $0.25
-- **Change:** -6.54%
-- **Analysis:** Ondo's 6.54% drop likely reflects general cryptocurrency market volatility and a broader altcoin pullback following recent consolidations in Bitcoin and Ethereum.
+### 3. Hyperliquid (HYPE)
+- **Price:** $29.93
+- **Change:** -7.24%
+- **Analysis:** The decline in Hyperliquid (HYPE) most likely reflects general crypto market volatility and broader consolidation.
 
