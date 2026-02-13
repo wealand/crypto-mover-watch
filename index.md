@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-12
+# Daily Crypto Movers - 2026-02-13
 
 ## Top 3 Gainers (24h)
-### 1. Aster (ASTER)
-- **Price:** $0.70
-- **Change:** +8.21%
-- **Analysis:** The 8.21% price increase for Aster (aster) most likely reflects general market volatility rather than specific news.
+### 1. pippin (PIPPIN)
+- **Price:** $0.51
+- **Change:** +6.71%
+- **Analysis:** The pippin cryptocurrency's 6.71% increase likely reflects general market volatility, potentially boosted by broader positive sentiment within the altcoin space rather than specific news.
 
-### 2. pippin (PIPPIN)
-- **Price:** $0.48
-- **Change:** +7.05%
-- **Analysis:** The 7.05% increase in pippin's price most likely follows general market volatility, as there is no specific recent news driving the movement for this cryptocurrency.
+### 2. Pi Network (PI)
+- **Price:** $0.14
+- **Change:** +6.54%
+- **Analysis:** The Pi Network's price increase is most likely due to speculative trading on unofficial exchange listings and broader market volatility, as the project remains in its enclosed mainnet phase without an official public trading market.
 
-### 3. VeChain (VET)
-- **Price:** $0.01
-- **Change:** +6.91%
-- **Analysis:** VeChain's 6.91% increase most likely reflects general positive sentiment in the broader cryptocurrency market, as no specific news has been announced for the project.
+### 3. POL (ex-MATIC) (POL)
+- **Price:** $0.10
+- **Change:** +5.74%
+- **Analysis:** POL's price appreciation is likely driven by the ongoing Polygon 2.0 ecosystem transition and increasing anticipation for the new POL token's unified utility.
 
 ## Top 3 Losers (24h)
-### 1. Provenance Blockchain (HASH)
-- **Price:** $0.02
-- **Change:** -2.09%
-- **Analysis:** The 2.09% price drop for Provenance Blockchain (HASH) most likely reflects general cryptocurrency market volatility and current investor sentiment, rather than specific project news.
+### 1. Internet Computer (ICP)
+- **Price:** $2.30
+- **Change:** -4.20%
+- **Analysis:** The price movement most likely reflects general cryptocurrency market volatility rather than specific ICP-related news.
 
-### 2. Rain (RAIN)
-- **Price:** $0.01
-- **Change:** -5.61%
-- **Analysis:** Absent any specific news for Rain, its 5.61% price drop most likely reflects general market volatility and profit-taking seen across the broader cryptocurrency sector.
+### 2. Canton (CC)
+- **Price:** $0.16
+- **Change:** -4.49%
+- **Analysis:** Canton's 4.49% price drop most likely reflects general cryptocurrency market volatility, as no specific news directly impacting it has been reported.
 
 ### 3. MYX Finance (MYX)
-- **Price:** $3.25
-- **Change:** -38.95%
-- **Analysis:** The significant price drop for MYX Finance is most likely due to an apparent rug pull where developers drained liquidity, collapsing its value.
+- **Price:** $2.96
+- **Change:** -8.65%
+- **Analysis:** The decline in MYX Finance's price is most likely a reflection of general cryptocurrency market volatility, rather than specific project news.
 
