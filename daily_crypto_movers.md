@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-13
+# Daily Crypto Movers - 2026-02-14
 
 ## Top 3 Gainers (24h)
-### 1. pippin (PIPPIN)
-- **Price:** $0.51
-- **Change:** +6.71%
-- **Analysis:** The pippin cryptocurrency's 6.71% increase likely reflects general market volatility, potentially boosted by broader positive sentiment within the altcoin space rather than specific news.
+### 1. Bittensor (TAO)
+- **Price:** $199.87
+- **Change:** +28.82%
+- **Analysis:** The significant increase in Bittensor (TAO) is most likely driven by the continued strong market narrative and investor interest in AI-related cryptocurrencies.
 
-### 2. Pi Network (PI)
-- **Price:** $0.14
-- **Change:** +6.54%
-- **Analysis:** The Pi Network's price increase is most likely due to speculative trading on unofficial exchange listings and broader market volatility, as the project remains in its enclosed mainnet phase without an official public trading market.
+### 2. Zcash (ZEC)
+- **Price:** $286.85
+- **Change:** +23.96%
+- **Analysis:** Zcash's 23.96% price surge is most likely a market reaction to its recent third halving event, which reduces the rate of new coin issuance.
 
-### 3. POL (ex-MATIC) (POL)
-- **Price:** $0.10
-- **Change:** +5.74%
-- **Analysis:** POL's price appreciation is likely driven by the ongoing Polygon 2.0 ecosystem transition and increasing anticipation for the new POL token's unified utility.
+### 3. Dash (DASH)
+- **Price:** $39.62
+- **Change:** +15.24%
+- **Analysis:** Dash's price increase likely reflects the broader bullish sentiment across the cryptocurrency market and renewed interest in altcoins, rather than specific recent news for the project.
 
 ## Top 3 Losers (24h)
-### 1. Internet Computer (ICP)
-- **Price:** $2.30
-- **Change:** -4.20%
-- **Analysis:** The price movement most likely reflects general cryptocurrency market volatility rather than specific ICP-related news.
+### 1. Figure Heloc (FIGR_HELOC)
+- **Price:** $1.03
+- **Change:** -0.68%
+- **Analysis:** Figure Heloc's 0.68% decline most likely reflects general market volatility, as no significant specific news explains such a minor movement.
 
-### 2. Canton (CC)
-- **Price:** $0.16
-- **Change:** -4.49%
-- **Analysis:** Canton's 4.49% price drop most likely reflects general cryptocurrency market volatility, as no specific news directly impacting it has been reported.
+### 2. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** -1.06%
+- **Analysis:** The 1.06% drop in Rain's price most likely reflects general cryptocurrency market volatility, as there is no specific news event directly impacting Rain within the last 24 hours.
 
-### 3. MYX Finance (MYX)
-- **Price:** $2.96
-- **Change:** -8.65%
-- **Analysis:** The decline in MYX Finance's price is most likely a reflection of general cryptocurrency market volatility, rather than specific project news.
+### 3. MemeCore (M)
+- **Price:** $1.39
+- **Change:** -2.88%
+- **Analysis:** MemeCore's 2.88% price drop most likely reflects general cryptocurrency market volatility rather than any specific news.
 
