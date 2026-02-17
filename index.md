@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-16
+# Daily Crypto Movers - 2026-02-17
 
 ## Top 3 Gainers (24h)
-### 1. ​​Stable (STABLE)
+### 1. MemeCore (M)
+- **Price:** $1.47
+- **Change:** +13.70%
+- **Analysis:** Without specific news, MemeCore's 13.70% price increase most likely reflects general market volatility common to the broader cryptocurrency sector.
+
+### 2. ​​Stable (STABLE)
 - **Price:** $0.03
-- **Change:** +18.41%
-- **Analysis:** The cryptocurrency Stable's 18.41% increase likely reflects general market volatility and speculative trading, in the absence of specific project-related news driving the surge.
+- **Change:** +10.18%
+- **Analysis:** The 10.18% surge in the stablecoin Stable most likely indicates a significant temporary de-pegging event, signaling an unusual supply and demand imbalance that pushed its price above its intended peg.
 
-### 2. pippin (PIPPIN)
-- **Price:** $0.71
-- **Change:** +4.49%
-- **Analysis:** As 'pippin' is not a recognized cryptocurrency, its 4.49% increase most likely reflects general market volatility.
-
-### 3. LEO Token (LEO)
-- **Price:** $8.50
-- **Change:** +1.08%
-- **Analysis:** LEO Token's 1.08% increase most likely reflects general market volatility and minor positive sentiment within the broader cryptocurrency market, as no significant project-specific news has been reported.
+### 3. NEXO (NEXO)
+- **Price:** $0.89
+- **Change:** +6.38%
+- **Analysis:** NEXO's 6.38% increase most likely reflects a general positive trend across the broader cryptocurrency market, rather than specific project news.
 
 ## Top 3 Losers (24h)
-### 1. Dogecoin (DOGE)
-- **Price:** $0.10
-- **Change:** -10.12%
-- **Analysis:** Dogecoin's decline likely reflects a broader cryptocurrency market pullback, driven by profit-taking after recent gains and general consolidation.
+### 1. Provenance Blockchain (HASH)
+- **Price:** $0.02
+- **Change:** -3.80%
+- **Analysis:** Provenance Blockchain's 3.80% price drop most likely reflects general market volatility rather than specific news for the project.
 
-### 2. XRP (XRP)
-- **Price:** $1.47
-- **Change:** -10.21%
-- **Analysis:** XRP's 10.21% price drop is most likely due to broader cryptocurrency market corrections and general altcoin volatility.
+### 2. Official Trump (TRUMP)
+- **Price:** $3.37
+- **Change:** -4.55%
+- **Analysis:** The Official Trump (TRUMP) cryptocurrency's 4.55% decline is most likely due to general market volatility and speculative trading common for political memecoins, absent specific negative news.
 
-### 3. Pi Network (PI)
-- **Price:** $0.17
-- **Change:** -12.73%
-- **Analysis:** The price drop likely reflects high volatility in its speculative IOU markets, as Pi Network is not yet officially launched or traded on major exchanges.
+### 3. pippin (PIPPIN)
+- **Price:** $0.64
+- **Change:** -10.30%
+- **Analysis:** Given that "pippin" is not a widely recognized cryptocurrency, its reported 10.30% drop most likely reflects general market volatility affecting the broader crypto market.
 
