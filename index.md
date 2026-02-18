@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-17
+# Daily Crypto Movers - 2026-02-18
 
 ## Top 3 Gainers (24h)
-### 1. MemeCore (M)
-- **Price:** $1.47
-- **Change:** +13.70%
-- **Analysis:** Without specific news, MemeCore's 13.70% price increase most likely reflects general market volatility common to the broader cryptocurrency sector.
-
-### 2. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** +10.18%
-- **Analysis:** The 10.18% surge in the stablecoin Stable most likely indicates a significant temporary de-pegging event, signaling an unusual supply and demand imbalance that pushed its price above its intended peg.
-
-### 3. NEXO (NEXO)
-- **Price:** $0.89
-- **Change:** +6.38%
-- **Analysis:** NEXO's 6.38% increase most likely reflects a general positive trend across the broader cryptocurrency market, rather than specific project news.
-
-## Top 3 Losers (24h)
 ### 1. Provenance Blockchain (HASH)
 - **Price:** $0.02
-- **Change:** -3.80%
-- **Analysis:** Provenance Blockchain's 3.80% price drop most likely reflects general market volatility rather than specific news for the project.
+- **Change:** +19.55%
+- **Analysis:** The surge in Provenance Blockchain (HASH) likely stems from increased investor interest and speculative trading within the growing real-world asset (RWA) tokenization narrative, a sector where the platform is a key player.
 
-### 2. Official Trump (TRUMP)
-- **Price:** $3.37
-- **Change:** -4.55%
-- **Analysis:** The Official Trump (TRUMP) cryptocurrency's 4.55% decline is most likely due to general market volatility and speculative trading common for political memecoins, absent specific negative news.
+### 2. World Liberty Financial (WLFI)
+- **Price:** $0.12
+- **Change:** +16.69%
+- **Analysis:** Without specific recent news, World Liberty Financial's (WLFI) 16.69% price increase is most likely due to general cryptocurrency market volatility and speculative interest in lower-cap assets.
 
-### 3. pippin (PIPPIN)
-- **Price:** $0.64
-- **Change:** -10.30%
-- **Analysis:** Given that "pippin" is not a widely recognized cryptocurrency, its reported 10.30% drop most likely reflects general market volatility affecting the broader crypto market.
+### 3. Morpho (MORPHO)
+- **Price:** $1.47
+- **Change:** +4.97%
+- **Analysis:** Morpho's 4.97% price increase likely reflects positive sentiment across the DeFi sector, coupled with continued growth in its Morpho Blue lending protocol.
+
+## Top 3 Losers (24h)
+### 1. Litecoin (LTC)
+- **Price:** $54.61
+- **Change:** -1.80%
+- **Analysis:** Litecoin's 1.80% drop likely reflects the broader cryptocurrency market's volatility and its typical correlation with Bitcoin's recent price movements rather than any specific LTC-related news.
+
+### 2. Sky (SKY)
+- **Price:** $0.06
+- **Change:** -3.59%
+- **Analysis:** Sky's 3.59% price drop is most likely a result of general cryptocurrency market volatility, as no specific news concerning the project has been widely reported in the last 24 hours.
+
+### 3. ​​Stable (STABLE)
+- **Price:** $0.03
+- **Change:** -5.41%
+- **Analysis:** The 5.41% drop for Stable, a stablecoin, most likely indicates a loss of its peg to its intended stable value, driven by concerns over its reserves or broader market instability impacting investor confidence.
 
