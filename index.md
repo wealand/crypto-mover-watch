@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-20
+# Daily Crypto Movers - 2026-02-21
 
 ## Top 3 Gainers (24h)
-### 1. Kite (KITE)
-- **Price:** $0.27
-- **Change:** +17.47%
-- **Analysis:** The 17.47% increase in Kite's price most likely reflects general market volatility, as no specific news currently appears to be driving the movement.
+### 1. Ethereum Classic (ETC)
+- **Price:** $9.06
+- **Change:** +9.15%
+- **Analysis:** The increase in Ethereum Classic's price most likely reflects general market volatility and a broader positive trend within the cryptocurrency market.
 
-### 2. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** +9.97%
-- **Analysis:** The 9.97% rise in Stable (stable) most likely reflects market speculation or a significant re-pegging event, diverging from its intended constant value.
+### 2. Morpho (MORPHO)
+- **Price:** $1.58
+- **Change:** +5.70%
+- **Analysis:** The rise in Morpho's price is likely driven by its increasing adoption and Total Value Locked (TVL) within its DeFi lending protocol, attracting users with competitive yields and its integral role in the liquid staking derivatives (LSDfi) ecosystem.
 
-### 3. Midnight (NIGHT)
-- **Price:** $0.06
-- **Change:** +9.01%
-- **Analysis:** The 9.01% rise in Midnight (night) likely reflects general cryptocurrency market volatility and broader market trends, rather than specific project news.
+### 3. NEAR Protocol (NEAR)
+- **Price:** $1.07
+- **Change:** +5.49%
+- **Analysis:** NEAR Protocol's 5.49% increase most likely reflects a broader positive trend in the cryptocurrency market, following general market volatility.
 
 ## Top 3 Losers (24h)
-### 1. Bittensor (TAO)
-- **Price:** $174.44
-- **Change:** -5.02%
-- **Analysis:** Bittensor's price movement most likely reflects general cryptocurrency market volatility, as there isn't specific negative news unique to TAO driving the decline.
+### 1. Midnight (NIGHT)
+- **Price:** $0.06
+- **Change:** -3.56%
+- **Analysis:** Midnight's 3.56% decline is likely due to general cryptocurrency market volatility, as no specific news regarding the project has driven this movement.
 
-### 2. Pi Network (PI)
-- **Price:** $0.18
-- **Change:** -5.56%
-- **Analysis:** The decline likely reflects general cryptocurrency market volatility, amplified by the speculative nature of Pi Network's unlaunched token and the absence of specific negative news.
+### 2. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** -4.03%
+- **Analysis:** Rain's 4.03% decline most likely reflects general market volatility in the cryptocurrency sector, without specific project news.
 
-### 3. Arbitrum (ARB)
-- **Price:** $0.10
-- **Change:** -8.45%
-- **Analysis:** The 8.45% price drop for Arbitrum (ARB) likely reflects general volatility across the broader cryptocurrency market, without any specific project-related news driving the movement.
+### 3. Aave (AAVE)
+- **Price:** $118.94
+- **Change:** -4.31%
+- **Analysis:** Aave's 4.31% drop is most likely due to general market volatility and a slight pullback across the broader cryptocurrency sector rather than specific negative news for the protocol itself.
 
