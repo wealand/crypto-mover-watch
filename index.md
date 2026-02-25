@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-24
+# Daily Crypto Movers - 2026-02-25
 
 ## Top 3 Gainers (24h)
-### 1. pippin (PIPPIN)
-- **Price:** $0.76
-- **Change:** +9.28%
-- **Analysis:** With no specific news driving its price, pippin's 9.28% increase in the last 24 hours most likely reflects general cryptocurrency market volatility.
+### 1. Kite (KITE)
+- **Price:** $0.27
+- **Change:** +17.99%
+- **Analysis:** The 17.99% price increase for Kite most likely reflects general positive cryptocurrency market sentiment and typical altcoin volatility, rather than specific project news.
 
-### 2. Decred (DCR)
-- **Price:** $27.26
-- **Change:** +5.29%
-- **Analysis:** Decred's 5.29% price increase most likely reflects general market volatility and positive sentiment within the broader cryptocurrency market, as no specific project-related news has been identified.
+### 2. Morpho (MORPHO)
+- **Price:** $1.76
+- **Change:** +13.00%
+- **Analysis:** The 13% price increase for Morpho is likely due to its continued growth in Total Value Locked (TVL) and strong user engagement driven by its optimized DeFi lending protocol and ongoing incentive programs.
 
-### 3. Sky (SKY)
-- **Price:** $0.06
-- **Change:** +2.74%
-- **Analysis:** The 2.74% increase in Sky's price most likely reflects general cryptocurrency market volatility rather than specific recent news for the project.
+### 3. LEO Token (LEO)
+- **Price:** $8.67
+- **Change:** +11.19%
+- **Analysis:** Absent specific news, LEO Token's price increase most likely reflects positive momentum and general volatility within the broader cryptocurrency market.
 
 ## Top 3 Losers (24h)
 ### 1. Pump.fun (PUMP)
 - **Price:** $0.00
-- **Change:** -6.60%
-- **Analysis:** The price movement for Pump.fun is most likely influenced by lingering concerns following the recent arrest of a former employee in connection with an exploit of the platform.
+- **Change:** -2.43%
+- **Analysis:** Pump.fun's 2.43% drop most likely reflects general cryptocurrency market volatility rather than specific project news.
 
-### 2. World Liberty Financial (WLFI)
-- **Price:** $0.11
-- **Change:** -7.45%
-- **Analysis:** The decline of World Liberty Financial (WLFI) most likely reflects general cryptocurrency market volatility, rather than specific project news.
+### 2. Toncoin (TON)
+- **Price:** $1.29
+- **Change:** -2.65%
+- **Analysis:** Toncoin's price movement most likely reflects general cryptocurrency market volatility and a slight pullback after recent gains, rather than specific negative news.
 
-### 3. Bitcoin Cash (BCH)
-- **Price:** $484.96
-- **Change:** -10.25%
-- **Analysis:** Absent specific news directly impacting Bitcoin Cash, its 10.25% price drop most likely reflects general cryptocurrency market volatility.
+### 3. Provenance Blockchain (HASH)
+- **Price:** $0.02
+- **Change:** -3.80%
+- **Analysis:** The 3.80% decline for Provenance Blockchain (HASH) likely reflects general cryptocurrency market volatility, as no specific negative news directly impacting the project has been reported.
 
