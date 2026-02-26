@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-02-25
+# Daily Crypto Movers - 2026-02-26
 
 ## Top 3 Gainers (24h)
-### 1. Kite (KITE)
-- **Price:** $0.27
-- **Change:** +17.99%
-- **Analysis:** The 17.99% price increase for Kite most likely reflects general positive cryptocurrency market sentiment and typical altcoin volatility, rather than specific project news.
+### 1. Polkadot (DOT)
+- **Price:** $1.58
+- **Change:** +24.06%
+- **Analysis:** Polkadot's significant price increase likely reflects renewed investor interest in established altcoins amidst a broader bullish sentiment in the cryptocurrency market.
 
-### 2. Morpho (MORPHO)
-- **Price:** $1.76
-- **Change:** +13.00%
-- **Analysis:** The 13% price increase for Morpho is likely due to its continued growth in Total Value Locked (TVL) and strong user engagement driven by its optimized DeFi lending protocol and ongoing incentive programs.
+### 2. ​​Stable (STABLE)
+- **Price:** $0.03
+- **Change:** +22.51%
+- **Analysis:** The 22.51% surge in the cryptocurrency Stable indicates an upward depegging event, likely due to temporary demand spikes or market inefficiencies, which is highly unusual for a stablecoin.
 
-### 3. LEO Token (LEO)
-- **Price:** $8.67
-- **Change:** +11.19%
-- **Analysis:** Absent specific news, LEO Token's price increase most likely reflects positive momentum and general volatility within the broader cryptocurrency market.
+### 3. Uniswap (UNI)
+- **Price:** $4.03
+- **Change:** +15.23%
+- **Analysis:** The rise is primarily driven by a recent governance proposal to activate Uniswap's protocol fee switch, which would allow UNI holders to earn a share of trading fees.
 
 ## Top 3 Losers (24h)
-### 1. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** -2.43%
-- **Analysis:** Pump.fun's 2.43% drop most likely reflects general cryptocurrency market volatility rather than specific project news.
+### 1. POL (ex-MATIC) (POL)
+- **Price:** $0.11
+- **Change:** -2.49%
+- **Analysis:** The 2.49% dip in POL is most likely due to general cryptocurrency market volatility, rather than specific negative news directly impacting the Polygon ecosystem.
 
-### 2. Toncoin (TON)
-- **Price:** $1.29
-- **Change:** -2.65%
-- **Analysis:** Toncoin's price movement most likely reflects general cryptocurrency market volatility and a slight pullback after recent gains, rather than specific negative news.
+### 2. MemeCore (M)
+- **Price:** $1.36
+- **Change:** -4.22%
+- **Analysis:** In the absence of specific news for MemeCore, its 4.22% decline most likely reflects general cryptocurrency market volatility, a common characteristic for meme coins.
 
-### 3. Provenance Blockchain (HASH)
-- **Price:** $0.02
-- **Change:** -3.80%
-- **Analysis:** The 3.80% decline for Provenance Blockchain (HASH) likely reflects general cryptocurrency market volatility, as no specific negative news directly impacting the project has been reported.
+### 3. Cosmos Hub (ATOM)
+- **Price:** $1.92
+- **Change:** -5.69%
+- **Analysis:** Analysis unavailable due to error.
 
