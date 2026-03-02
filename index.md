@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-03-01
+# Daily Crypto Movers - 2026-03-02
 
 ## Top 3 Gainers (24h)
-### 1. Jupiter (JUP)
-- **Price:** $0.17
-- **Change:** +17.89%
-- **Analysis:** The price surge for Jupiter (JUP) is most likely driven by renewed investor interest and increasing activity across the broader Solana ecosystem, where Jupiter is a core component for DeFi and new project launches.
+### 1. MemeCore (M)
+- **Price:** $1.54
+- **Change:** +3.28%
+- **Analysis:** Absent specific news, MemeCore's 3.28% price increase most likely reflects general market volatility common to meme cryptocurrencies.
 
-### 2. Hyperliquid (HYPE)
-- **Price:** $31.03
-- **Change:** +15.95%
-- **Analysis:** The cryptocurrency Hyperliquid's 15.95% surge likely reflects strong bullish sentiment across the broader crypto market, coupled with growing interest in decentralized perpetual exchanges.
+### 2. Morpho (MORPHO)
+- **Price:** $1.77
+- **Change:** +2.98%
+- **Analysis:** The 2.98% increase for Morpho most likely reflects general positive sentiment in the broader cryptocurrency market and typical altcoin volatility, as no specific project-related news appears to be driving this particular movement.
 
-### 3. NEAR Protocol (NEAR)
-- **Price:** $1.21
-- **Change:** +14.49%
-- **Analysis:** The surge in NEAR Protocol's price is largely driven by its prominent positioning within the burgeoning AI narrative, reinforced by its ongoing efforts in artificial intelligence integration.
+### 3. XDC Network (XDC)
+- **Price:** $0.03
+- **Change:** +2.32%
+- **Analysis:** XDC Network's 2.32% price increase most likely reflects general positive sentiment across the broader cryptocurrency market rather than specific project news.
 
 ## Top 3 Losers (24h)
-### 1. Morpho (MORPHO)
-- **Price:** $1.72
-- **Change:** -1.85%
-- **Analysis:** The 1.85% dip in Morpho most likely reflects general cryptocurrency market volatility, as no specific project-related news is driving this minor movement.
+### 1. World Liberty Financial (WLFI)
+- **Price:** $0.11
+- **Change:** -5.74%
+- **Analysis:** The 5.74% drop in World Liberty Financial (wlfi) most likely reflects general cryptocurrency market volatility, rather than specific project-related news.
 
-### 2. pippin (PIPPIN)
-- **Price:** $0.58
-- **Change:** -2.39%
-- **Analysis:** Pippin's 2.39% decline likely reflects general cryptocurrency market volatility and broader downward trends rather than specific news about the asset itself.
-
-### 3. HTX DAO (HTX)
+### 2. Pepe (PEPE)
 - **Price:** $0.00
-- **Change:** -2.61%
-- **Analysis:** The 2.61% dip in HTX DAO likely reflects broader cryptocurrency market trends and daily volatility, rather than specific project news.
+- **Change:** -6.67%
+- **Analysis:** The price movement is most likely a result of general cryptocurrency market volatility, typical for highly speculative meme coins without specific underlying news.
+
+### 3. Decred (DCR)
+- **Price:** $28.20
+- **Change:** -10.73%
+- **Analysis:** Decred's 10.73% decline most likely reflects broader cryptocurrency market volatility and prevailing investor sentiment, as there's no significant specific DCR news driving the movement.
 
