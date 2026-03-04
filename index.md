@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-03-03
+# Daily Crypto Movers - 2026-03-04
 
 ## Top 3 Gainers (24h)
-### 1. NEAR Protocol (NEAR)
-- **Price:** $1.36
-- **Change:** +15.19%
-- **Analysis:** The rise in NEAR Protocol's price is most likely attributed to renewed general market bullishness combined with its strong appeal in the trending AI narrative.
+### 1. XDC Network (XDC)
+- **Price:** $0.03
+- **Change:** +8.29%
+- **Analysis:** The XDC Network's price increase is most likely attributed to renewed market interest in real-world asset (RWA) tokenization, a sector where XDC is a prominent player.
 
-### 2. Ethena (ENA)
-- **Price:** $0.11
-- **Change:** +9.78%
-- **Analysis:** The most likely reason for Ethena's price increase is the growing participation in its new Satoshis rewards campaign, designed to incentivize engagement with its sUSDe.
+### 2. Internet Computer (ICP)
+- **Price:** $2.54
+- **Change:** +5.78%
+- **Analysis:** ICP's 5.78% increase largely reflects a broader positive trend across the cryptocurrency market.
 
-### 3. Morpho (MORPHO)
-- **Price:** $1.93
-- **Change:** +9.39%
-- **Analysis:** Morpho's price increase most likely reflects a general positive trend across the broader cryptocurrency market, rather than specific project news.
+### 3. Jupiter (JUP)
+- **Price:** $0.18
+- **Change:** +4.01%
+- **Analysis:** The Jupiter (JUP) price increase is most likely driven by the continued robust activity within the Solana ecosystem, including ongoing interest in its LFG launchpad projects.
 
 ## Top 3 Losers (24h)
-### 1. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** -5.11%
-- **Analysis:** The 5.11% drop for Stable (stable) most likely signifies a loss of confidence in its pegging mechanism or underlying reserves, as such a movement is atypical for a stablecoin and points to a fundamental concern rather than general market volatility.
+### 1. Canton (CC)
+- **Price:** $0.15
+- **Change:** -3.20%
+- **Analysis:** Canton's 3.20% price drop most likely reflects general cryptocurrency market volatility, as no specific news or developments for the project have emerged.
 
-### 2. XDC Network (XDC)
-- **Price:** $0.03
-- **Change:** -5.44%
-- **Analysis:** The XDC Network's price decline most likely reflects broader cryptocurrency market trends and general altcoin volatility.
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.02
+- **Change:** -3.88%
+- **Analysis:** Provenance Blockchain's price decline likely reflects general cryptocurrency market volatility and a modest downturn in broader market sentiment.
 
-### 3. MemeCore (M)
-- **Price:** $1.42
-- **Change:** -7.48%
-- **Analysis:** MemeCore's (m) decline most likely reflects general market volatility and a slight downturn in the broader cryptocurrency sector.
+### 3. Aave (AAVE)
+- **Price:** $112.72
+- **Change:** -4.97%
+- **Analysis:** The 4.97% decline in Aave's price most likely reflects a broader cryptocurrency market pullback and profit-taking after recent rallies, rather than specific Aave-related news.
 
