@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-03-05
+# Daily Crypto Movers - 2026-03-06
 
 ## Top 3 Gainers (24h)
-### 1. Pi Network (PI)
-- **Price:** $0.19
-- **Change:** +12.25%
-- **Analysis:** The 12.25% increase in Pi Network's price is most likely driven by speculative trading and general market volatility, as there is no major specific news event reported directly impacting its value.
+### 1. Kite (KITE)
+- **Price:** $0.30
+- **Change:** +28.00%
+- **Analysis:** Kite's 28.00% price increase is most likely due to general cryptocurrency market volatility, as no specific news catalysts have been widely reported.
 
-### 2. Sky (SKY)
-- **Price:** $0.08
-- **Change:** +7.72%
-- **Analysis:** As there is no major specific news for Sky (SKY), its 7.72% price increase most likely reflects general market volatility and a broader positive sentiment in the cryptocurrency space.
+### 2. OKB (OKB)
+- **Price:** $97.53
+- **Change:** +25.81%
+- **Analysis:** The surge in OKB's price is most likely driven by increased demand for staking the token to participate in the recent LayerZero (ZRO) Jumpstart project on the OKX exchange.
 
-### 3. Zcash (ZEC)
-- **Price:** $235.58
-- **Change:** +6.86%
-- **Analysis:** The price movement most likely reflects general positive sentiment and volatility in the broader cryptocurrency market, rather than specific Zcash news.
+### 3. WhiteBIT Coin (WBT)
+- **Price:** $54.50
+- **Change:** +5.54%
+- **Analysis:** Without specific news, WhiteBIT Coin's rise likely mirrors general positive sentiment and volatility across the broader cryptocurrency market.
 
 ## Top 3 Losers (24h)
-### 1. Morpho (MORPHO)
-- **Price:** $1.88
-- **Change:** -3.38%
-- **Analysis:** The 3.38% decline in Morpho's price primarily reflects general cryptocurrency market volatility rather than any specific project news.
+### 1. Zcash (ZEC)
+- **Price:** $225.18
+- **Change:** -4.48%
+- **Analysis:** Zcash's 4.48% decline most likely reflects broader cryptocurrency market volatility, rather than specific ZEC-related news.
 
-### 2. NEAR Protocol (NEAR)
-- **Price:** $1.30
-- **Change:** -4.93%
-- **Analysis:** The decline in NEAR Protocol's price likely reflects broader cryptocurrency market corrections and profit-taking after recent gains, rather than specific negative news related to NEAR itself.
+### 2. Jupiter (JUP)
+- **Price:** $0.19
+- **Change:** -4.54%
+- **Analysis:** The decline in Jupiter's price most likely reflects a market-wide downward trend and increased volatility in the broader cryptocurrency sector.
 
-### 3. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** -6.19%
-- **Analysis:** The cryptocurrency Stable's 6.19% drop most likely reflects general market volatility, as no specific news or depegging event has been reported for a token by that name.
+### 3. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** -6.17%
+- **Analysis:** Provenance Blockchain's decline most likely reflects the general bearish sentiment currently impacting the broader cryptocurrency market, rather than specific project news.
 
