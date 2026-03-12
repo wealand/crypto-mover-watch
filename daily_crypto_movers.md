@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-03-11
+# Daily Crypto Movers - 2026-03-12
 
 ## Top 3 Gainers (24h)
-### 1. Internet Computer (ICP)
-- **Price:** $2.80
-- **Change:** +11.79%
-- **Analysis:** The most likely reason for ICP's price increase is the general positive momentum across the broader cryptocurrency market, aligning with Bitcoin's recent upward trend.
+### 1. Hyperliquid (HYPE)
+- **Price:** $36.96
+- **Change:** +7.50%
+- **Analysis:** Hyperliquid's 7.50% price increase is most likely driven by sustained speculative interest and high trading volume fueled by its successful points program, often anticipating a future token launch or airdrop.
 
-### 2. Pi Network (PI)
-- **Price:** $0.23
-- **Change:** +5.05%
-- **Analysis:** The 5.05% rise in Pi Network's speculative value likely reflects general market volatility and unofficial trading, as there is no specific major news driving the movement for the unlisted cryptocurrency.
+### 2. Sky (SKY)
+- **Price:** $0.08
+- **Change:** +7.44%
+- **Analysis:** The 7.44% price increase for Sky (SKY) most likely reflects general market volatility rather than specific recent news or project developments.
 
-### 3. Cosmos Hub (ATOM)
-- **Price:** $1.81
-- **Change:** +2.75%
-- **Analysis:** The 2.75% price increase for Cosmos Hub (ATOM) most likely reflects general cryptocurrency market volatility, aligning with broader positive sentiment across the altcoin market.
+### 3. ​​Stable (STABLE)
+- **Price:** $0.03
+- **Change:** +7.05%
+- **Analysis:** The 7.05% increase for the stablecoin "Stable" most likely represents a significant de-pegging event, where high demand or specific market liquidity conditions have caused it to trade considerably above its intended peg.
 
 ## Top 3 Losers (24h)
-### 1. Filecoin (FIL)
-- **Price:** $0.87
-- **Change:** -6.56%
-- **Analysis:** Filecoin's 6.56% price drop most likely reflects general market volatility and a slight downturn across the broader cryptocurrency market.
+### 1. Decred (DCR)
+- **Price:** $27.31
+- **Change:** -5.77%
+- **Analysis:** Decred's 5.77% price decrease most likely stems from general cryptocurrency market volatility, rather than specific project news.
 
-### 2. Jupiter (JUP)
-- **Price:** $0.16
-- **Change:** -6.64%
-- **Analysis:** Jupiter's decline most likely reflects broader cryptocurrency market volatility, with altcoins generally following Bitcoin's performance.
+### 2. Internet Computer (ICP)
+- **Price:** $2.57
+- **Change:** -6.71%
+- **Analysis:** Lacking specific negative news, the 6.71% drop in ICP's price most likely reflects broader cryptocurrency market volatility.
 
-### 3. Kite (KITE)
-- **Price:** $0.26
-- **Change:** -11.92%
-- **Analysis:** The 11.92% decline in Kite's price most likely reflects general market volatility and a broader downward trend seen across many cryptocurrencies, as no specific news regarding Kite has emerged.
+### 3. Midnight (NIGHT)
+- **Price:** $0.05
+- **Change:** -8.46%
+- **Analysis:** Midnight's 8.46% decline is most likely attributed to general cryptocurrency market volatility rather than specific project news.
 
