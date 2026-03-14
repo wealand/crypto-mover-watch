@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-03-13
+# Daily Crypto Movers - 2026-03-14
 
 ## Top 3 Gainers (24h)
 ### 1. Official Trump (TRUMP)
-- **Price:** $3.63
-- **Change:** +26.54%
-- **Analysis:** The Official Trump (trump) cryptocurrency's rise is most likely tied to recent successes in Donald Trump's presidential campaign, particularly primary election victories.
-
-### 2. Pi Network (PI)
-- **Price:** $0.29
-- **Change:** +20.48%
-- **Analysis:** The increase in Pi Network's price is most likely due to speculative trading of its IOU tokens on limited exchanges, possibly driven by community rumors regarding mainnet progress or general positive cryptocurrency market sentiment.
-
-### 3. Bittensor (TAO)
-- **Price:** $235.58
-- **Change:** +14.22%
-- **Analysis:** Bittensor's price increase is most likely due to its prominent position within the thriving AI cryptocurrency sector, which has experienced strong investor interest.
-
-## Top 3 Losers (24h)
-### 1. Toncoin (TON)
-- **Price:** $1.30
-- **Change:** -3.00%
-- **Analysis:** Toncoin's 3.00% drop most likely reflects general cryptocurrency market volatility and minor profit-taking, with no significant specific negative news reported.
+- **Price:** $3.95
+- **Change:** +10.04%
+- **Analysis:** The price surge for Official Trump (TRUMP) is most likely driven by recent positive sentiment following Donald Trump's increasingly pro-cryptocurrency stance and related campaign initiatives.
 
 ### 2. Canton (CC)
 - **Price:** $0.15
-- **Change:** -4.18%
-- **Analysis:** Canton's 4.18% price drop most likely reflects general cryptocurrency market volatility, as no specific news for the project has emerged.
+- **Change:** +6.10%
+- **Analysis:** Canton (cc)'s 6.10% price increase most likely reflects general cryptocurrency market volatility rather than specific project news.
 
-### 3. Provenance Blockchain (HASH)
-- **Price:** $0.01
-- **Change:** -5.23%
-- **Analysis:** The 5.23% drop in Provenance Blockchain (HASH) most likely follows general market volatility, as no specific project-related news has been reported.
+### 3. MemeCore (M)
+- **Price:** $1.52
+- **Change:** +4.43%
+- **Analysis:** In the absence of specific news for MemeCore, its 4.43% price increase most likely reflects general market volatility and positive sentiment across the broader cryptocurrency market, encouraging speculative interest.
+
+## Top 3 Losers (24h)
+### 1. Midnight (NIGHT)
+- **Price:** $0.05
+- **Change:** -6.09%
+- **Analysis:** The 6.09% price drop for Midnight is most likely due to general market volatility, as no specific project-related news has emerged.
+
+### 2. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** -6.83%
+- **Analysis:** The 6.83% price drop for Pump.fun is most likely due to ongoing fallout from a recent insider trading exploit involving a former employee.
+
+### 3. Pi Network (PI)
+- **Price:** $0.21
+- **Change:** -29.78%
+- **Analysis:** The decline in Pi Network's price, which reflects speculative IOU listings, is most likely due to broader cryptocurrency market volatility and persistent uncertainty regarding its actual open mainnet launch.
 
