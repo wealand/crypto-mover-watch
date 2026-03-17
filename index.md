@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-03-16
+# Daily Crypto Movers - 2026-03-17
 
 ## Top 3 Gainers (24h)
-### 1. Pepe (PEPE)
-- **Price:** $0.00
-- **Change:** +18.57%
-- **Analysis:** Pepe's 18.57% surge is most likely driven by renewed speculative interest in meme coins, often aligning with broader positive cryptocurrency market sentiment.
+### 1. MemeCore (M)
+- **Price:** $1.74
+- **Change:** +18.08%
+- **Analysis:** The 18.08% surge in MemeCore is most likely driven by renewed speculative interest in meme coins, often amplified by overall positive crypto market sentiment.
 
-### 2. Polkadot (DOT)
-- **Price:** $1.61
-- **Change:** +13.55%
-- **Analysis:** Polkadot's 13.55% price increase most likely reflects a broader positive sentiment and general market volatility within the cryptocurrency space, with no singular specific catalyst immediately apparent.
+### 2. Zcash (ZEC)
+- **Price:** $267.99
+- **Change:** +16.13%
+- **Analysis:** The Zcash price surge is most likely driven by renewed market interest and speculation following its recent halving event in July.
 
-### 3. Bonk (BONK)
-- **Price:** $0.00
-- **Change:** +10.97%
-- **Analysis:** Bonk's price increase is most likely driven by the broader crypto market rebound and sustained interest in Solana-based memecoins.
+### 3. Siren (SIREN)
+- **Price:** $0.72
+- **Change:** +13.09%
+- **Analysis:** The 13.09% increase in Siren's price is most likely attributed to general market volatility and speculative interest common in smaller-cap cryptocurrencies, as no major specific news or catalyst for the project has been widely reported.
 
 ## Top 3 Losers (24h)
-### 1. Canton (CC)
-- **Price:** $0.15
-- **Change:** -2.22%
-- **Analysis:** Canton's 2.22% dip most likely stems from general cryptocurrency market volatility, rather than specific project news for the asset itself.
+### 1. Official Trump (TRUMP)
+- **Price:** $3.73
+- **Change:** -5.15%
+- **Analysis:** The Official Trump (TRUMP) token's decline likely reflects market reactions and uncertainty following Donald Trump's recent guilty verdict in his New York trial.
 
-### 2. Official Trump (TRUMP)
-- **Price:** $3.93
-- **Change:** -2.28%
-- **Analysis:** The decline likely reflects ongoing market reaction to the recent guilty verdict against Donald Trump.
+### 2. Morpho (MORPHO)
+- **Price:** $1.78
+- **Change:** -6.50%
+- **Analysis:** Morpho's 6.50% price drop most likely reflects the general downward trend and increased volatility seen across the broader cryptocurrency market.
 
-### 3. Sky (SKY)
-- **Price:** $0.07
-- **Change:** -5.92%
-- **Analysis:** The cryptocurrency Sky's price drop most likely reflects general market volatility, as no specific news accounts for the movement.
+### 3. Pi Network (PI)
+- **Price:** $0.18
+- **Change:** -8.56%
+- **Analysis:** Analysis unavailable due to error.
 
