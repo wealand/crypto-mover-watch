@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-03-19
+# Daily Crypto Movers - 2026-03-20
 
 ## Top 3 Gainers (24h)
-### 1. Provenance Blockchain (HASH)
-- **Price:** $0.01
-- **Change:** +17.23%
-- **Analysis:** The most likely reason for Provenance Blockchain's price increase is growing market interest in its specialization within institutional DeFi and real-world asset (RWA) tokenization.
+### 1. Bittensor (TAO)
+- **Price:** $299.04
+- **Change:** +18.94%
+- **Analysis:** Bittensor's price surge is most likely driven by renewed investor interest in the broader AI cryptocurrency sector amidst positive market sentiment.
 
-### 2. River (RIVER)
-- **Price:** $27.25
-- **Change:** +14.32%
-- **Analysis:** The 14.32% price increase for River (RIVER) most likely reflects general cryptocurrency market volatility, common for smaller-cap altcoins without specific recent news.
+### 2. Artificial Superintelligence Alliance (FET)
+- **Price:** $0.23
+- **Change:** +9.15%
+- **Analysis:** The price increase for FET is likely driven by ongoing anticipation for its impending merger into the new Artificial Superintelligence Alliance (ASI) token.
 
-### 3. MemeCore (M)
-- **Price:** $2.01
-- **Change:** +7.38%
-- **Analysis:** The 7.38% price increase in MemeCore (m) most likely reflects general market volatility and broader positive sentiment across the cryptocurrency market, as no specific news for the project has been reported.
+### 3. Pi Network (PI)
+- **Price:** $0.19
+- **Change:** +8.06%
+- **Analysis:** The 8.06% increase in Pi Network's speculative IOU price is most likely driven by ongoing community anticipation regarding its mainnet development and general crypto market sentiment, as no specific major news event from the Pi Core Team has been announced recently.
 
 ## Top 3 Losers (24h)
-### 1. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** -11.59%
-- **Analysis:** The price drop for Pump.fun is most likely a continued reaction to the recent insider exploit that significantly impacted investor confidence in the platform's security.
+### 1. Worldcoin (WLD)
+- **Price:** $0.33
+- **Change:** -3.46%
+- **Analysis:** The most likely reason for Worldcoin's price drop is continued regulatory scrutiny and data privacy concerns, highlighted by recent actions in countries like Spain and Portugal.
 
-### 2. Zcash (ZEC)
-- **Price:** $241.54
-- **Change:** -12.73%
-- **Analysis:** The Zcash (ZEC) price drop most likely reflects broader cryptocurrency market volatility and a general altcoin downtrend, influenced by Bitcoin's recent price action.
+### 2. World Liberty Financial (WLFI)
+- **Price:** $0.09
+- **Change:** -4.46%
+- **Analysis:** The 4.46% drop in World Liberty Financial (WLFI) is most likely due to general cryptocurrency market volatility, as no specific recent news event appears to be the cause.
 
-### 3. Worldcoin (WLD)
-- **Price:** $0.34
-- **Change:** -13.01%
-- **Analysis:** The most likely reason for Worldcoin's price drop is continued regulatory scrutiny in various countries regarding its data collection practices, exacerbated by general cryptocurrency market volatility.
+### 3. MemeCore (M)
+- **Price:** $1.71
+- **Change:** -14.91%
+- **Analysis:** The decline most likely reflects broader cryptocurrency market volatility and general profit-taking following recent market developments, such as the Ethereum ETF approvals, rather than specific news for MemeCore.
 
