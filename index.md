@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-03-20
+# Daily Crypto Movers - 2026-03-21
 
 ## Top 3 Gainers (24h)
-### 1. Bittensor (TAO)
-- **Price:** $299.04
-- **Change:** +18.94%
-- **Analysis:** Bittensor's price surge is most likely driven by renewed investor interest in the broader AI cryptocurrency sector amidst positive market sentiment.
+### 1. Sky (SKY)
+- **Price:** $0.07
+- **Change:** +3.92%
+- **Analysis:** Absent specific news, Sky's price movement most likely reflects general market volatility within the broader cryptocurrency market.
 
-### 2. Artificial Superintelligence Alliance (FET)
-- **Price:** $0.23
-- **Change:** +9.15%
-- **Analysis:** The price increase for FET is likely driven by ongoing anticipation for its impending merger into the new Artificial Superintelligence Alliance (ASI) token.
+### 2. Toncoin (TON)
+- **Price:** $1.26
+- **Change:** +3.31%
+- **Analysis:** Toncoin's price increase is most likely driven by ongoing positive developments and growing utility within the extensive Telegram ecosystem.
 
-### 3. Pi Network (PI)
-- **Price:** $0.19
-- **Change:** +8.06%
-- **Analysis:** The 8.06% increase in Pi Network's speculative IOU price is most likely driven by ongoing community anticipation regarding its mainnet development and general crypto market sentiment, as no specific major news event from the Pi Core Team has been announced recently.
+### 3. Canton (CC)
+- **Price:** $0.15
+- **Change:** +2.67%
+- **Analysis:** Canton's 2.67% price increase most likely reflects general cryptocurrency market volatility and broader positive sentiment, with no specific news drivers reported.
 
 ## Top 3 Losers (24h)
-### 1. Worldcoin (WLD)
-- **Price:** $0.33
-- **Change:** -3.46%
-- **Analysis:** The most likely reason for Worldcoin's price drop is continued regulatory scrutiny and data privacy concerns, highlighted by recent actions in countries like Spain and Portugal.
+### 1. ​​Stable (STABLE)
+- **Price:** $0.03
+- **Change:** -5.75%
+- **Analysis:** The 5.75% drop in the cryptocurrency Stable most likely indicates a de-pegging event driven by a loss of investor confidence in its ability to maintain its intended stable value.
 
-### 2. World Liberty Financial (WLFI)
-- **Price:** $0.09
-- **Change:** -4.46%
-- **Analysis:** The 4.46% drop in World Liberty Financial (WLFI) is most likely due to general cryptocurrency market volatility, as no specific recent news event appears to be the cause.
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** -8.90%
+- **Analysis:** The price movement most likely reflects general cryptocurrency market volatility, with no specific negative news impacting Provenance Blockchain identified.
 
-### 3. MemeCore (M)
-- **Price:** $1.71
-- **Change:** -14.91%
-- **Analysis:** The decline most likely reflects broader cryptocurrency market volatility and general profit-taking following recent market developments, such as the Ethereum ETF approvals, rather than specific news for MemeCore.
+### 3. Bittensor (TAO)
+- **Price:** $271.68
+- **Change:** -10.46%
+- **Analysis:** The 10.46% drop in Bittensor's price likely reflects broader cryptocurrency market volatility and profit-taking after its recent strong performance.
 
