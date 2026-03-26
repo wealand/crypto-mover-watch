@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-03-25
+# Daily Crypto Movers - 2026-03-26
 
 ## Top 3 Gainers (24h)
-### 1. Siren (SIREN)
-- **Price:** $2.21
-- **Change:** +120.73%
-- **Analysis:** With no specific news or major updates for Siren (siren), its 120.73% price surge is most likely driven by speculative trading activity, often characteristic of lower-liquidity cryptocurrencies.
+### 1. MemeCore (M)
+- **Price:** $2.34
+- **Change:** +35.66%
+- **Analysis:** MemeCore's 35.66% surge is most likely due to speculative interest and general market volatility, a common pattern for memecoins without specific fundamental news.
 
-### 2. Bittensor (TAO)
-- **Price:** $348.39
-- **Change:** +10.57%
-- **Analysis:** Bittensor's price increase is most likely driven by a renewed investor interest and speculative trading within the broader AI cryptocurrency sector.
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** +5.29%
+- **Analysis:** The price increase for Provenance Blockchain (HASH) most likely follows general market volatility and positive sentiment in the broader cryptocurrency market, lacking specific recent news directly impacting the project.
 
-### 3. Stellar (XLM)
-- **Price:** $0.18
-- **Change:** +8.43%
-- **Analysis:** Stellar's 8.43% price increase most likely reflects the general bullish sentiment and upward momentum across the broader cryptocurrency market, often led by Bitcoin's performance.
+### 3. Ethena (ENA)
+- **Price:** $0.10
+- **Change:** +4.29%
+- **Analysis:** Ethena's price increase most likely reflects a general positive sentiment in the broader cryptocurrency market, coupled with sustained interest in its unique synthetic dollar and restaking narrative.
 
 ## Top 3 Losers (24h)
-### 1. World Liberty Financial (WLFI)
-- **Price:** $0.10
-- **Change:** -3.20%
-- **Analysis:** The 3.20% drop in World Liberty Financial (wlfi) is most likely due to general market volatility in the cryptocurrency sector, as no specific recent news explains the movement.
+### 1. Official Trump (TRUMP)
+- **Price:** $3.14
+- **Change:** -6.41%
+- **Analysis:** The decline most likely reflects market uncertainty and sentiment shifts following Donald Trump's recent felony conviction.
 
-### 2. Canton (CC)
-- **Price:** $0.14
-- **Change:** -4.07%
-- **Analysis:** Absent specific news, Canton's 4.07% decline most likely reflects general cryptocurrency market volatility.
+### 2. LayerZero (ZRO)
+- **Price:** $2.04
+- **Change:** -8.52%
+- **Analysis:** The price decline for LayerZero (ZRO) is most likely due to post-airdrop selling pressure from initial token recipients following its recent token distribution.
 
-### 3. Provenance Blockchain (HASH)
-- **Price:** $0.01
-- **Change:** -10.42%
-- **Analysis:** The 10.42% price drop for Provenance Blockchain (HASH) most likely reflects general cryptocurrency market volatility, as no specific project-related news has been identified as the primary driver.
+### 3. Siren (SIREN)
+- **Price:** $1.92
+- **Change:** -13.62%
+- **Analysis:** Lacking specific news for Siren, its decline most likely reflects broader cryptocurrency market volatility impacting altcoins.
 
