@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-03-29
+# Daily Crypto Movers - 2026-03-30
 
 ## Top 3 Gainers (24h)
-### 1. Canton (CC)
-- **Price:** $0.16
-- **Change:** +6.83%
-- **Analysis:** The 6.83% rise in Canton's price most likely reflects a combination of sustained positive sentiment around its institutional-focused blockchain developments and broader cryptocurrency market volatility.
+### 1. Siren (SIREN)
+- **Price:** $1.75
+- **Change:** +8.03%
+- **Analysis:** Lacking specific news, Siren's 8.03% increase likely reflects general cryptocurrency market volatility, common among smaller altcoins.
 
-### 2. Worldcoin (WLD)
-- **Price:** $0.28
-- **Change:** +3.42%
-- **Analysis:** Worldcoin's 3.42% price increase most likely reflects general positive cryptocurrency market trends, especially within the AI-related sector, rather than specific recent news for the project itself.
+### 2. Jupiter (JUP)
+- **Price:** $0.15
+- **Change:** +6.10%
+- **Analysis:** The price increase for Jupiter (JUP) likely reflects strong trading activity on its platform, bolstered by the overall positive sentiment and growth within the Solana ecosystem.
 
-### 3. Pi Network (PI)
-- **Price:** $0.18
-- **Change:** +3.21%
-- **Analysis:** The 3.21% increase for Pi Network, which is not yet officially launched for public trading, primarily reflects speculative interest and broader cryptocurrency market volatility on unofficial or IOU listings.
+### 3. Zcash (ZEC)
+- **Price:** $229.64
+- **Change:** +5.82%
+- **Analysis:** Zcash's 5.82% gain most likely reflects general positive momentum and market volatility within the broader cryptocurrency sector, without specific ZEC-related news driving the move.
 
 ## Top 3 Losers (24h)
-### 1. Beldex (BDX)
-- **Price:** $0.08
-- **Change:** -3.48%
-- **Analysis:** The 3.48% decline in Beldex (bdx) most likely reflects general market volatility, as there is no specific adverse news directly impacting the cryptocurrency.
+### 1. Hyperliquid (HYPE)
+- **Price:** $38.22
+- **Change:** -4.06%
+- **Analysis:** Hyperliquid's price dip likely reflects general cryptocurrency market volatility, rather than specific project news.
 
-### 2. Siren (SIREN)
-- **Price:** $1.61
-- **Change:** -4.94%
-- **Analysis:** The 4.94% price drop for Siren most likely reflects general market volatility, as no specific news or event directly impacting the project has been reported.
+### 2. Kaspa (KAS)
+- **Price:** $0.03
+- **Change:** -4.88%
+- **Analysis:** Kaspa's price decline most likely reflects a broader downtrend in the cryptocurrency market, rather than specific project-related news.
 
-### 3. Provenance Blockchain (HASH)
-- **Price:** $0.01
-- **Change:** -9.16%
-- **Analysis:** The 9.16% price decline for Provenance Blockchain (HASH) most likely reflects general cryptocurrency market volatility and broader negative market trends, with no specific news directly impacting the project.
+### 3. Bitcoin Cash (BCH)
+- **Price:** $453.10
+- **Change:** -6.25%
+- **Analysis:** The decline in Bitcoin Cash (BCH) most likely reflects general market volatility rather than specific news directly impacting the cryptocurrency.
 
