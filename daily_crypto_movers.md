@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-04-22
+# Daily Crypto Movers - 2026-04-23
 
 ## Top 3 Gainers (24h)
-### 1. MemeCore (M)
-- **Price:** $4.25
-- **Change:** +19.47%
+### 1. ​​Stable (STABLE)
+- **Price:** $0.03
+- **Change:** +8.66%
+- **Analysis:** The 8.66% surge in Stable, a stablecoin, most likely reflects an upward de-peg driven by high demand for perceived safety or localized liquidity issues in a volatile market.
+
+### 2. MemeCore (M)
+- **Price:** $4.60
+- **Change:** +7.52%
 - **Analysis:** Analysis unavailable due to error.
 
-### 2. Rain (RAIN)
-- **Price:** $0.01
-- **Change:** +12.34%
-- **Analysis:** Analysis unavailable due to error.
-
-### 3. Pudgy Penguins (PENGU)
-- **Price:** $0.01
-- **Change:** +8.19%
+### 3. JUST (JST)
+- **Price:** $0.08
+- **Change:** +4.07%
 - **Analysis:** Analysis unavailable due to error.
 
 ## Top 3 Losers (24h)
-### 1. Stellar (XLM)
-- **Price:** $0.18
-- **Change:** -1.43%
+### 1. Morpho (MORPHO)
+- **Price:** $1.87
+- **Change:** -5.82%
 - **Analysis:** Analysis unavailable due to error.
 
-### 2. Kaspa (KAS)
-- **Price:** $0.03
-- **Change:** -1.61%
+### 2. Ethena (ENA)
+- **Price:** $0.11
+- **Change:** -6.05%
 - **Analysis:** Analysis unavailable due to error.
 
-### 3. DeXe (DEXE)
-- **Price:** $12.52
-- **Change:** -12.33%
+### 3. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** -6.36%
 - **Analysis:** Analysis unavailable due to error.
 
