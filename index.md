@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-04-23
+# Daily Crypto Movers - 2026-04-24
 
 ## Top 3 Gainers (24h)
 ### 1. ​​Stable (STABLE)
 - **Price:** $0.03
-- **Change:** +8.66%
-- **Analysis:** The 8.66% surge in Stable, a stablecoin, most likely reflects an upward de-peg driven by high demand for perceived safety or localized liquidity issues in a volatile market.
+- **Change:** +15.99%
+- **Analysis:** The 15.99% increase for Stable most likely reflects general market volatility, as no specific news or major trend is widely reported to explain this movement.
 
-### 2. MemeCore (M)
-- **Price:** $4.60
-- **Change:** +7.52%
+### 2. Zcash (ZEC)
+- **Price:** $339.51
+- **Change:** +7.33%
+- **Analysis:** Analysis unavailable due to error.
+
+### 3. DeXe (DEXE)
+- **Price:** $13.16
+- **Change:** +4.59%
+- **Analysis:** Analysis unavailable due to error.
+
+## Top 3 Losers (24h)
+### 1. Toncoin (TON)
+- **Price:** $1.32
+- **Change:** -1.85%
+- **Analysis:** Analysis unavailable due to error.
+
+### 2. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** -1.89%
 - **Analysis:** Analysis unavailable due to error.
 
 ### 3. JUST (JST)
 - **Price:** $0.08
-- **Change:** +4.07%
-- **Analysis:** Analysis unavailable due to error.
-
-## Top 3 Losers (24h)
-### 1. Morpho (MORPHO)
-- **Price:** $1.87
-- **Change:** -5.82%
-- **Analysis:** Analysis unavailable due to error.
-
-### 2. Ethena (ENA)
-- **Price:** $0.11
-- **Change:** -6.05%
-- **Analysis:** Analysis unavailable due to error.
-
-### 3. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** -6.36%
+- **Change:** -2.81%
 - **Analysis:** Analysis unavailable due to error.
 
