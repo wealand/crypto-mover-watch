@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-04-25
+# Daily Crypto Movers - 2026-04-26
 
 ## Top 3 Gainers (24h)
-### 1. Algorand (ALGO)
-- **Price:** $0.12
-- **Change:** +9.87%
-- **Analysis:** Algorand's price increase most likely reflects general positive sentiment and volatility within the broader cryptocurrency market, as there isn't significant specific ALGO-related news driving this move.
+### 1. ​​Stable (STABLE)
+- **Price:** $0.03
+- **Change:** +6.64%
+- **Analysis:** The cryptocurrency Stable, a stablecoin, most likely experienced an upward de-pegging event from its intended peg, driven by specific market demand or liquidity issues rather than general market volatility.
 
-### 2. Cosmos Hub (ATOM)
-- **Price:** $2.02
-- **Change:** +4.23%
-- **Analysis:** The price increase for Cosmos Hub (ATOM) most likely reflects positive broader cryptocurrency market sentiment, coupled with ongoing interest in its ecosystem's fundamental developments.
+### 2. Sky (SKY)
+- **Price:** $0.09
+- **Change:** +4.98%
+- **Analysis:** Absent any specific recent news, Sky's 4.98% price increase is most likely attributed to general cryptocurrency market volatility.
 
-### 3. Zcash (ZEC)
-- **Price:** $356.47
-- **Change:** +4.14%
-- **Analysis:** Lacking specific Zcash news, its 4.14% increase most likely reflects general cryptocurrency market volatility and positive sentiment.
+### 3. Pi Network (PI)
+- **Price:** $0.18
+- **Change:** +4.97%
+- **Analysis:** Pi Network's reported 4.97% price increase is likely driven by speculative trading on unofficial markets or general crypto volatility, as it remains in a closed mainnet phase without specific news impacting a true market price.
 
 ## Top 3 Losers (24h)
-### 1. POL (ex-MATIC) (POL)
-- **Price:** $0.09
-- **Change:** -2.13%
-- **Analysis:** POL's 2.13% price drop most likely reflects general market volatility and a minor pullback across the broader cryptocurrency market.
+### 1. Midnight (NIGHT)
+- **Price:** $0.04
+- **Change:** -3.81%
+- **Analysis:** The 3.81% decline in Midnight's price most likely stems from general cryptocurrency market volatility, aligning with broader market trends.
 
-### 2. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** -3.49%
-- **Analysis:** The 3.49% decline in the cryptocurrency Stable most likely indicates a significant de-pegging event, signaling a loss of investor confidence in its ability to maintain its stable value.
+### 2. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** -5.16%
+- **Analysis:** The 5.16% price drop for Rain most likely reflects general market volatility in the cryptocurrency space.
 
-### 3. MemeCore (M)
-- **Price:** $4.32
-- **Change:** -8.48%
-- **Analysis:** Analysis unavailable due to error.
+### 3. Official Trump (TRUMP)
+- **Price:** $2.66
+- **Change:** -10.10%
+- **Analysis:** The cryptocurrency's price drop is most likely a reaction to Donald Trump's recent guilty verdict in his New York hush-money trial.
 
