@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-04-29
+# Daily Crypto Movers - 2026-04-30
 
 ## Top 3 Gainers (24h)
-### 1. Dogecoin (DOGE)
-- **Price:** $0.11
-- **Change:** +10.23%
+### 1. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** +6.03%
 - **Analysis:** Analysis unavailable due to error.
 
-### 2. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** +6.94%
+### 2. WhiteBIT Coin (WBT)
+- **Price:** $57.62
+- **Change:** +4.71%
 - **Analysis:** Analysis unavailable due to error.
 
-### 3. Aster (ASTER)
-- **Price:** $0.67
-- **Change:** +5.67%
+### 3. JUST (JST)
+- **Price:** $0.09
+- **Change:** +3.27%
 - **Analysis:** Analysis unavailable due to error.
 
 ## Top 3 Losers (24h)
 ### 1. Sky (SKY)
-- **Price:** $0.09
-- **Change:** -2.31%
+- **Price:** $0.08
+- **Change:** -8.88%
 - **Analysis:** Analysis unavailable due to error.
 
-### 2. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** -4.85%
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** -9.59%
 - **Analysis:** Analysis unavailable due to error.
 
-### 3. DeXe (DEXE)
-- **Price:** $12.26
-- **Change:** -18.24%
+### 3. World Liberty Financial (WLFI)
+- **Price:** $0.06
+- **Change:** -17.45%
 - **Analysis:** Analysis unavailable due to error.
 
