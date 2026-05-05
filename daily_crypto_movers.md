@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-04
+# Daily Crypto Movers - 2026-05-05
 
 ## Top 3 Gainers (24h)
-### 1. SkyAI (SKYAI)
-- **Price:** $0.61
-- **Change:** +78.05%
-- **Analysis:** The surge in SkyAI's value is most likely driven by speculative interest in AI-themed cryptocurrencies, a strong current market trend.
+### 1. Toncoin (TON)
+- **Price:** $1.83
+- **Change:** +31.08%
+- **Analysis:** The most likely reason for Toncoin's surge is its deepening integration within the Telegram ecosystem, particularly the use of TON for ad revenue sharing with channel owners.
 
-### 2. Dash (DASH)
-- **Price:** $47.49
-- **Change:** +26.07%
-- **Analysis:** The surge in Dash is most likely driven by speculative trading and broader altcoin market momentum, rather than any specific project-related news.
+### 2. MemeCore (M)
+- **Price:** $3.36
+- **Change:** +24.48%
+- **Analysis:** Analysis unavailable due to error.
 
-### 3. Siren (SIREN)
-- **Price:** $0.79
-- **Change:** +12.99%
-- **Analysis:** The 12.99% increase in Siren's price most likely reflects general market volatility and speculative trading, as there is no specific recent news or major development for the project driving this movement.
+### 3. Terra Luna Classic (LUNC)
+- **Price:** $0.00
+- **Change:** +12.48%
+- **Analysis:** Analysis unavailable due to error.
 
 ## Top 3 Losers (24h)
-### 1. Algorand (ALGO)
-- **Price:** $0.11
-- **Change:** -2.94%
-- **Analysis:** The 2.94% drop in Algorand's price likely reflects general cryptocurrency market volatility rather than specific negative news impacting ALGO.
+### 1. Bittensor (TAO)
+- **Price:** $283.48
+- **Change:** -2.85%
+- **Analysis:** Analysis unavailable due to error.
 
-### 2. Provenance Blockchain (HASH)
-- **Price:** $0.01
-- **Change:** -8.03%
-- **Analysis:** Provenance Blockchain's 8.03% drop most likely reflects general cryptocurrency market volatility, as altcoins often track broader market trends rather than specific project news.
+### 2. Siren (SIREN)
+- **Price:** $0.76
+- **Change:** -3.99%
+- **Analysis:** Analysis unavailable due to error.
 
-### 3. MemeCore (M)
-- **Price:** $2.68
-- **Change:** -9.83%
-- **Analysis:** MemeCore's 9.83% drop is most likely due to broader cryptocurrency market volatility and a general risk-off sentiment or profit-taking across speculative assets.
+### 3. Dash (DASH)
+- **Price:** $44.90
+- **Change:** -7.01%
+- **Analysis:** Analysis unavailable due to error.
 
