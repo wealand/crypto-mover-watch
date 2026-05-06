@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-05
+# Daily Crypto Movers - 2026-05-06
 
 ## Top 3 Gainers (24h)
-### 1. Toncoin (TON)
-- **Price:** $1.83
-- **Change:** +31.08%
-- **Analysis:** The most likely reason for Toncoin's surge is its deepening integration within the Telegram ecosystem, particularly the use of TON for ad revenue sharing with channel owners.
-
-### 2. MemeCore (M)
-- **Price:** $3.36
-- **Change:** +24.48%
+### 1. SkyAI (SKYAI)
+- **Price:** $0.79
+- **Change:** +48.84%
 - **Analysis:** Analysis unavailable due to error.
 
-### 3. Terra Luna Classic (LUNC)
-- **Price:** $0.00
-- **Change:** +12.48%
+### 2. Zcash (ZEC)
+- **Price:** $567.13
+- **Change:** +35.78%
+- **Analysis:** Analysis unavailable due to error.
+
+### 3. Toncoin (TON)
+- **Price:** $2.20
+- **Change:** +20.97%
 - **Analysis:** Analysis unavailable due to error.
 
 ## Top 3 Losers (24h)
-### 1. Bittensor (TAO)
-- **Price:** $283.48
-- **Change:** -2.85%
+### 1. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** -0.25%
 - **Analysis:** Analysis unavailable due to error.
 
-### 2. Siren (SIREN)
-- **Price:** $0.76
-- **Change:** -3.99%
+### 2. JUST (JST)
+- **Price:** $0.08
+- **Change:** -0.31%
 - **Analysis:** Analysis unavailable due to error.
 
-### 3. Dash (DASH)
-- **Price:** $44.90
-- **Change:** -7.01%
+### 3. Sky (SKY)
+- **Price:** $0.08
+- **Change:** -0.96%
 - **Analysis:** Analysis unavailable due to error.
 
