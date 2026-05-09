@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-08
+# Daily Crypto Movers - 2026-05-09
 
 ## Top 3 Gainers (24h)
-### 1. Ondo (ONDO)
-- **Price:** $0.37
-- **Change:** +8.61%
-- **Analysis:** Ondo's 8.61% gain is most likely driven by continued investor interest in the Real World Assets (RWA) tokenization narrative, a sector it leads, alongside general positive crypto market sentiment.
-
-### 2. Venice Token (VVV)
-- **Price:** $13.73
-- **Change:** +6.32%
-- **Analysis:** Venice Token (vvv)'s 6.32% rise is most likely due to general cryptocurrency market volatility, as there is no specific news driving its movement.
-
-### 3. World Liberty Financial (WLFI)
-- **Price:** $0.07
-- **Change:** +6.31%
-- **Analysis:** The 6.31% increase for World Liberty Financial (WLFI) most likely reflects general cryptocurrency market volatility, given the absence of specific recent news catalysts.
-
-## Top 3 Losers (24h)
-### 1. Monero (XMR)
-- **Price:** $397.78
-- **Change:** -4.68%
-- **Analysis:** Monero's price decline most likely reflects general cryptocurrency market volatility and prevailing investor sentiment, rather than specific XMR-related news.
+### 1. Internet Computer (ICP)
+- **Price:** $3.75
+- **Change:** +17.57%
+- **Analysis:** The price increase likely reflects a general positive sentiment across the broader cryptocurrency market, potentially amplified by its alignment with trending AI and DePIN narratives.
 
 ### 2. Siren (SIREN)
-- **Price:** $1.07
-- **Change:** -6.22%
-- **Analysis:** The 6.22% drop in Siren's price most likely reflects broader cryptocurrency market volatility rather than specific project news.
+- **Price:** $1.26
+- **Change:** +17.42%
+- **Analysis:** Siren's (siren) 17.42% price increase is most likely attributable to general market volatility and broader positive cryptocurrency market trends rather than specific recent news about the project.
 
-### 3. SkyAI (SKYAI)
-- **Price:** $0.60
-- **Change:** -6.47%
-- **Analysis:** The 6.47% drop in SkyAI (skyai) largely reflects general market volatility and a slight pullback in the broader cryptocurrency market without specific negative news for the project itself.
+### 3. Filecoin (FIL)
+- **Price:** $1.27
+- **Change:** +15.47%
+- **Analysis:** Filecoin's price surge is primarily driven by renewed investor interest in its decentralized storage capabilities, particularly its perceived role within the growing AI and DePIN (Decentralized Physical Infrastructure Networks) narratives.
+
+## Top 3 Losers (24h)
+### 1. JUST (JST)
+- **Price:** $0.08
+- **Change:** -2.74%
+- **Analysis:** The decline in JST most likely reflects general cryptocurrency market volatility rather than specific project news.
+
+### 2. Toncoin (TON)
+- **Price:** $2.52
+- **Change:** -7.35%
+- **Analysis:** Toncoin's price decline most likely reflects general cryptocurrency market volatility, aligning with a broader market correction.
+
+### 3. MemeCore (M)
+- **Price:** $3.41
+- **Change:** -8.53%
+- **Analysis:** MemeCore's 8.53% drop most likely reflects general market volatility and a lack of specific positive news, a common trend for speculative assets.
 
