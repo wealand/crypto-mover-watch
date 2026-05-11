@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-10
+# Daily Crypto Movers - 2026-05-11
 
 ## Top 3 Gainers (24h)
-### 1. Uniswap (UNI)
-- **Price:** $4.02
-- **Change:** +10.22%
-- **Analysis:** The most likely reason for Uniswap's price increase is the recent approval of a governance proposal to distribute protocol fees to UNI stakers, improving its tokenomics.
+### 1. Venice Token (VVV)
+- **Price:** $17.54
+- **Change:** +16.57%
+- **Analysis:** Absent specific news, the Venice Token's price movement is most likely attributed to general market volatility and speculative trading within the cryptocurrency market.
 
 ### 2. Sui (SUI)
-- **Price:** $1.12
-- **Change:** +6.85%
-- **Analysis:** Without specific unique news, Sui's 6.85% gain most likely reflects general positive momentum across the broader cryptocurrency market.
+- **Price:** $1.27
+- **Change:** +12.39%
+- **Analysis:** Sui's price increase is most likely driven by positive momentum across the broader altcoin market, reflecting renewed investor interest in high-performance Layer 1 blockchains.
 
-### 3. Jupiter (JUP)
-- **Price:** $0.26
-- **Change:** +6.03%
-- **Analysis:** Jupiter's 6.03% price increase most likely reflects general market volatility and broader positive sentiment within the altcoin market, without specific significant news driving the immediate move.
+### 3. XDC Network (XDC)
+- **Price:** $0.03
+- **Change:** +9.15%
+- **Analysis:** The 9.15% increase in XDC's price likely reflects renewed market interest in real-world asset (RWA) tokenization and institutional finance solutions, a core focus of the XDC Network.
 
 ## Top 3 Losers (24h)
-### 1. Internet Computer (ICP)
-- **Price:** $3.47
-- **Change:** -5.60%
-- **Analysis:** The decline in ICP's price most likely follows general market volatility and a slight correction seen across the broader cryptocurrency market.
+### 1. Siren (SIREN)
+- **Price:** $1.13
+- **Change:** -4.33%
+- **Analysis:** Siren's (siren) 4.33% price drop in the last 24 hours is most likely due to general cryptocurrency market volatility, as there is no specific news driving the movement.
 
-### 2. Siren (SIREN)
-- **Price:** $1.19
-- **Change:** -5.72%
-- **Analysis:** The 5.72% drop in Siren's price most likely reflects general cryptocurrency market volatility, as no specific project news has been cited for the movement.
+### 2. Algorand (ALGO)
+- **Price:** $0.12
+- **Change:** -4.52%
+- **Analysis:** Algorand's 4.52% drop most likely reflects general cryptocurrency market volatility, aligning with broader trends affecting many altcoins rather than specific negative news for the project.
 
-### 3. World Liberty Financial (WLFI)
-- **Price:** $0.07
-- **Change:** -7.66%
-- **Analysis:** The price drop for WLFI most likely reflects general cryptocurrency market volatility, consistent with broader market trends rather than specific project news.
+### 3. Zcash (ZEC)
+- **Price:** $568.33
+- **Change:** -4.82%
+- **Analysis:** The decline in Zcash (ZEC) is most likely attributed to a broader downturn in the cryptocurrency market, mirroring Bitcoin's recent price movements.
 
