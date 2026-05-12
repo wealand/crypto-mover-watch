@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-11
+# Daily Crypto Movers - 2026-05-12
 
 ## Top 3 Gainers (24h)
-### 1. Venice Token (VVV)
-- **Price:** $17.54
-- **Change:** +16.57%
-- **Analysis:** Absent specific news, the Venice Token's price movement is most likely attributed to general market volatility and speculative trading within the cryptocurrency market.
+### 1. BUILDon (B)
+- **Price:** $0.64
+- **Change:** +34.31%
+- **Analysis:** With no immediate specific news, the rise in BUILDon's price most likely reflects speculative trading activity within the altcoin market.
 
-### 2. Sui (SUI)
-- **Price:** $1.27
-- **Change:** +12.39%
-- **Analysis:** Sui's price increase is most likely driven by positive momentum across the broader altcoin market, reflecting renewed investor interest in high-performance Layer 1 blockchains.
+### 2. ​​Stable (STABLE)
+- **Price:** $0.04
+- **Change:** +12.00%
+- **Analysis:** Lacking specific news, Stable's 12.00% price increase primarily reflects general market volatility common to cryptocurrencies.
 
-### 3. XDC Network (XDC)
-- **Price:** $0.03
-- **Change:** +9.15%
-- **Analysis:** The 9.15% increase in XDC's price likely reflects renewed market interest in real-world asset (RWA) tokenization and institutional finance solutions, a core focus of the XDC Network.
+### 3. Cronos (CRO)
+- **Price:** $0.08
+- **Change:** +6.17%
+- **Analysis:** The price increase for Cronos (CRO) most likely reflects general market volatility and a broader positive sentiment seen across the cryptocurrency market.
 
 ## Top 3 Losers (24h)
-### 1. Siren (SIREN)
-- **Price:** $1.13
-- **Change:** -4.33%
-- **Analysis:** Siren's (siren) 4.33% price drop in the last 24 hours is most likely due to general cryptocurrency market volatility, as there is no specific news driving the movement.
+### 1. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** -5.00%
+- **Analysis:** The 5% drop in Pump.fun's price is most likely a reaction to the recent arrest of a former employee for exploiting the protocol.
 
-### 2. Algorand (ALGO)
+### 2. Ethena (ENA)
 - **Price:** $0.12
-- **Change:** -4.52%
-- **Analysis:** Algorand's 4.52% drop most likely reflects general cryptocurrency market volatility, aligning with broader trends affecting many altcoins rather than specific negative news for the project.
+- **Change:** -5.06%
+- **Analysis:** Ethena's price decline most likely reflects broader cryptocurrency market volatility and a general cooling of investor risk appetite rather than specific project news.
 
-### 3. Zcash (ZEC)
-- **Price:** $568.33
-- **Change:** -4.82%
-- **Analysis:** The decline in Zcash (ZEC) is most likely attributed to a broader downturn in the cryptocurrency market, mirroring Bitcoin's recent price movements.
+### 3. Jupiter (JUP)
+- **Price:** $0.23
+- **Change:** -8.49%
+- **Analysis:** Jupiter's 8.49% decline most likely reflects general market volatility across the broader cryptocurrency sector.
 
