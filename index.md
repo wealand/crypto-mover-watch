@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-12
+# Daily Crypto Movers - 2026-05-13
 
 ## Top 3 Gainers (24h)
-### 1. BUILDon (B)
-- **Price:** $0.64
-- **Change:** +34.31%
-- **Analysis:** With no immediate specific news, the rise in BUILDon's price most likely reflects speculative trading activity within the altcoin market.
+### 1. Injective (INJ)
+- **Price:** $5.85
+- **Change:** +20.95%
+- **Analysis:** The price surge in Injective is largely driven by the broader cryptocurrency market recovery, amplified by continued positive sentiment around its growing DeFi ecosystem.
 
-### 2. ​​Stable (STABLE)
-- **Price:** $0.04
-- **Change:** +12.00%
-- **Analysis:** Lacking specific news, Stable's 12.00% price increase primarily reflects general market volatility common to cryptocurrencies.
+### 2. BUILDon (B)
+- **Price:** $0.69
+- **Change:** +8.21%
+- **Analysis:** Lacking specific news, BUILDon's 8.21% price increase most likely reflects general cryptocurrency market volatility and positive investor sentiment.
 
-### 3. Cronos (CRO)
-- **Price:** $0.08
-- **Change:** +6.17%
-- **Analysis:** The price increase for Cronos (CRO) most likely reflects general market volatility and a broader positive sentiment seen across the cryptocurrency market.
+### 3. Polkadot (DOT)
+- **Price:** $1.42
+- **Change:** +5.76%
+- **Analysis:** Polkadot's 5.76% increase most likely reflects general positive sentiment across the broader cryptocurrency market, as no specific major news directly impacting DOT has been announced.
 
 ## Top 3 Losers (24h)
-### 1. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** -5.00%
-- **Analysis:** The 5% drop in Pump.fun's price is most likely a reaction to the recent arrest of a former employee for exploiting the protocol.
+### 1. Pudgy Penguins (PENGU)
+- **Price:** $0.01
+- **Change:** -5.15%
+- **Analysis:** The 5.15% price drop for Pudgy Penguins most likely reflects general cryptocurrency market volatility impacting altcoins, rather than specific project news.
 
-### 2. Ethena (ENA)
-- **Price:** $0.12
-- **Change:** -5.06%
-- **Analysis:** Ethena's price decline most likely reflects broader cryptocurrency market volatility and a general cooling of investor risk appetite rather than specific project news.
+### 2. Toncoin (TON)
+- **Price:** $2.24
+- **Change:** -8.13%
+- **Analysis:** Toncoin's 8.13% decline is most likely due to general cryptocurrency market volatility and profit-taking after recent gains, aligning with broader altcoin retracements.
 
-### 3. Jupiter (JUP)
-- **Price:** $0.23
-- **Change:** -8.49%
-- **Analysis:** Jupiter's 8.49% decline most likely reflects general market volatility across the broader cryptocurrency sector.
+### 3. Venice Token (VVV)
+- **Price:** $14.96
+- **Change:** -11.33%
+- **Analysis:** The Venice Token's decline most likely reflects general cryptocurrency market volatility, rather than specific token-related news.
 
