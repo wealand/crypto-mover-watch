@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-13
+# Daily Crypto Movers - 2026-05-14
 
 ## Top 3 Gainers (24h)
-### 1. Injective (INJ)
-- **Price:** $5.85
-- **Change:** +20.95%
-- **Analysis:** The price surge in Injective is largely driven by the broader cryptocurrency market recovery, amplified by continued positive sentiment around its growing DeFi ecosystem.
+### 1. ​​Stable (STABLE)
+- **Price:** $0.04
+- **Change:** +5.12%
+- **Analysis:** The cryptocurrency Stable's 5.12% increase most likely reflects general market volatility, as no specific news or catalyst for this particular token has been identified.
 
-### 2. BUILDon (B)
-- **Price:** $0.69
-- **Change:** +8.21%
-- **Analysis:** Lacking specific news, BUILDon's 8.21% price increase most likely reflects general cryptocurrency market volatility and positive investor sentiment.
+### 2. Canton (CC)
+- **Price:** $0.16
+- **Change:** +4.87%
+- **Analysis:** Lacking specific news, Canton (cc)'s 4.87% rise likely reflects general market volatility.
 
-### 3. Polkadot (DOT)
-- **Price:** $1.42
-- **Change:** +5.76%
-- **Analysis:** Polkadot's 5.76% increase most likely reflects general positive sentiment across the broader cryptocurrency market, as no specific major news directly impacting DOT has been announced.
+### 3. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** +4.45%
+- **Analysis:** The price increase for Provenance Blockchain (HASH) most likely reflects general cryptocurrency market trends and volatility, as no specific project-related news appears to be the primary driver.
 
 ## Top 3 Losers (24h)
-### 1. Pudgy Penguins (PENGU)
-- **Price:** $0.01
-- **Change:** -5.15%
-- **Analysis:** The 5.15% price drop for Pudgy Penguins most likely reflects general cryptocurrency market volatility impacting altcoins, rather than specific project news.
+### 1. Arbitrum (ARB)
+- **Price:** $0.13
+- **Change:** -8.35%
+- **Analysis:** Arbitrum's decline most likely reflects general cryptocurrency market volatility, influenced by ongoing macroeconomic uncertainty and geopolitical tensions.
 
-### 2. Toncoin (TON)
-- **Price:** $2.24
-- **Change:** -8.13%
-- **Analysis:** Toncoin's 8.13% decline is most likely due to general cryptocurrency market volatility and profit-taking after recent gains, aligning with broader altcoin retracements.
+### 2. Worldcoin (WLD)
+- **Price:** $0.26
+- **Change:** -9.66%
+- **Analysis:** Worldcoin's price drop is most likely attributed to general cryptocurrency market volatility and broader altcoin trends, rather than specific negative news unique to WLD.
 
-### 3. Venice Token (VVV)
-- **Price:** $14.96
-- **Change:** -11.33%
-- **Analysis:** The Venice Token's decline most likely reflects general cryptocurrency market volatility, rather than specific token-related news.
+### 3. Internet Computer (ICP)
+- **Price:** $2.95
+- **Change:** -9.89%
+- **Analysis:** Analysis unavailable due to error.
 
