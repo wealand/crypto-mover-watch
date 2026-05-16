@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-15
+# Daily Crypto Movers - 2026-05-16
 
 ## Top 3 Gainers (24h)
-### 1. Hyperliquid (HYPE)
-- **Price:** $45.44
-- **Change:** +16.31%
-- **Analysis:** The Hyperliquid (HYPE) price increase is primarily driven by the ongoing Points Season 2, which incentivizes user activity, alongside its consistent growth in trading volume and user base.
+### 1. Quant (QNT)
+- **Price:** $81.75
+- **Change:** +5.35%
+- **Analysis:** Quant's price increase most likely reflects general positive sentiment and upward momentum across the broader cryptocurrency market, rather than specific recent news unique to QNT.
 
-### 2. Flare (FLR)
-- **Price:** $0.01
-- **Change:** +11.76%
-- **Analysis:** Flare's price increase is most likely driven by growing utility and adoption of its decentralized data acquisition platform (FTSO) and ongoing ecosystem developments.
+### 2. Spiko EU T-Bills Money Market Fund (EUTBL)
+- **Price:** $1.22
+- **Change:** +0.09%
+- **Analysis:** The 0.09% increase in eutbl most likely reflects minor adjustments in EU short-term interest rates or slight shifts in demand for stable, yield-bearing assets.
 
-### 3. Unibase (UB)
-- **Price:** $0.23
-- **Change:** +10.28%
-- **Analysis:** Unibase (ub)'s 10.28% increase most likely reflects general market volatility, as no specific news or major trend appears to be driving its movement.
+### 3. Global Dollar (USDG)
+- **Price:** $1.00
+- **Change:** +0.01%
+- **Analysis:** The 0.01% increase for Global Dollar (usdg), a stablecoin, most likely reflects typical minor market fluctuations and slight deviations from its peg rather than specific news.
 
 ## Top 3 Losers (24h)
-### 1. ​​Stable (STABLE)
-- **Price:** $0.04
-- **Change:** -3.63%
-- **Analysis:** Given the absence of specific news indicating a de-pegging event for a cryptocurrency named "Stable," its 3.63% decline most likely reflects general cryptocurrency market volatility affecting lesser-known or riskier digital assets.
+### 1. Ethena (ENA)
+- **Price:** $0.11
+- **Change:** -10.06%
+- **Analysis:** Ethena's price drop is most likely a reflection of broader cryptocurrency market volatility and a general market downturn.
 
-### 2. Sui (SUI)
-- **Price:** $1.14
-- **Change:** -5.25%
-- **Analysis:** Sui's price drop most likely reflects broader cryptocurrency market volatility, lacking specific negative news unique to the asset.
+### 2. Morpho (MORPHO)
+- **Price:** $1.75
+- **Change:** -10.07%
+- **Analysis:** The decline in Morpho's price most likely reflects a general downturn and increased volatility across the broader cryptocurrency market.
 
-### 3. Internet Computer (ICP)
-- **Price:** $2.67
-- **Change:** -9.15%
-- **Analysis:** The price decline in ICP most likely reflects general cryptocurrency market volatility and a broader market downturn.
+### 3. ​​Stable (STABLE)
+- **Price:** $0.03
+- **Change:** -16.12%
+- **Analysis:** The 16.12% drop for the cryptocurrency Stable (stable) most likely signifies a de-pegging event, driven by a loss of confidence in its stability mechanism or underlying reserves.
 
