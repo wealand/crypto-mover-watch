@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-17
+# Daily Crypto Movers - 2026-05-18
 
 ## Top 3 Gainers (24h)
 ### 1. ​​Stable (STABLE)
 - **Price:** $0.04
-- **Change:** +13.04%
-- **Analysis:** Absent specific news, the 13.04% price increase for the cryptocurrency Stable is most likely due to general market volatility.
+- **Change:** +7.53%
+- **Analysis:** Absent specific news for a cryptocurrency named 'Stable,' its 7.53% increase most likely reflects general market volatility or project-specific developments rather than a fundamental shift in its peg (if it were a stablecoin).
 
-### 2. Cosmos Hub (ATOM)
-- **Price:** $2.09
-- **Change:** +8.72%
-- **Analysis:** Cosmos Hub's (ATOM) 8.72% price rise likely reflects broader cryptocurrency market volatility and continued positive sentiment surrounding its interoperability and modular ecosystem advancements.
+### 2. Kite (KITE)
+- **Price:** $0.23
+- **Change:** +6.84%
+- **Analysis:** Kite's 6.84% increase is most likely a reflection of general cryptocurrency market volatility, as no specific news catalyst was identified.
 
-### 3. Venice Token (VVV)
-- **Price:** $14.09
-- **Change:** +8.17%
-- **Analysis:** The 8.17% price increase for Venice Token (vvv) is most likely attributed to general market volatility and speculative trading, as no specific news catalyst has been identified.
+### 3. DeXe (DEXE)
+- **Price:** $13.89
+- **Change:** +6.03%
+- **Analysis:** DeXe's 6.03% increase is most likely due to general cryptocurrency market volatility, as no significant project-specific news has been reported recently.
 
 ## Top 3 Losers (24h)
-### 1. World Liberty Financial (WLFI)
-- **Price:** $0.06
-- **Change:** -2.56%
-- **Analysis:** The 2.56% drop in World Liberty Financial (WLFI) is most likely a reflection of general cryptocurrency market volatility, with no specific project news cited for the movement.
+### 1. Pi Network (PI)
+- **Price:** $0.15
+- **Change:** -6.62%
+- **Analysis:** The 6.62% drop in Pi Network's value most likely reflects general cryptocurrency market volatility and the speculative nature of its current pre-mainnet trading status, with no specific major news driving the movement.
 
-### 2. Quant (QNT)
-- **Price:** $79.13
-- **Change:** -3.44%
-- **Analysis:** Quant's 3.44% decline likely reflects general market volatility and the broader downward trend seen across the cryptocurrency sector.
+### 2. Dogecoin (DOGE)
+- **Price:** $0.10
+- **Change:** -6.63%
+- **Analysis:** Dogecoin's price decline primarily reflects general market volatility across the broader cryptocurrency sector.
 
-### 3. XDC Network (XDC)
-- **Price:** $0.03
-- **Change:** -6.18%
-- **Analysis:** The XDC Network's 6.18% price drop most likely reflects general cryptocurrency market volatility, with no specific negative news catalyst reported for XDC itself.
+### 3. Bitcoin Cash (BCH)
+- **Price:** $354.73
+- **Change:** -14.30%
+- **Analysis:** Analysis unavailable due to error.
 
