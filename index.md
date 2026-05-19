@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-18
+# Daily Crypto Movers - 2026-05-19
 
 ## Top 3 Gainers (24h)
-### 1. ​​Stable (STABLE)
-- **Price:** $0.04
-- **Change:** +7.53%
-- **Analysis:** Absent specific news for a cryptocurrency named 'Stable,' its 7.53% increase most likely reflects general market volatility or project-specific developments rather than a fundamental shift in its peg (if it were a stablecoin).
+### 1. Ondo (ONDO)
+- **Price:** $0.37
+- **Change:** +11.86%
+- **Analysis:** Ondo's recent price surge is most likely driven by the strengthening narrative and growing investor interest in Real World Assets (RWAs) within the cryptocurrency market.
 
-### 2. Kite (KITE)
-- **Price:** $0.23
-- **Change:** +6.84%
-- **Analysis:** Kite's 6.84% increase is most likely a reflection of general cryptocurrency market volatility, as no specific news catalyst was identified.
+### 2. MemeCore (M)
+- **Price:** $3.47
+- **Change:** +8.03%
+- **Analysis:** MemeCore's 8.03% gain likely reflects a general positive sentiment across the cryptocurrency market and increased speculative interest in meme coins.
 
-### 3. DeXe (DEXE)
-- **Price:** $13.89
-- **Change:** +6.03%
-- **Analysis:** DeXe's 6.03% increase is most likely due to general cryptocurrency market volatility, as no significant project-specific news has been reported recently.
+### 3. Zcash (ZEC)
+- **Price:** $557.60
+- **Change:** +7.23%
+- **Analysis:** The Zcash price increase most likely reflects a broader positive trend in the cryptocurrency market, often driven by Bitcoin's performance, rather than specific Zcash-related news.
 
 ## Top 3 Losers (24h)
-### 1. Pi Network (PI)
-- **Price:** $0.15
-- **Change:** -6.62%
-- **Analysis:** The 6.62% drop in Pi Network's value most likely reflects general cryptocurrency market volatility and the speculative nature of its current pre-mainnet trading status, with no specific major news driving the movement.
+### 1. Quant (QNT)
+- **Price:** $74.16
+- **Change:** -2.66%
+- **Analysis:** The 2.66% decline in Quant (QNT) most likely reflects general market volatility and a slight downturn in the broader cryptocurrency market, absent specific project news.
 
-### 2. Dogecoin (DOGE)
-- **Price:** $0.10
-- **Change:** -6.63%
-- **Analysis:** Dogecoin's price decline primarily reflects general market volatility across the broader cryptocurrency sector.
+### 2. ​​Stable (STABLE)
+- **Price:** $0.04
+- **Change:** -3.30%
+- **Analysis:** With no specific news currently explaining a 3.30% drop for the Stable stablecoin, its movement likely reflects a temporary de-pegging event influenced by broader market conditions or liquidity concerns.
 
-### 3. Bitcoin Cash (BCH)
-- **Price:** $354.73
-- **Change:** -14.30%
+### 3. Flare (FLR)
+- **Price:** $0.01
+- **Change:** -5.00%
 - **Analysis:** Analysis unavailable due to error.
 
