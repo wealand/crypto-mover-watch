@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-20
+# Daily Crypto Movers - 2026-05-21
 
 ## Top 3 Gainers (24h)
-### 1. Venice Token (VVV)
-- **Price:** $17.54
-- **Change:** +21.37%
-- **Analysis:** In the absence of specific news, the Venice Token's price surge most likely reflects general market volatility and positive sentiment across the broader altcoin market.
+### 1. Hyperliquid (HYPE)
+- **Price:** $57.48
+- **Change:** +15.41%
+- **Analysis:** The price surge is most likely due to Hyperliquid's continued strong performance, including growing trading volume and market share in the decentralized perpetuals space.
 
-### 2. Dash (DASH)
-- **Price:** $46.99
-- **Change:** +11.97%
-- **Analysis:** Dash's price increase most likely reflects a broader upward trend in the cryptocurrency market, aligning with general altcoin movements rather than specific Dash-related news.
+### 2. Zcash (ZEC)
+- **Price:** $659.18
+- **Change:** +13.10%
+- **Analysis:** The price increase for Zcash most likely reflects a broader positive trend in the cryptocurrency market, following gains by Bitcoin and other altcoins.
 
-### 3. XDC Network (XDC)
-- **Price:** $0.04
-- **Change:** +11.60%
-- **Analysis:** The XDC Network's 11.60% rise most likely reflects general positive sentiment and volatility within the broader cryptocurrency market, without any specific major news driving the surge.
+### 3. Mantle (MNT)
+- **Price:** $0.68
+- **Change:** +7.75%
+- **Analysis:** Mantle's price increase likely reflects sustained positive sentiment for Ethereum Layer 2 solutions and ongoing growth within its ecosystem.
 
 ## Top 3 Losers (24h)
-### 1. Cosmos Hub (ATOM)
-- **Price:** $2.01
-- **Change:** -2.72%
-- **Analysis:** The 2.72% decline in Cosmos Hub (ATOM) most likely reflects general cryptocurrency market volatility.
+### 1. Venice Token (VVV)
+- **Price:** $16.93
+- **Change:** -3.93%
+- **Analysis:** The Venice Token (vvv) price decline most likely follows general cryptocurrency market volatility.
 
-### 2. MemeCore (M)
-- **Price:** $3.35
-- **Change:** -3.51%
-- **Analysis:** MemeCore's 3.51% decline most likely reflects general cryptocurrency market volatility, lacking any specific project-related news.
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** -4.25%
+- **Analysis:** The 4.25% drop in Provenance Blockchain's price most likely reflects general market volatility in the cryptocurrency sector, with no specific project-related news driving the movement.
 
-### 3. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** -5.73%
-- **Analysis:** Analysis unavailable due to error.
+### 3. MemeCore (M)
+- **Price:** $2.84
+- **Change:** -14.89%
+- **Analysis:** MemeCore's 14.89% drop most likely reflects general cryptocurrency market volatility, which disproportionately impacts speculative memecoins, in the absence of specific positive project news.
 
