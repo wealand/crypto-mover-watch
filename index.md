@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-22
+# Daily Crypto Movers - 2026-05-23
 
 ## Top 3 Gainers (24h)
-### 1. NEAR Protocol (NEAR)
-- **Price:** $2.25
-- **Change:** +28.95%
-- **Analysis:** NEAR Protocol's surge is primarily driven by its strong alignment with the AI narrative, especially with co-founder Illia Polosukhin scheduled to speak at Nvidia's upcoming GTC AI conference.
+### 1. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** +8.21%
+- **Analysis:** The price increase for Provenance Blockchain (HASH) likely reflects growing market enthusiasm for real-world asset (RWA) tokenization, a core focus of the platform.
 
-### 2. Worldcoin (WLD)
-- **Price:** $0.29
-- **Change:** +11.15%
-- **Analysis:** The price movement is most likely due to a combination of continued positive sentiment surrounding AI tokens and recent reports highlighting significant user growth for its World App.
-
-### 3. Injective (INJ)
-- **Price:** $5.36
-- **Change:** +10.26%
-- **Analysis:** Injective's 10.26% price increase is most likely due to its continued strong ecosystem growth and increasing activity, benefiting from the broader positive trend in the cryptocurrency market.
-
-## Top 3 Losers (24h)
-### 1. Dash (DASH)
-- **Price:** $45.62
-- **Change:** -3.80%
-- **Analysis:** Dash's 3.80% decline is most likely due to general market volatility and a slight pullback seen across the broader cryptocurrency market.
-
-### 2. XDC Network (XDC)
+### 2. Midnight (NIGHT)
 - **Price:** $0.03
-- **Change:** -4.05%
-- **Analysis:** The decline in XDC Network's price most likely reflects general cryptocurrency market volatility rather than specific project news.
+- **Change:** +4.56%
+- **Analysis:** Absent specific project news, Midnight's 4.56% price increase most likely reflects general positive momentum across the broader cryptocurrency market.
 
 ### 3. ​​Stable (STABLE)
 - **Price:** $0.03
-- **Change:** -8.94%
-- **Analysis:** As there is no specific news or event driving its price, the 8.94% drop for the cryptocurrency Stable is most likely due to general market volatility.
+- **Change:** +4.52%
+- **Analysis:** The 4.52% price increase for "Stable" most likely reflects a temporary depeg from its intended stable value, driven by increased demand or specific market dynamics, as significant volatility is unusual for a cryptocurrency designed for stability.
+
+## Top 3 Losers (24h)
+### 1. Render (RENDER)
+- **Price:** $1.80
+- **Change:** -10.56%
+- **Analysis:** The decline in Render is most likely due to profit-taking following its recent strong rally, amidst a broader cryptocurrency market pullback.
+
+### 2. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** -10.73%
+- **Analysis:** The decline in Pump.fun's price likely reflects a broader cryptocurrency market pullback and reduced investor appetite for speculative assets, which often leads to magnified volatility for meme coin platforms.
+
+### 3. Jupiter (JUP)
+- **Price:** $0.19
+- **Change:** -12.24%
+- **Analysis:** Analysis unavailable due to error.
 
