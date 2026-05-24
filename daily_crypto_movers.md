@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-23
+# Daily Crypto Movers - 2026-05-24
 
 ## Top 3 Gainers (24h)
-### 1. Provenance Blockchain (HASH)
-- **Price:** $0.01
-- **Change:** +8.21%
-- **Analysis:** The price increase for Provenance Blockchain (HASH) likely reflects growing market enthusiasm for real-world asset (RWA) tokenization, a core focus of the platform.
+### 1. Hyperliquid (HYPE)
+- **Price:** $64.07
+- **Change:** +15.15%
+- **Analysis:** The Hyperliquid (HYPE) price increase is most likely driven by a surge in trading volume and open interest on its high-performance decentralized exchange, indicating strong platform growth and user adoption.
 
-### 2. Midnight (NIGHT)
-- **Price:** $0.03
-- **Change:** +4.56%
-- **Analysis:** Absent specific project news, Midnight's 4.56% price increase most likely reflects general positive momentum across the broader cryptocurrency market.
+### 2. Worldcoin (WLD)
+- **Price:** $0.30
+- **Change:** +14.63%
+- **Analysis:** The 14.63% surge in Worldcoin (WLD) is most likely attributed to general cryptocurrency market volatility, with no significant project-specific news emerging recently to explain the movement.
 
-### 3. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** +4.52%
-- **Analysis:** The 4.52% price increase for "Stable" most likely reflects a temporary depeg from its intended stable value, driven by increased demand or specific market dynamics, as significant volatility is unusual for a cryptocurrency designed for stability.
+### 3. NEAR Protocol (NEAR)
+- **Price:** $2.37
+- **Change:** +13.88%
+- **Analysis:** NEAR Protocol's price surge is most likely driven by its strong positioning within the ongoing AI narrative, fueled by recent platform advancements and strategic integrations.
 
 ## Top 3 Losers (24h)
-### 1. Render (RENDER)
-- **Price:** $1.80
-- **Change:** -10.56%
-- **Analysis:** The decline in Render is most likely due to profit-taking following its recent strong rally, amidst a broader cryptocurrency market pullback.
+### 1. XDC Network (XDC)
+- **Price:** $0.03
+- **Change:** -0.30%
+- **Analysis:** The minor 0.30% dip in XDC Network's price is most likely a reflection of general cryptocurrency market volatility, with no specific news attributed.
 
-### 2. Pump.fun (PUMP)
+### 2. HTX DAO (HTX)
 - **Price:** $0.00
-- **Change:** -10.73%
-- **Analysis:** The decline in Pump.fun's price likely reflects a broader cryptocurrency market pullback and reduced investor appetite for speculative assets, which often leads to magnified volatility for meme coin platforms.
+- **Change:** -0.66%
+- **Analysis:** HTX DAO's 0.66% decline most likely reflects general market volatility, as no specific news has emerged to drive the minor movement.
 
-### 3. Jupiter (JUP)
-- **Price:** $0.19
-- **Change:** -12.24%
-- **Analysis:** Analysis unavailable due to error.
+### 3. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** -6.25%
+- **Analysis:** Provenance Blockchain's 6.25% price drop most likely reflects broader cryptocurrency market volatility driven by ongoing macroeconomic concerns like inflation and interest rate uncertainty.
 
