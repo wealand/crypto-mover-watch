@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-24
+# Daily Crypto Movers - 2026-05-25
 
 ## Top 3 Gainers (24h)
-### 1. Hyperliquid (HYPE)
-- **Price:** $64.07
-- **Change:** +15.15%
-- **Analysis:** The Hyperliquid (HYPE) price increase is most likely driven by a surge in trading volume and open interest on its high-performance decentralized exchange, indicating strong platform growth and user adoption.
+### 1. DeXe (DEXE)
+- **Price:** $17.51
+- **Change:** +20.73%
+- **Analysis:** DeXe's 20.73% surge most likely reflects general market volatility and positive altcoin sentiment, absent any specific recent news directly related to the project.
 
-### 2. Worldcoin (WLD)
-- **Price:** $0.30
-- **Change:** +14.63%
-- **Analysis:** The 14.63% surge in Worldcoin (WLD) is most likely attributed to general cryptocurrency market volatility, with no significant project-specific news emerging recently to explain the movement.
+### 2. ​​Stable (STABLE)
+- **Price:** $0.04
+- **Change:** +13.08%
+- **Analysis:** The 13.08% price surge for the stablecoin 'Stable' most likely indicates a temporary de-peg, driven by high demand within a particular ecosystem or a temporary market inefficiency.
 
-### 3. NEAR Protocol (NEAR)
-- **Price:** $2.37
-- **Change:** +13.88%
-- **Analysis:** NEAR Protocol's price surge is most likely driven by its strong positioning within the ongoing AI narrative, fueled by recent platform advancements and strategic integrations.
+### 3. XDC Network (XDC)
+- **Price:** $0.03
+- **Change:** +8.63%
+- **Analysis:** The XDC Network's price increase is most likely due to renewed investor interest in its real-world asset (RWA) tokenization capabilities amidst broader positive market sentiment.
 
 ## Top 3 Losers (24h)
-### 1. XDC Network (XDC)
-- **Price:** $0.03
-- **Change:** -0.30%
-- **Analysis:** The minor 0.30% dip in XDC Network's price is most likely a reflection of general cryptocurrency market volatility, with no specific news attributed.
-
-### 2. HTX DAO (HTX)
-- **Price:** $0.00
-- **Change:** -0.66%
-- **Analysis:** HTX DAO's 0.66% decline most likely reflects general market volatility, as no specific news has emerged to drive the minor movement.
-
-### 3. Provenance Blockchain (HASH)
+### 1. Provenance Blockchain (HASH)
 - **Price:** $0.01
-- **Change:** -6.25%
-- **Analysis:** Provenance Blockchain's 6.25% price drop most likely reflects broader cryptocurrency market volatility driven by ongoing macroeconomic concerns like inflation and interest rate uncertainty.
+- **Change:** -2.68%
+- **Analysis:** The 2.68% drop in Provenance Blockchain (HASH) most likely reflects general cryptocurrency market volatility, as there is no specific negative news reported for the project.
+
+### 2. Midnight (NIGHT)
+- **Price:** $0.03
+- **Change:** -3.96%
+- **Analysis:** Midnight's 3.96% decline most likely reflects general cryptocurrency market volatility, as no specific news regarding the project has been widely reported.
+
+### 3. Venice Token (VVV)
+- **Price:** $19.13
+- **Change:** -4.47%
+- **Analysis:** The price drop most likely reflects general cryptocurrency market volatility, as no specific news related to Venice Token has been reported.
 
