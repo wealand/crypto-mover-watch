@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-27
+# Daily Crypto Movers - 2026-05-28
 
 ## Top 3 Gainers (24h)
-### 1. Rain (RAIN)
+### 1. Stellar (XLM)
+- **Price:** $0.18
+- **Change:** +20.28%
+- **Analysis:** Stellar's (XLM) significant price increase most likely reflects a sympathetic move following positive market sentiment or developments related to the ongoing Ripple (XRP) SEC lawsuit.
+
+### 2. Rain (RAIN)
 - **Price:** $0.01
-- **Change:** +62.37%
-- **Analysis:** Rain's 62.37% price surge is most likely due to general market volatility and speculative interest, common for smaller altcoins without a specific major news catalyst widely reported.
+- **Change:** +8.88%
+- **Analysis:** Given the absence of specific news, Rain's 8.88% price increase most likely reflects general market volatility and speculative interest.
 
-### 2. Internet Computer (ICP)
-- **Price:** $2.91
-- **Change:** +7.30%
-- **Analysis:** ICP's 7.30% increase most likely reflects the general positive momentum across the broader cryptocurrency market, with many altcoins tracking Bitcoin's recent performance.
-
-### 3. Filecoin (FIL)
-- **Price:** $1.06
-- **Change:** +4.90%
-- **Analysis:** The increase in Filecoin's price likely reflects positive momentum across the broader cryptocurrency market, without specific project-related news driving the move.
+### 3. ​​Stable (STABLE)
+- **Price:** $0.04
+- **Change:** +1.61%
+- **Analysis:** The 1.61% price increase for Stable most likely reflects general market volatility, as there is no specific recent news driving this movement.
 
 ## Top 3 Losers (24h)
-### 1. Zcash (ZEC)
-- **Price:** $574.13
-- **Change:** -7.81%
-- **Analysis:** The decline in Zcash's price most likely reflects general cryptocurrency market volatility, common among altcoins, rather than specific ZEC-related news.
+### 1. Bitcoin Cash (BCH)
+- **Price:** $304.03
+- **Change:** -11.22%
+- **Analysis:** The price decline for Bitcoin Cash is most likely due to broader cryptocurrency market volatility, rather than any specific BCH-related news.
 
-### 2. Worldcoin (WLD)
-- **Price:** $0.36
-- **Change:** -8.06%
-- **Analysis:** The decline in Worldcoin's price is primarily due to ongoing regulatory challenges and privacy concerns impacting its global expansion.
+### 2. Render (RENDER)
+- **Price:** $1.97
+- **Change:** -12.80%
+- **Analysis:** Render's price drop most likely reflects a broader cryptocurrency market correction, driven by recent macroeconomic concerns.
 
-### 3. NEAR Protocol (NEAR)
-- **Price:** $2.51
-- **Change:** -14.66%
-- **Analysis:** The decline in NEAR Protocol primarily reflects a broader cryptocurrency market downturn and general market volatility, as there's no major NEAR-specific negative news.
+### 3. Worldcoin (WLD)
+- **Price:** $0.29
+- **Change:** -17.72%
+- **Analysis:** Worldcoin's price decline is primarily due to recent regulatory orders in Spain and Portugal to halt its data collection operations over privacy concerns.
 
