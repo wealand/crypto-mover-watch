@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-05-28
+# Daily Crypto Movers - 2026-05-29
 
 ## Top 3 Gainers (24h)
 ### 1. Stellar (XLM)
-- **Price:** $0.18
-- **Change:** +20.28%
-- **Analysis:** Stellar's (XLM) significant price increase most likely reflects a sympathetic move following positive market sentiment or developments related to the ongoing Ripple (XRP) SEC lawsuit.
+- **Price:** $0.21
+- **Change:** +17.22%
+- **Analysis:** The surge in Stellar (XLM) price likely reflects a broader recovery and positive sentiment across the cryptocurrency market, with altcoins generally following Bitcoin's recent stability.
 
-### 2. Rain (RAIN)
-- **Price:** $0.01
-- **Change:** +8.88%
-- **Analysis:** Given the absence of specific news, Rain's 8.88% price increase most likely reflects general market volatility and speculative interest.
+### 2. Injective (INJ)
+- **Price:** $6.08
+- **Change:** +13.92%
+- **Analysis:** Injective's price increase is most likely driven by positive sentiment across the broader altcoin market, rather than a single specific news event.
 
-### 3. ​​Stable (STABLE)
-- **Price:** $0.04
-- **Change:** +1.61%
-- **Analysis:** The 1.61% price increase for Stable most likely reflects general market volatility, as there is no specific recent news driving this movement.
+### 3. DeXe (DEXE)
+- **Price:** $18.50
+- **Change:** +11.96%
+- **Analysis:** The 11.96% price increase for DeXe most likely reflects general cryptocurrency market volatility, absent any specific recent news or major developments directly impacting the project.
 
 ## Top 3 Losers (24h)
-### 1. Bitcoin Cash (BCH)
-- **Price:** $304.03
-- **Change:** -11.22%
-- **Analysis:** The price decline for Bitcoin Cash is most likely due to broader cryptocurrency market volatility, rather than any specific BCH-related news.
+### 1. World Liberty Financial (WLFI)
+- **Price:** $0.06
+- **Change:** -1.60%
+- **Analysis:** The 1.60% drop in World Liberty Financial (WLFI) most likely reflects general market volatility, as there is no specific recent news impacting the project.
 
-### 2. Render (RENDER)
-- **Price:** $1.97
-- **Change:** -12.80%
-- **Analysis:** Render's price drop most likely reflects a broader cryptocurrency market correction, driven by recent macroeconomic concerns.
+### 2. TRON (TRX)
+- **Price:** $0.34
+- **Change:** -2.30%
+- **Analysis:** TRON's 2.30% decline likely reflects general cryptocurrency market volatility rather than specific project news.
 
-### 3. Worldcoin (WLD)
-- **Price:** $0.29
-- **Change:** -17.72%
-- **Analysis:** Worldcoin's price decline is primarily due to recent regulatory orders in Spain and Portugal to halt its data collection operations over privacy concerns.
+### 3. HTX DAO (HTX)
+- **Price:** $0.00
+- **Change:** -2.37%
+- **Analysis:** The 2.37% decline in HTX DAO most likely reflects general cryptocurrency market volatility, rather than specific news regarding the project itself.
 
