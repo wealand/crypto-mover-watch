@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-06-01
+# Daily Crypto Movers - 2026-06-02
 
 ## Top 3 Gainers (24h)
-### 1. Humanity (H)
-- **Price:** $0.80
-- **Change:** +104.49%
-- **Analysis:** Absent specific major news, Humanity's significant price surge most likely reflects general market volatility and speculative interest, common for smaller cryptocurrencies.
+### 1. LAB (LAB)
+- **Price:** $19.86
+- **Change:** +46.86%
+- **Analysis:** Analysis unavailable due to error.
 
-### 2. LAB (LAB)
-- **Price:** $14.18
-- **Change:** +90.04%
-- **Analysis:** LAB's 90.04% surge is most likely driven by the recent launch of DeFi Land v2, which introduced new Play and Earn features and updated tokenomics.
+### 2. NEAR Protocol (NEAR)
+- **Price:** $2.69
+- **Change:** +16.16%
+- **Analysis:** Analysis unavailable due to error.
 
-### 3. 币安人生 (BinanceLife) (币安人生)
-- **Price:** $0.63
-- **Change:** +16.91%
-- **Analysis:** The 16.91% surge for 币安人生 most likely reflects general market volatility, as there is no specific recent news or major trend driving its price.
+### 3. Worldcoin (WLD)
+- **Price:** $0.42
+- **Change:** +12.08%
+- **Analysis:** Analysis unavailable due to error.
 
 ## Top 3 Losers (24h)
-### 1. Aster (ASTER)
-- **Price:** $0.68
-- **Change:** -7.79%
-- **Analysis:** Analysis unavailable due to error.
-
-### 2. Midnight (NIGHT)
+### 1. ​​Stable (STABLE)
 - **Price:** $0.04
-- **Change:** -8.12%
+- **Change:** -9.71%
 - **Analysis:** Analysis unavailable due to error.
 
-### 3. Algorand (ALGO)
-- **Price:** $0.12
-- **Change:** -9.93%
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** -10.75%
+- **Analysis:** Analysis unavailable due to error.
+
+### 3. Stellar (XLM)
+- **Price:** $0.23
+- **Change:** -11.57%
 - **Analysis:** Analysis unavailable due to error.
 
