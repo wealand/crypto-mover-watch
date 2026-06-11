@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-06-10
+# Daily Crypto Movers - 2026-06-11
 
 ## Top 3 Gainers (24h)
 ### 1. Audiera (BEAT)
-- **Price:** $5.39
-- **Change:** +18.23%
-- **Analysis:** Given no specific news catalyst, Audiera (beat)'s 18.23% price jump is most likely a result of general market volatility and speculative trading common among smaller altcoins.
+- **Price:** $8.73
+- **Change:** +62.66%
+- **Analysis:** The 62.66% surge for Audiera (beat) is most likely a result of general market volatility, as no specific news catalysts for the project have been widely reported.
 
-### 2. WhiteBIT Coin (WBT)
-- **Price:** $50.28
-- **Change:** +12.80%
-- **Analysis:** The WhiteBIT Coin (WBT) price increase is most likely due to the prevailing positive sentiment in the broader cryptocurrency market, which often boosts exchange tokens.
+### 2. Monero (XMR)
+- **Price:** $349.25
+- **Change:** +13.15%
+- **Analysis:** Monero's 13.15% increase likely reflects renewed speculative interest in privacy-focused cryptocurrencies amidst general market volatility, rather than a specific news event.
 
-### 3. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** +12.17%
-- **Analysis:** The cryptocurrency Stable likely experienced an upward de-pegging event, driven by a temporary surge in demand that outstripped its supply at the intended peg.
+### 3. DeXe (DEXE)
+- **Price:** $20.55
+- **Change:** +10.60%
+- **Analysis:** The 10.60% price increase for DeXe (DEXE) most likely reflects general cryptocurrency market volatility and positive sentiment across altcoins rather than specific major project news.
 
 ## Top 3 Losers (24h)
-### 1. LAB (LAB)
-- **Price:** $8.99
-- **Change:** -14.25%
-- **Analysis:** With no specific news regarding the token, LAB's 14.25% price drop likely reflects general cryptocurrency market volatility.
+### 1. JUST (JST)
+- **Price:** $0.08
+- **Change:** -1.88%
+- **Analysis:** The 1.88% dip in JUST (JST) price most likely reflects general market volatility, with no specific news driving the movement.
 
-### 2. DeXe (DEXE)
-- **Price:** $18.78
-- **Change:** -16.61%
-- **Analysis:** The 16.61% decline in DeXe (dexe) most likely reflects general cryptocurrency market volatility common for altcoins, with no specific negative news driving the drop.
+### 2. ​​Stable (STABLE)
+- **Price:** $0.03
+- **Change:** -2.28%
+- **Analysis:** Analysis unavailable due to error.
 
-### 3. Siren (SIREN)
-- **Price:** $0.76
-- **Change:** -38.71%
-- **Analysis:** The significant 38.71% drop in Siren is most likely due to general cryptocurrency market volatility, which tends to amplify price movements in smaller, less liquid altcoins.
+### 3. LAB (LAB)
+- **Price:** $8.05
+- **Change:** -9.32%
+- **Analysis:** Analysis unavailable due to error.
 
