@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-06-16
+# Daily Crypto Movers - 2026-06-17
 
 ## Top 3 Gainers (24h)
-### 1. LAB (LAB)
-- **Price:** $13.14
-- **Change:** +31.72%
-- **Analysis:** LAB's 31.72% surge is most likely due to speculative trading within general market volatility, as no specific news or major developments have been announced.
+### 1. Uniswap (UNI)
+- **Price:** $3.25
+- **Change:** +8.46%
+- **Analysis:** Uniswap's price increase most likely reflects the general positive sentiment and upward trend seen across the broader cryptocurrency market, rather than specific project news.
 
-### 2. Uniswap (UNI)
-- **Price:** $3.04
-- **Change:** +12.46%
-- **Analysis:** The Uniswap (UNI) price surge is most likely driven by continued positive market sentiment surrounding its proposed fee switch, which aims to direct protocol fees to UNI holders.
+### 2. Aster (ASTER)
+- **Price:** $0.70
+- **Change:** +5.71%
+- **Analysis:** Aster's 5.71% price increase most likely reflects general market volatility and overall positive sentiment within the broader cryptocurrency market.
 
-### 3. Hyperliquid (HYPE)
-- **Price:** $76.24
-- **Change:** +12.16%
-- **Analysis:** The price increase for Hyperliquid (HYPE) is primarily driven by its continued strong growth in trading volume and Total Value Locked, solidifying its position as a leading decentralized perpetual exchange.
+### 3. Venice Token (VVV)
+- **Price:** $16.07
+- **Change:** +4.80%
+- **Analysis:** The 4.80% rise in Venice Token (vvv) most likely reflects general crypto market volatility, as no specific news has been identified.
 
 ## Top 3 Losers (24h)
-### 1. Venice Token (VVV)
-- **Price:** $15.40
-- **Change:** -5.37%
-- **Analysis:** The decline in Venice Token (vvv) most likely reflects broader cryptocurrency market volatility, influenced by the performance of major assets like Bitcoin, rather than specific project news.
+### 1. Injective (INJ)
+- **Price:** $5.41
+- **Change:** -9.59%
+- **Analysis:** The price decline in Injective (INJ) largely reflects a broader cryptocurrency market downturn, as Bitcoin and other altcoins have also experienced recent pullbacks.
 
-### 2. Gram (prev. Toncoin) (GRAM)
-- **Price:** $1.67
-- **Change:** -5.53%
-- **Analysis:** The Gram (TON) price decline likely reflects a broader cryptocurrency market correction and profit-taking after recent strong gains.
+### 2. DeXe (DEXE)
+- **Price:** $16.00
+- **Change:** -14.13%
+- **Analysis:** Lacking specific project news, the DeXe price drop most likely reflects broader cryptocurrency market volatility.
 
 ### 3. Audiera (BEAT)
-- **Price:** $2.83
-- **Change:** -31.69%
-- **Analysis:** The Audiera (beat) price drop most likely reflects general cryptocurrency market volatility, as no specific news or events regarding the token have been reported.
+- **Price:** $1.77
+- **Change:** -43.45%
+- **Analysis:** In the absence of specific project news, Audiera (beat)'s sharp decline most likely reflects its susceptibility as a smaller altcoin to broader cryptocurrency market volatility.
 
