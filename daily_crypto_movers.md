@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-06-20
+# Daily Crypto Movers - 2026-06-21
 
 ## Top 3 Gainers (24h)
-### 1. Audiera (BEAT)
-- **Price:** $1.83
-- **Change:** +14.57%
-- **Analysis:** Audiera (beat)'s 14.57% increase is most likely a result of general market volatility and speculative trading, as no specific recent news appears to be driving such a movement.
+### 1. LAB (LAB)
+- **Price:** $15.60
+- **Change:** +28.36%
+- **Analysis:** The 28.36% increase in LAB (The Lab) most likely reflects general market volatility and speculative interest in the trending AI cryptocurrency sector, rather than specific immediate news.
 
-### 2. JUST (JST)
-- **Price:** $0.08
-- **Change:** +8.98%
-- **Analysis:** The 8.98% price increase for JUST (JST) is most likely attributed to general cryptocurrency market volatility, as no specific major news event currently explains the surge.
+### 2. Jupiter (JUP)
+- **Price:** $0.22
+- **Change:** +12.44%
+- **Analysis:** Jupiter's price increase is most likely driven by the general bullish sentiment across the cryptocurrency market and continued strength within the Solana ecosystem.
 
-### 3. Jupiter (JUP)
-- **Price:** $0.20
-- **Change:** +8.28%
-- **Analysis:** Jupiter's 8.28% price increase most likely reflects the ongoing strength and positive sentiment within the Solana ecosystem and broader cryptocurrency market trends.
+### 3. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** +9.64%
+- **Analysis:** The price surge for Pump.fun is most likely driven by renewed interest in memecoin creation and a generally positive sentiment in the broader altcoin market.
 
 ## Top 3 Losers (24h)
-### 1. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** -3.52%
-- **Analysis:** The 3.52% drop in Stable, a significant de-peg for a stablecoin, most likely reflects a loss of confidence in its underlying reserves or pegging mechanism.
+### 1. Hyperliquid (HYPE)
+- **Price:** $68.12
+- **Change:** -3.46%
+- **Analysis:** Hyperliquid's (hype) price decline likely reflects general market volatility and a slight downturn within the broader cryptocurrency sector.
 
-### 2. DeXe (DEXE)
-- **Price:** $15.63
-- **Change:** -5.11%
-- **Analysis:** The price movement for DeXe likely reflects broader cryptocurrency market volatility, rather than specific project news.
+### 2. POL (ex-MATIC) (POL)
+- **Price:** $0.08
+- **Change:** -3.81%
+- **Analysis:** POL's 3.81% price drop is most likely attributable to general cryptocurrency market volatility, with no specific negative news concerning the project.
 
-### 3. LAB (LAB)
-- **Price:** $12.08
-- **Change:** -22.32%
-- **Analysis:** The cryptocurrency LAB's 22.32% decline most likely reflects general market volatility, as no specific project-related news has been reported to explain the drop.
+### 3. DeXe (DEXE)
+- **Price:** $14.09
+- **Change:** -8.77%
+- **Analysis:** DeXe's 8.77% decline most likely reflects general market volatility and a broader negative trend across the cryptocurrency sector, as no specific news for DeXe currently stands out.
 
