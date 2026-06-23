@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-06-22
+# Daily Crypto Movers - 2026-06-23
 
 ## Top 3 Gainers (24h)
 ### 1. DeXe (DEXE)
-- **Price:** $17.90
-- **Change:** +24.13%
-- **Analysis:** Absent specific recent news, DeXe's price surge most likely reflects general market volatility and speculative trading common in the altcoin market.
+- **Price:** $22.78
+- **Change:** +34.39%
+- **Analysis:** The most likely reason for DeXe's surge is renewed market interest driven by recent positive developments, notably around its V2 platform and enhanced decentralized asset management capabilities.
 
-### 2. Venice Token (VVV)
-- **Price:** $16.04
-- **Change:** +10.32%
-- **Analysis:** The Venice Token (vvv)'s 10.32% increase most likely reflects general cryptocurrency market volatility, as no specific news event is currently apparent.
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** +28.73%
+- **Analysis:** The 28.73% surge in Provenance Blockchain (HASH) is primarily attributed to general market volatility, as there is no specific recent news directly driving this particular price movement.
 
-### 3. OKB (OKB)
-- **Price:** $81.01
-- **Change:** +6.75%
-- **Analysis:** Analysis unavailable due to error.
+### 3. Rain (RAIN)
+- **Price:** $0.02
+- **Change:** +9.78%
+- **Analysis:** With no specific news catalyst reported, Rain's 9.78% increase is most likely due to general market volatility and speculative trading.
 
 ## Top 3 Losers (24h)
-### 1. Gram (prev. Toncoin) (GRAM)
-- **Price:** $1.67
-- **Change:** -1.60%
+### 1. Worldcoin (WLD)
+- **Price:** $0.56
+- **Change:** -10.48%
 - **Analysis:** Analysis unavailable due to error.
 
-### 2. LAB (LAB)
-- **Price:** $14.96
-- **Change:** -2.18%
-- **Analysis:** Analysis unavailable due to error.
+### 2. Ethena (ENA)
+- **Price:** $0.08
+- **Change:** -11.52%
+- **Analysis:** Ethena's price drop likely reflects broader cryptocurrency market consolidation and profit-taking after recent gains, rather than specific negative news for the project.
 
-### 3. Jupiter (JUP)
-- **Price:** $0.21
-- **Change:** -4.94%
-- **Analysis:** Analysis unavailable due to error.
+### 3. Venice Token (VVV)
+- **Price:** $13.48
+- **Change:** -13.42%
+- **Analysis:** Absent specific project news, Venice Token's decline most likely reflects general cryptocurrency market volatility, which often disproportionately affects smaller altcoins.
 
