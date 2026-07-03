@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-07-02
+# Daily Crypto Movers - 2026-07-03
 
 ## Top 3 Gainers (24h)
 ### 1. MemeCore (M)
-- **Price:** $1.46
-- **Change:** +104.71%
-- **Analysis:** The 104.71% surge in MemeCore is most likely due to speculative trading fueled by social media hype or general market volatility common to meme cryptocurrencies.
+- **Price:** $1.81
+- **Change:** +23.87%
+- **Analysis:** The price surge in MemeCore likely stems from renewed speculative interest and broader positive sentiment within the meme coin sector.
 
-### 2. Audiera (BEAT)
-- **Price:** $2.90
-- **Change:** +18.11%
-- **Analysis:** Without specific news, Audiera's 18.11% price increase is most likely attributed to general market volatility and speculative trading common for smaller altcoins.
+### 2. Sky (SKY)
+- **Price:** $0.06
+- **Change:** +12.02%
+- **Analysis:** Sky's 12.02% price increase most likely reflects general cryptocurrency market volatility, as there is no specific major news event reported for the project.
 
-### 3. Lighter (LIT)
-- **Price:** $2.17
-- **Change:** +15.58%
-- **Analysis:** Lighter's 15.58% increase most likely stems from general cryptocurrency market volatility or a positive shift in broader market sentiment, as no specific news for the project has been reported.
+### 3. Uniswap (UNI)
+- **Price:** $3.21
+- **Change:** +10.80%
+- **Analysis:** Uniswap's price rise is primarily driven by positive sentiment surrounding the recent regulatory advancements for Ethereum spot ETFs, boosting confidence in the broader Ethereum ecosystem.
 
 ## Top 3 Losers (24h)
-### 1. Worldcoin (WLD)
-- **Price:** $0.38
-- **Change:** -2.64%
-- **Analysis:** Worldcoin's price drop likely reflects general cryptocurrency market volatility, as there is no specific recent negative news driving the movement.
+### 1. Audiera (BEAT)
+- **Price:** $2.75
+- **Change:** -5.25%
+- **Analysis:** Audiera's 5.25% decline is most likely due to general cryptocurrency market volatility, as no specific news directly impacting the project has emerged.
 
-### 2. Canton (CC)
-- **Price:** $0.14
-- **Change:** -4.65%
-- **Analysis:** Without specific news impacting Canton (cc), its 4.65% price drop is most likely attributable to general cryptocurrency market volatility.
+### 2. Morpho (MORPHO)
+- **Price:** $1.96
+- **Change:** -7.29%
+- **Analysis:** The decline in Morpho's price most likely reflects a broader cryptocurrency market downturn or consolidation, rather than specific project news.
 
-### 3. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** -8.44%
-- **Analysis:** The 8.44% drop indicates Stable has de-pegged, likely due to concerns over its collateral backing, algorithmic stability, or a general loss of market confidence.
+### 3. LAB (LAB)
+- **Price:** $7.75
+- **Change:** -14.80%
+- **Analysis:** The LAB cryptocurrency's 14.80% drop in the last 24 hours most likely reflects general market volatility, as there is no specific news or event reported for the token itself driving this movement.
 
