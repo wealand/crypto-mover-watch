@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-07-03
+# Daily Crypto Movers - 2026-07-04
 
 ## Top 3 Gainers (24h)
-### 1. MemeCore (M)
+### 1. LAB (LAB)
+- **Price:** $10.81
+- **Change:** +36.04%
+- **Analysis:** Absent specific major news, LAB's 36.04% increase most likely reflects high market volatility and speculative trading typical for smaller cryptocurrencies, potentially amplified by broader positive market trends.
+
+### 2. Pepe (PEPE)
+- **Price:** $0.00
+- **Change:** +8.46%
+- **Analysis:** The rise in Pepe's price is most likely due to general positive sentiment across the broader cryptocurrency market, amplified by its characteristic memecoin volatility.
+
+### 3. Gram (prev. Toncoin) (GRAM)
 - **Price:** $1.81
-- **Change:** +23.87%
-- **Analysis:** The price surge in MemeCore likely stems from renewed speculative interest and broader positive sentiment within the meme coin sector.
-
-### 2. Sky (SKY)
-- **Price:** $0.06
-- **Change:** +12.02%
-- **Analysis:** Sky's 12.02% price increase most likely reflects general cryptocurrency market volatility, as there is no specific major news event reported for the project.
-
-### 3. Uniswap (UNI)
-- **Price:** $3.21
-- **Change:** +10.80%
-- **Analysis:** Uniswap's price rise is primarily driven by positive sentiment surrounding the recent regulatory advancements for Ethereum spot ETFs, boosting confidence in the broader Ethereum ecosystem.
+- **Change:** +8.03%
+- **Analysis:** Gram's 8.03% surge is most likely driven by sustained positive momentum from its deep integration with the Telegram ecosystem, particularly the Telegram Ads platform.
 
 ## Top 3 Losers (24h)
-### 1. Audiera (BEAT)
-- **Price:** $2.75
-- **Change:** -5.25%
-- **Analysis:** Audiera's 5.25% decline is most likely due to general cryptocurrency market volatility, as no specific news directly impacting the project has emerged.
+### 1. Jupiter (JUP)
+- **Price:** $0.23
+- **Change:** -3.91%
+- **Analysis:** The price decline for Jupiter (JUP) most likely reflects general cryptocurrency market volatility, aligning with broader market trends rather than specific project news.
 
-### 2. Morpho (MORPHO)
-- **Price:** $1.96
-- **Change:** -7.29%
-- **Analysis:** The decline in Morpho's price most likely reflects a broader cryptocurrency market downturn or consolidation, rather than specific project news.
+### 2. Venice Token (VVV)
+- **Price:** $12.49
+- **Change:** -10.31%
+- **Analysis:** The Venice Token's 10.31% decline most likely reflects broader cryptocurrency market volatility, rather than specific recent news for the project.
 
-### 3. LAB (LAB)
-- **Price:** $7.75
-- **Change:** -14.80%
-- **Analysis:** The LAB cryptocurrency's 14.80% drop in the last 24 hours most likely reflects general market volatility, as there is no specific news or event reported for the token itself driving this movement.
+### 3. MemeCore (M)
+- **Price:** $1.59
+- **Change:** -10.58%
+- **Analysis:** The price drop most likely reflects general market volatility common across the cryptocurrency sector.
 
