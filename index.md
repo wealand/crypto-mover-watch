@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-07-08
+# Daily Crypto Movers - 2026-07-09
 
 ## Top 3 Gainers (24h)
-### 1. Morpho (MORPHO)
-- **Price:** $2.09
-- **Change:** +4.02%
-- **Analysis:** Morpho's price increase is most likely driven by its recent governance approval to integrate Liquid Restaking Tokens (LRTs) via EigenLayer, significantly expanding its lending market.
-
-### 2. JUST (JST)
+### 1. Arbitrum (ARB)
 - **Price:** $0.09
-- **Change:** +1.99%
-- **Analysis:** The 1.99% increase for JUST (JST) most likely reflects general market volatility and broader crypto trends, as no specific news has been reported for the asset.
+- **Change:** +12.27%
+- **Analysis:** Arbitrum's price surge is most likely driven by a broader positive trend across the cryptocurrency market and sustained investor interest in Layer 2 scaling solutions for Ethereum.
 
-### 3. Uniswap (UNI)
-- **Price:** $3.22
-- **Change:** +1.56%
-- **Analysis:** The 1.56% increase for Uniswap (UNI) most likely reflects broader positive sentiment across the cryptocurrency market rather than specific project news.
+### 2. Sky (SKY)
+- **Price:** $0.06
+- **Change:** +9.22%
+- **Analysis:** The price movement for Sky (SKY) most likely reflects general market volatility and positive trends within the broader cryptocurrency market, as no specific major news event has been widely reported for the project.
+
+### 3. Lighter (LIT)
+- **Price:** $2.49
+- **Change:** +8.39%
+- **Analysis:** The 8.39% increase for Lighter (lit) most likely reflects general cryptocurrency market volatility, given the absence of specific news or catalysts reported for this particular asset.
 
 ## Top 3 Losers (24h)
-### 1. MemeCore (M)
-- **Price:** $1.36
-- **Change:** -11.99%
-- **Analysis:** The 11.99% decline in MemeCore (m) is most likely due to general cryptocurrency market volatility, which often disproportionately affects speculative assets like memecoins.
+### 1. Jupiter (JUP)
+- **Price:** $0.21
+- **Change:** -2.50%
+- **Analysis:** Jupiter's 2.50% decline most likely reflects general market volatility across the broader cryptocurrency sector, with no specific major news driving the movement.
 
-### 2. Audiera (BEAT)
-- **Price:** $2.27
-- **Change:** -12.09%
-- **Analysis:** The 12.09% drop for Audiera (BEAT) most likely reflects general market volatility and a broader downturn across the cryptocurrency sector rather than specific project news.
+### 2. Pi Network (PI)
+- **Price:** $0.10
+- **Change:** -5.19%
+- **Analysis:** The decline in Pi Network's speculative price is most likely due to ongoing uncertainty surrounding its long-awaited open mainnet launch, coupled with general cryptocurrency market volatility.
 
-### 3. LAB (LAB)
-- **Price:** $2.01
-- **Change:** -85.61%
-- **Analysis:** The cryptocurrency LAB's significant price drop is most likely due to the recent Orbit Chain bridge exploit that affected LABS Group.
+### 3. MemeCore (M)
+- **Price:** $1.19
+- **Change:** -11.61%
+- **Analysis:** The 11.61% price drop for MemeCore (m) most likely reflects general market volatility and its sensitivity as a smaller altcoin, rather than specific recent news driving the movement.
 
