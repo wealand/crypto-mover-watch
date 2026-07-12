@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-07-11
+# Daily Crypto Movers - 2026-07-12
 
 ## Top 3 Gainers (24h)
-### 1. Audiera (BEAT)
-- **Price:** $2.89
-- **Change:** +28.22%
-- **Analysis:** Lacking specific news, Audiera's price increase is most likely attributable to general cryptocurrency market volatility and speculative trading, common for smaller-cap assets.
+### 1. DeXe (DEXE)
+- **Price:** $42.90
+- **Change:** +18.53%
+- **Analysis:** The price movement most likely reflects general market volatility and short-term speculative interest, as there is no specific major news driving the surge.
 
-### 2. MemeCore (M)
-- **Price:** $1.29
-- **Change:** +6.85%
-- **Analysis:** Without specific news, MemeCore's 6.85% rise is most likely due to general positive market sentiment and the inherent volatility common to meme cryptocurrencies.
+### 2. Zcash (ZEC)
+- **Price:** $524.82
+- **Change:** +4.96%
+- **Analysis:** The price movement most likely reflects general market volatility, as there is no specific Zcash news driving this change.
 
-### 3. DeXe (DEXE)
-- **Price:** $36.07
-- **Change:** +5.75%
-- **Analysis:** The DeXe (DEXE) price increase most likely reflects general market volatility and positive sentiment within the broader cryptocurrency market, absent specific project-related news.
+### 3. Arbitrum (ARB)
+- **Price:** $0.10
+- **Change:** +4.51%
+- **Analysis:** Arbitrum's 4.51% rise is most likely driven by renewed positive sentiment within the broader cryptocurrency market, especially for Ethereum Layer 2 solutions.
 
 ## Top 3 Losers (24h)
-### 1. Arbitrum (ARB)
-- **Price:** $0.09
-- **Change:** -3.76%
-- **Analysis:** Arbitrum's 3.76% decline likely mirrors the broader cryptocurrency market's downturn, influenced by persistent inflation concerns and their impact on interest rate expectations.
+### 1. Polkadot (DOT)
+- **Price:** $0.85
+- **Change:** -3.90%
+- **Analysis:** The decline in Polkadot's price likely reflects general market volatility and a broader downward trend seen across the cryptocurrency market.
 
-### 2. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** -4.60%
-- **Analysis:** The 4.60% price drop in Pump.fun most likely reflects general cryptocurrency market volatility, often seen in speculative meme coin platforms.
+### 2. Avalanche (AVAX)
+- **Price:** $6.41
+- **Change:** -4.34%
+- **Analysis:** The decline in AVAX most likely reflects general cryptocurrency market volatility and a broader downturn in the overall crypto market.
 
-### 3. Morpho (MORPHO)
-- **Price:** $2.06
-- **Change:** -10.41%
-- **Analysis:** Morpho's decline most likely reflects general cryptocurrency market volatility and a broader altcoin correction.
+### 3. Audiera (BEAT)
+- **Price:** $2.36
+- **Change:** -19.72%
+- **Analysis:** Audiera (beat)'s 19.72% price drop most likely reflects general cryptocurrency market volatility, rather than specific project news.
 
