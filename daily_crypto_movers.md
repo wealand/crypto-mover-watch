@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-07-20
+# Daily Crypto Movers - 2026-07-21
 
 ## Top 3 Gainers (24h)
-### 1. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** +17.05%
-- **Analysis:** Pump.fun's price increase most likely reflects general positive sentiment in the broader cryptocurrency market, particularly within the speculative meme coin sector it facilitates.
+### 1. Ondo (ONDO)
+- **Price:** $0.40
+- **Change:** +16.83%
+- **Analysis:** Ondo's price surge is primarily driven by its strong position in the burgeoning real-world asset (RWA) tokenization sector and recent strategic ecosystem expansions.
 
-### 2. Pi Network (PI)
-- **Price:** $0.10
-- **Change:** +11.38%
-- **Analysis:** The Pi Network's 11.38% price increase is most likely due to speculative trading on its unofficial IOU markets, as there is no specific news or official mainnet launch from the core team.
+### 2. Venice Token (VVV)
+- **Price:** $12.95
+- **Change:** +11.69%
+- **Analysis:** The increase in Venice Token (vvv) price most likely reflects general cryptocurrency market volatility and broader positive sentiment, with no specific news identified as a primary driver.
 
-### 3. ADI (ADI)
-- **Price:** $6.68
-- **Change:** +6.57%
-- **Analysis:** The 6.57% increase in ADI is most likely due to general cryptocurrency market volatility, as no specific news or major trends regarding ADI have been reported.
+### 3. Lighter (LIT)
+- **Price:** $2.34
+- **Change:** +8.18%
+- **Analysis:** Lighter's (lit) 8.18% price surge most likely reflects general cryptocurrency market volatility, with no specific news reported.
 
 ## Top 3 Losers (24h)
-### 1. Worldcoin (WLD)
-- **Price:** $0.36
-- **Change:** -3.35%
-- **Analysis:** Analysis unavailable due to error.
+### 1. Audiera (BEAT)
+- **Price:** $2.21
+- **Change:** -6.93%
+- **Analysis:** Audiera (beat)'s 6.93% decline most likely reflects general cryptocurrency market volatility.
 
-### 2. Zcash (ZEC)
-- **Price:** $531.00
-- **Change:** -5.29%
-- **Analysis:** Analysis unavailable due to error.
+### 2. Pi Network (PI)
+- **Price:** $0.09
+- **Change:** -8.16%
+- **Analysis:** Pi Network's price, largely based on unofficial and speculative IOU listings, most likely reflects general cryptocurrency market volatility rather than specific project news.
 
-### 3. 币安人生 (BinanceLife) (币安人生)
-- **Price:** $0.65
-- **Change:** -6.44%
-- **Analysis:** Analysis unavailable due to error.
+### 3. DeXe (DEXE)
+- **Price:** $21.23
+- **Change:** -36.92%
+- **Analysis:** The price drop is most likely due to a recent exploit of DeXe's smart contracts, which led to a security incident.
 
