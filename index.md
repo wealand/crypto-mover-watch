@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-07-21
+# Daily Crypto Movers - 2026-07-22
 
 ## Top 3 Gainers (24h)
-### 1. Ondo (ONDO)
-- **Price:** $0.40
-- **Change:** +16.83%
-- **Analysis:** Ondo's price surge is primarily driven by its strong position in the burgeoning real-world asset (RWA) tokenization sector and recent strategic ecosystem expansions.
+### 1. Audiera (BEAT)
+- **Price:** $2.65
+- **Change:** +19.71%
+- **Analysis:** The 19.71% surge in Audiera (BEAT) is most likely driven by speculative trading and increased investor interest, as no major specific news or project developments have been widely reported.
 
-### 2. Venice Token (VVV)
-- **Price:** $12.95
-- **Change:** +11.69%
-- **Analysis:** The increase in Venice Token (vvv) price most likely reflects general cryptocurrency market volatility and broader positive sentiment, with no specific news identified as a primary driver.
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** +7.76%
+- **Analysis:** The price increase for Provenance Blockchain (HASH) most likely reflects general market volatility, as no specific project-related news was immediately identified.
 
-### 3. Lighter (LIT)
-- **Price:** $2.34
-- **Change:** +8.18%
-- **Analysis:** Lighter's (lit) 8.18% price surge most likely reflects general cryptocurrency market volatility, with no specific news reported.
+### 3. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** +4.59%
+- **Analysis:** The price movement most likely reflects general positive market sentiment and volatility across the broader cryptocurrency sector, with no specific news tied to the Rain project.
 
 ## Top 3 Losers (24h)
-### 1. Audiera (BEAT)
-- **Price:** $2.21
-- **Change:** -6.93%
-- **Analysis:** Audiera (beat)'s 6.93% decline most likely reflects general cryptocurrency market volatility.
+### 1. NEAR Protocol (NEAR)
+- **Price:** $1.88
+- **Change:** -6.09%
+- **Analysis:** NEAR Protocol's price movement most likely reflects broader cryptocurrency market volatility and a general pullback in altcoin prices, rather than specific NEAR-related news.
 
-### 2. Pi Network (PI)
-- **Price:** $0.09
-- **Change:** -8.16%
-- **Analysis:** Pi Network's price, largely based on unofficial and speculative IOU listings, most likely reflects general cryptocurrency market volatility rather than specific project news.
+### 2. Hyperliquid (HYPE)
+- **Price:** $58.94
+- **Change:** -6.63%
+- **Analysis:** Hyperliquid (HYPE)'s 6.63% drop most likely reflects general cryptocurrency market volatility, aligning with the broader altcoin market's recent cooling trend.
 
-### 3. DeXe (DEXE)
-- **Price:** $21.23
-- **Change:** -36.92%
-- **Analysis:** The price drop is most likely due to a recent exploit of DeXe's smart contracts, which led to a security incident.
+### 3. 币安人生 (BinanceLife) (币安人生)
+- **Price:** $0.57
+- **Change:** -9.90%
+- **Analysis:** The price drop for 币安人生 (BinanceLife) most likely reflects general cryptocurrency market volatility, rather than specific project news.
 
