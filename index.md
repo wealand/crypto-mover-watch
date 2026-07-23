@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-07-22
+# Daily Crypto Movers - 2026-07-23
 
 ## Top 3 Gainers (24h)
-### 1. Audiera (BEAT)
-- **Price:** $2.65
-- **Change:** +19.71%
-- **Analysis:** The 19.71% surge in Audiera (BEAT) is most likely driven by speculative trading and increased investor interest, as no major specific news or project developments have been widely reported.
+### 1. Blockchain Capital (BCAP)
+- **Price:** $106.20
+- **Change:** +363.10%
+- **Analysis:** The substantial 363.10% surge in BCAP is most likely attributed to its low trading volume and speculative activity, rather than significant recent news regarding the Blockchain Capital firm or token.
 
-### 2. Provenance Blockchain (HASH)
-- **Price:** $0.01
-- **Change:** +7.76%
-- **Analysis:** The price increase for Provenance Blockchain (HASH) most likely reflects general market volatility, as no specific project-related news was immediately identified.
+### 2. ​​Stable (STABLE)
+- **Price:** $0.04
+- **Change:** +13.50%
+- **Analysis:** The 13.50% price increase for the cryptocurrency Stable most likely reflects general market volatility and positive sentiment, as no specific major news catalyst has been widely reported for this particular asset.
 
-### 3. Rain (RAIN)
-- **Price:** $0.01
-- **Change:** +4.59%
-- **Analysis:** The price movement most likely reflects general positive market sentiment and volatility across the broader cryptocurrency sector, with no specific news tied to the Rain project.
+### 3. World Liberty Financial (WLFI)
+- **Price:** $0.06
+- **Change:** +10.90%
+- **Analysis:** The 10.90% rise in World Liberty Financial (wlfi) most likely reflects general market volatility, as no specific news or major market trends directly explaining the surge have been reported.
 
 ## Top 3 Losers (24h)
-### 1. NEAR Protocol (NEAR)
-- **Price:** $1.88
-- **Change:** -6.09%
-- **Analysis:** NEAR Protocol's price movement most likely reflects broader cryptocurrency market volatility and a general pullback in altcoin prices, rather than specific NEAR-related news.
+### 1. Canton (CC)
+- **Price:** $0.12
+- **Change:** -3.40%
+- **Analysis:** With no specific project news reported, Canton's 3.40% decrease is most likely due to general cryptocurrency market volatility.
 
-### 2. Hyperliquid (HYPE)
-- **Price:** $58.94
-- **Change:** -6.63%
-- **Analysis:** Hyperliquid (HYPE)'s 6.63% drop most likely reflects general cryptocurrency market volatility, aligning with the broader altcoin market's recent cooling trend.
+### 2. Sky (SKY)
+- **Price:** $0.06
+- **Change:** -4.10%
+- **Analysis:** The 4.10% decline in Sky (sky) most likely reflects general cryptocurrency market volatility and broader market trends.
 
-### 3. 币安人生 (BinanceLife) (币安人生)
-- **Price:** $0.57
-- **Change:** -9.90%
-- **Analysis:** The price drop for 币安人生 (BinanceLife) most likely reflects general cryptocurrency market volatility, rather than specific project news.
+### 3. Filecoin (FIL)
+- **Price:** $0.74
+- **Change:** -4.50%
+- **Analysis:** Filecoin's 4.50% price drop likely reflects general volatility within the broader cryptocurrency market.
 
