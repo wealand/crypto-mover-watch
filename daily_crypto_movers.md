@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-07-23
+# Daily Crypto Movers - 2026-07-24
 
 ## Top 3 Gainers (24h)
-### 1. Blockchain Capital (BCAP)
-- **Price:** $106.20
-- **Change:** +363.10%
-- **Analysis:** The substantial 363.10% surge in BCAP is most likely attributed to its low trading volume and speculative activity, rather than significant recent news regarding the Blockchain Capital firm or token.
+### 1. Audiera (BEAT)
+- **Price:** $3.21
+- **Change:** +23.30%
+- **Analysis:** Absent specific news, Audiera (beat)'s 23.30% surge is most likely due to general cryptocurrency market volatility, often magnified in smaller-cap tokens.
 
-### 2. ​​Stable (STABLE)
-- **Price:** $0.04
-- **Change:** +13.50%
-- **Analysis:** The 13.50% price increase for the cryptocurrency Stable most likely reflects general market volatility and positive sentiment, as no specific major news catalyst has been widely reported for this particular asset.
+### 2. Talus (US)
+- **Price:** $0.05
+- **Change:** +12.40%
+- **Analysis:** The 12.40% price increase for Talus (US) most likely reflects general crypto market volatility and speculative interest, as no specific major news event has been widely reported.
+
+### 3. Figure Heloc (FIGR_HELOC)
+- **Price:** $1.04
+- **Change:** +3.70%
+- **Analysis:** Figure Heloc's 3.70% price increase likely reflects general crypto market volatility, as there is no specific news driving its movement.
+
+## Top 3 Losers (24h)
+### 1. Hedera (HBAR)
+- **Price:** $0.07
+- **Change:** -5.00%
+- **Analysis:** The 5% decline in Hedera (HBAR) most likely reflects broader cryptocurrency market volatility and a general downtrend rather than specific negative news related to the project.
+
+### 2. Pi Network (PI)
+- **Price:** $0.08
+- **Change:** -8.20%
+- **Analysis:** The decline in Pi Network's speculative price most likely mirrors general cryptocurrency market volatility, given the absence of specific recent news driving its movement.
 
 ### 3. World Liberty Financial (WLFI)
 - **Price:** $0.06
-- **Change:** +10.90%
-- **Analysis:** The 10.90% rise in World Liberty Financial (wlfi) most likely reflects general market volatility, as no specific news or major market trends directly explaining the surge have been reported.
-
-## Top 3 Losers (24h)
-### 1. Canton (CC)
-- **Price:** $0.12
-- **Change:** -3.40%
-- **Analysis:** With no specific project news reported, Canton's 3.40% decrease is most likely due to general cryptocurrency market volatility.
-
-### 2. Sky (SKY)
-- **Price:** $0.06
-- **Change:** -4.10%
-- **Analysis:** The 4.10% decline in Sky (sky) most likely reflects general cryptocurrency market volatility and broader market trends.
-
-### 3. Filecoin (FIL)
-- **Price:** $0.74
-- **Change:** -4.50%
-- **Analysis:** Filecoin's 4.50% price drop likely reflects general volatility within the broader cryptocurrency market.
+- **Change:** -10.00%
+- **Analysis:** The 10.00% drop in World Liberty Financial (wlfi) most likely reflects general cryptocurrency market volatility rather than specific project news.
 
