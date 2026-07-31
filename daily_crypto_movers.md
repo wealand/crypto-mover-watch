@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-07-30
+# Daily Crypto Movers - 2026-07-31
 
 ## Top 3 Gainers (24h)
-### 1. Pi Network (PI)
-- **Price:** $0.08
-- **Change:** +6.50%
-- **Analysis:** The 6.50% price increase for Pi Network's unofficial IOU tokens most likely reflects general market volatility and speculative trading, as there is no specific recent project news to explain the movement of the unlaunched mainnet coin.
+### 1. MemeCore (M)
+- **Price:** $0.99
+- **Change:** +6.40%
+- **Analysis:** MemeCore's 6.40% price increase is most likely attributable to general cryptocurrency market volatility, as no specific news for the token has been reported.
 
-### 2. NEAR Protocol (NEAR)
-- **Price:** $1.66
-- **Change:** +4.40%
-- **Analysis:** NEAR Protocol's price increase is most likely driven by its strong positioning within the ongoing positive market trend for AI-related cryptocurrency projects.
+### 2. Uniswap (UNI)
+- **Price:** $4.39
+- **Change:** +6.30%
+- **Analysis:** The Uniswap (UNI) price movement is most likely driven by sustained positive sentiment following the recent passing of its fee switch proposal, which aims to enhance token value for holders.
 
-### 3. Ondo (ONDO)
-- **Price:** $0.42
-- **Change:** +3.80%
-- **Analysis:** Ondo's price movement most likely reflects growing investor interest in the Real World Asset (RWA) tokenization sector, where it is a prominent project.
+### 3. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** +5.70%
+- **Analysis:** Pump.fun's 5.70% price increase is most likely attributable to general speculative interest in the memecoin sector and broader crypto market volatility, absent specific project news.
 
 ## Top 3 Losers (24h)
-### 1. Venice Token (VVV)
-- **Price:** $12.21
-- **Change:** -4.10%
-- **Analysis:** The Venice Token's 4.10% price drop is most likely due to general market volatility, aligning with broader cryptocurrency trends rather than specific news.
+### 1. Zcash (ZEC)
+- **Price:** $460.56
+- **Change:** -4.20%
+- **Analysis:** Zcash's price drop likely reflects general cryptocurrency market volatility, absent any specific positive or negative news directly impacting the privacy coin.
 
-### 2. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** -4.70%
-- **Analysis:** The 4.70% drop in the cryptocurrency Stable is most likely due to investor concerns regarding its ability to maintain its intended peg.
+### 2. Cosmos Hub (ATOM)
+- **Price:** $1.23
+- **Change:** -4.30%
+- **Analysis:** The 4.30% drop in Cosmos Hub (ATOM) most likely reflects general cryptocurrency market volatility and broader market trends.
 
-### 3. MemeCore (M)
-- **Price:** $0.96
-- **Change:** -18.00%
-- **Analysis:** MemeCore's 18% drop most likely reflects general cryptocurrency market volatility, a common characteristic for meme coins without specific news driving the movement.
+### 3. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** -4.90%
+- **Analysis:** The 4.90% decline in Rain's price is most likely a reflection of general market volatility within the broader cryptocurrency sector.
 
