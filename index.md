@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-08-10
+# Daily Crypto Movers - 2026-08-11
 
 ## Top 3 Gainers (24h)
-### 1. Bitway (BTW)
-- **Price:** $0.19
-- **Change:** +19.10%
-- **Analysis:** Bitway's 19.10% increase is most likely due to the inherent volatility of smaller, speculative cryptocurrencies, as no significant specific news has been reported.
+### 1. Lighter (LIT)
+- **Price:** $2.44
+- **Change:** +5.70%
+- **Analysis:** The 5.70% price increase for Lighter (lit) over the last 24 hours most likely reflects general cryptocurrency market volatility, as no specific news or catalysts for the asset have been widely reported.
 
-### 2. Worldcoin (WLD)
-- **Price:** $0.35
-- **Change:** +13.40%
-- **Analysis:** The surge in Worldcoin's price is largely attributed to renewed investor interest in AI-related cryptocurrencies, bolstered by the ongoing positive sentiment surrounding OpenAI and its founder, Sam Altman.
+### 2. Internet Computer (ICP)
+- **Price:** $2.31
+- **Change:** +4.90%
+- **Analysis:** The Internet Computer's 4.90% gain most likely stems from the overall positive sentiment and ongoing rally within the broader altcoin market.
 
-### 3. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** +12.90%
-- **Analysis:** The price increase for Pump.fun is most likely due to a renewed surge in meme coin activity and general speculative interest across the cryptocurrency market, leading to increased usage and demand for its platform token.
+### 3. Mantle (MNT)
+- **Price:** $0.45
+- **Change:** +4.60%
+- **Analysis:** Mantle's 4.60% increase most likely reflects general cryptocurrency market volatility and positive investor sentiment, rather than a single specific, widely reported news event.
 
 ## Top 3 Losers (24h)
-### 1. Cronos (CRO)
-- **Price:** $0.05
-- **Change:** -3.10%
-- **Analysis:** The 3.10% decline in Cronos (CRO) is most likely due to general market volatility, mirroring broader cryptocurrency trends rather than specific project news.
+### 1. Shiba Inu (SHIB)
+- **Price:** $0.00
+- **Change:** -4.70%
+- **Analysis:** The 4.70% drop in Shiba Inu's price is most likely a result of general market volatility, typical for highly speculative assets, rather than specific recent news.
 
-### 2. Algorand (ALGO)
-- **Price:** $0.08
-- **Change:** -5.20%
-- **Analysis:** Algorand's 5.20% decline primarily reflects general cryptocurrency market volatility and a broader downward trend, rather than specific news for ALGO.
+### 2. Ondo (ONDO)
+- **Price:** $0.34
+- **Change:** -4.80%
+- **Analysis:** The 4.80% drop in Ondo (ONDO) is most likely due to general cryptocurrency market volatility and potential profit-taking, as no specific negative news has emerged for the asset.
 
-### 3. Audiera (BEAT)
-- **Price:** $2.69
-- **Change:** -18.00%
-- **Analysis:** The 18.00% decline in Audiera (beat) most likely reflects general cryptocurrency market volatility, given the absence of specific news concerning the project.
+### 3. Cardano (ADA)
+- **Price:** $0.19
+- **Change:** -5.00%
+- **Analysis:** Cardano's 5.00% decline most likely mirrors a broader dip across the cryptocurrency market, reflecting general volatility rather than specific ADA news.
 
