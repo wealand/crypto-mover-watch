@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-08-11
+# Daily Crypto Movers - 2026-08-12
 
 ## Top 3 Gainers (24h)
-### 1. Lighter (LIT)
-- **Price:** $2.44
-- **Change:** +5.70%
-- **Analysis:** The 5.70% price increase for Lighter (lit) over the last 24 hours most likely reflects general cryptocurrency market volatility, as no specific news or catalysts for the asset have been widely reported.
+### 1. Bitway (BTW)
+- **Price:** $0.21
+- **Change:** +11.30%
+- **Analysis:** The 11.30% increase in Bitway (btw) most likely reflects general positive sentiment across the broader cryptocurrency market, rather than specific project news.
 
-### 2. Internet Computer (ICP)
-- **Price:** $2.31
-- **Change:** +4.90%
-- **Analysis:** The Internet Computer's 4.90% gain most likely stems from the overall positive sentiment and ongoing rally within the broader altcoin market.
+### 2. JUST (JST)
+- **Price:** $0.10
+- **Change:** +5.50%
+- **Analysis:** The 5.50% increase in JUST (JST) most likely reflects general market volatility and positive sentiment within the broader cryptocurrency ecosystem, lacking specific new catalysts for the token itself.
 
-### 3. Mantle (MNT)
-- **Price:** $0.45
-- **Change:** +4.60%
-- **Analysis:** Mantle's 4.60% increase most likely reflects general cryptocurrency market volatility and positive investor sentiment, rather than a single specific, widely reported news event.
+### 3. Pi Network (PI)
+- **Price:** $0.09
+- **Change:** +3.80%
+- **Analysis:** Given Pi Network's status as not officially launched on mainnet, its 3.80% increase is most likely due to speculative trading of IOU derivatives, tracking general cryptocurrency market volatility.
 
 ## Top 3 Losers (24h)
-### 1. Shiba Inu (SHIB)
+### 1. Pump.fun (PUMP)
 - **Price:** $0.00
-- **Change:** -4.70%
-- **Analysis:** The 4.70% drop in Shiba Inu's price is most likely a result of general market volatility, typical for highly speculative assets, rather than specific recent news.
+- **Change:** -6.30%
+- **Analysis:** The 6.30% decline in Pump.fun's price most likely reflects general cryptocurrency market volatility, as there is no specific negative news directly impacting the platform.
 
-### 2. Ondo (ONDO)
-- **Price:** $0.34
-- **Change:** -4.80%
-- **Analysis:** The 4.80% drop in Ondo (ONDO) is most likely due to general cryptocurrency market volatility and potential profit-taking, as no specific negative news has emerged for the asset.
+### 2. 币安人生 (BinanceLife) (币安人生)
+- **Price:** $0.48
+- **Change:** -7.20%
+- **Analysis:** The decline likely reflects general cryptocurrency market volatility, following broader market trends for altcoins.
 
-### 3. Cardano (ADA)
-- **Price:** $0.19
-- **Change:** -5.00%
-- **Analysis:** Cardano's 5.00% decline most likely mirrors a broader dip across the cryptocurrency market, reflecting general volatility rather than specific ADA news.
+### 3. Uniswap (UNI)
+- **Price:** $3.52
+- **Change:** -10.80%
+- **Analysis:** Uniswap's decline most likely reflects a broader pullback in the cryptocurrency market, influenced by general market volatility and macroeconomic concerns.
 
