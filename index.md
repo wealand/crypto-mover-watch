@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-08-12
+# Daily Crypto Movers - 2026-08-13
 
 ## Top 3 Gainers (24h)
 ### 1. Bitway (BTW)
-- **Price:** $0.21
-- **Change:** +11.30%
-- **Analysis:** The 11.30% increase in Bitway (btw) most likely reflects general positive sentiment across the broader cryptocurrency market, rather than specific project news.
+- **Price:** $0.25
+- **Change:** +10.60%
+- **Analysis:** The 10.60% increase in Bitway (btw) is most likely due to general cryptocurrency market volatility, as there is no specific news or major market trend directly related to this particular asset.
 
-### 2. JUST (JST)
-- **Price:** $0.10
-- **Change:** +5.50%
-- **Analysis:** The 5.50% increase in JUST (JST) most likely reflects general market volatility and positive sentiment within the broader cryptocurrency ecosystem, lacking specific new catalysts for the token itself.
+### 2. OKB (OKB)
+- **Price:** $102.47
+- **Change:** +7.20%
+- **Analysis:** The price movement most likely reflects general cryptocurrency market volatility, as no specific news regarding OKB has been reported.
 
-### 3. Pi Network (PI)
-- **Price:** $0.09
-- **Change:** +3.80%
-- **Analysis:** Given Pi Network's status as not officially launched on mainnet, its 3.80% increase is most likely due to speculative trading of IOU derivatives, tracking general cryptocurrency market volatility.
+### 3. Mantle (MNT)
+- **Price:** $0.46
+- **Change:** +6.80%
+- **Analysis:** Mantle's 6.80% price increase is most likely attributed to the continued growth in its ecosystem, particularly its rising Total Value Locked (TVL) and increasing adoption as an Ethereum Layer 2 solution.
 
 ## Top 3 Losers (24h)
-### 1. Pump.fun (PUMP)
+### 1. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** -4.30%
+- **Analysis:** Without specific news driving the movement, Rain's 4.30% decline likely reflects general cryptocurrency market volatility.
+
+### 2. Pepe (PEPE)
 - **Price:** $0.00
-- **Change:** -6.30%
-- **Analysis:** The 6.30% decline in Pump.fun's price most likely reflects general cryptocurrency market volatility, as there is no specific negative news directly impacting the platform.
+- **Change:** -4.90%
+- **Analysis:** The 4.90% drop in Pepe's price most likely reflects general market volatility and a slight pullback across the broader cryptocurrency market.
 
-### 2. 币安人生 (BinanceLife) (币安人生)
-- **Price:** $0.48
-- **Change:** -7.20%
-- **Analysis:** The decline likely reflects general cryptocurrency market volatility, following broader market trends for altcoins.
-
-### 3. Uniswap (UNI)
-- **Price:** $3.52
-- **Change:** -10.80%
-- **Analysis:** Uniswap's decline most likely reflects a broader pullback in the cryptocurrency market, influenced by general market volatility and macroeconomic concerns.
+### 3. Arbitrum (ARB)
+- **Price:** $0.07
+- **Change:** -4.90%
+- **Analysis:** Arbitrum's 4.90% drop most likely reflects broader cryptocurrency market consolidation and a general downturn in altcoin performance.
 
