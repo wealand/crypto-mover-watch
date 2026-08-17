@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-08-16
+# Daily Crypto Movers - 2026-08-17
 
 ## Top 3 Gainers (24h)
-### 1. Ether.fi (ETHFI)
-- **Price:** $0.48
+### 1. Bitway (BTW)
+- **Price:** $0.36
+- **Change:** +19.90%
+- **Analysis:** The 19.90% increase in Bitway's price most likely reflects general cryptocurrency market volatility, as no specific news or developments for the project have been reported.
+
+### 2. Ether.fi (ETHFI)
+- **Price:** $0.50
 - **Change:** +7.20%
-- **Analysis:** Ether.fi's price increase is most likely driven by sustained investor interest in the liquid restaking narrative and growing optimism surrounding a potential Ethereum Spot ETF approval.
+- **Analysis:** Ether.fi's price increase is primarily driven by sustained investor interest in the liquid restaking narrative within the Ethereum ecosystem and general positive market sentiment.
 
-### 2. LEO Token (LEO)
-- **Price:** $9.28
-- **Change:** +5.70%
-- **Analysis:** The LEO Token's 5.70% increase most likely reflects general market volatility and positive sentiment across the broader cryptocurrency market, as no specific, immediate news for LEO has been identified.
-
-### 3. World Liberty Financial (WLFI)
-- **Price:** $0.06
-- **Change:** +3.00%
-- **Analysis:** The 3.00% price increase for World Liberty Financial (WLFI) most likely reflects general market volatility, as no specific news or developments for the project are readily apparent.
+### 3. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** +6.40%
+- **Analysis:** Pump.fun's 6.40% price increase is most likely driven by renewed speculative interest within the memecoin sector and general market volatility.
 
 ## Top 3 Losers (24h)
-### 1. Pi Network (PI)
-- **Price:** $0.09
-- **Change:** -3.20%
-- **Analysis:** The 3.20% decline for Pi Network, which trades as an IOU on limited exchanges, most likely reflects general cryptocurrency market volatility rather than specific news.
+### 1. 币安人生 (BinanceLife) (币安人生)
+- **Price:** $0.47
+- **Change:** -1.70%
+- **Analysis:** The 1.70% drop in 币安人生 (BinanceLife) most likely reflects general cryptocurrency market volatility rather than specific news affecting the token.
 
-### 2. Avalanche (AVAX)
-- **Price:** $6.33
-- **Change:** -4.80%
-- **Analysis:** The 4.80% drop in Avalanche (AVAX) price most likely reflects general market volatility and a broader cryptocurrency market pullback, with no specific negative news unique to AVAX.
+### 2. ​​Stable (STABLE)
+- **Price:** $0.03
+- **Change:** -2.20%
+- **Analysis:** The 2.20% decline in Stable, a cryptocurrency intended to maintain a stable value, most likely reflects a de-pegging event, potentially triggered by market uncertainty or specific concerns regarding its backing.
 
-### 3. Beldex (BDX)
-- **Price:** $0.08
-- **Change:** -5.70%
-- **Analysis:** The 5.70% drop in Beldex (bdx) likely reflects general cryptocurrency market volatility, rather than specific recent project news.
+### 3. Quant (QNT)
+- **Price:** $55.84
+- **Change:** -2.30%
+- **Analysis:** The 2.30% drop in Quant (QNT) likely reflects general market volatility and a slight downturn in broader cryptocurrency sentiment, rather than specific project news.
 
