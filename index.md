@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-08-17
+# Daily Crypto Movers - 2026-08-18
 
 ## Top 3 Gainers (24h)
-### 1. Bitway (BTW)
-- **Price:** $0.36
-- **Change:** +19.90%
-- **Analysis:** The 19.90% increase in Bitway's price most likely reflects general cryptocurrency market volatility, as no specific news or developments for the project have been reported.
+### 1. Venice Token (VVV)
+- **Price:** $13.82
+- **Change:** +12.40%
+- **Analysis:** The Venice Token's 12.40% increase most likely reflects general market volatility and positive sentiment across the broader cryptocurrency market, as no specific major news directly driving vvv's recent movement has been widely reported.
 
-### 2. Ether.fi (ETHFI)
-- **Price:** $0.50
-- **Change:** +7.20%
-- **Analysis:** Ether.fi's price increase is primarily driven by sustained investor interest in the liquid restaking narrative within the Ethereum ecosystem and general positive market sentiment.
+### 2. Provenance Blockchain (HASH)
+- **Price:** $0.01
+- **Change:** +8.60%
+- **Analysis:** The price movement of Provenance Blockchain (HASH) is most likely a reflection of general market volatility, in the absence of specific project-related news.
 
-### 3. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** +6.40%
-- **Analysis:** Pump.fun's 6.40% price increase is most likely driven by renewed speculative interest within the memecoin sector and general market volatility.
+### 3. POL (ex-MATIC) (POL)
+- **Price:** $0.08
+- **Change:** +6.20%
+- **Analysis:** The price increase for POL (ex-MATIC) is most likely a reflection of the broader positive trend in the cryptocurrency market, mirroring Bitcoin's recent surge.
 
 ## Top 3 Losers (24h)
-### 1. 币安人生 (BinanceLife) (币安人生)
-- **Price:** $0.47
-- **Change:** -1.70%
-- **Analysis:** The 1.70% drop in 币安人生 (BinanceLife) most likely reflects general cryptocurrency market volatility rather than specific news affecting the token.
+### 1. Filecoin (FIL)
+- **Price:** $0.63
+- **Change:** -6.10%
+- **Analysis:** Filecoin's decline most likely reflects general market volatility and a slight cool-off observed across the broader cryptocurrency sector.
 
-### 2. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** -2.20%
-- **Analysis:** The 2.20% decline in Stable, a cryptocurrency intended to maintain a stable value, most likely reflects a de-pegging event, potentially triggered by market uncertainty or specific concerns regarding its backing.
+### 2. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** -6.60%
+- **Analysis:** The decline in Pump.fun's price is most likely a continued reaction to the recent insider trading exploit and the platform's subsequent recapitalization.
 
-### 3. Quant (QNT)
-- **Price:** $55.84
-- **Change:** -2.30%
-- **Analysis:** The 2.30% drop in Quant (QNT) likely reflects general market volatility and a slight downturn in broader cryptocurrency sentiment, rather than specific project news.
+### 3. Worldcoin (WLD)
+- **Price:** $0.32
+- **Change:** -10.10%
+- **Analysis:** The 10.10% drop in Worldcoin (WLD) likely reflects general cryptocurrency market volatility, often exacerbated by its ongoing regulatory and privacy concerns.
 
