@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-08-21
+# Daily Crypto Movers - 2026-08-22
 
 ## Top 3 Gainers (24h)
-### 1. Ethena (ENA)
-- **Price:** $0.13
-- **Change:** +40.60%
-- **Analysis:** The price surge for Ethena (ENA) is primarily driven by strong user engagement with its "Sats" campaign, which incentivizes holding USDe for potential future rewards and airdrops.
+### 1. Official Trump (TRUMP)
+- **Price:** $2.86
+- **Change:** +67.20%
+- **Analysis:** The Official Trump (TRUMP) cryptocurrency's price surge is most likely due to increased speculation and a rally of support following Donald Trump's recent guilty verdict in his New York trial.
 
-### 2. Bitway (BTW)
-- **Price:** $0.49
-- **Change:** +36.80%
-- **Analysis:** In the absence of specific news, Bitway's 36.80% price surge is most likely attributable to general cryptocurrency market volatility.
+### 2. Zcash (ZEC)
+- **Price:** $815.99
+- **Change:** +35.10%
+- **Analysis:** The most likely reason for Zcash's significant price jump is investor anticipation of its upcoming halving event in October 2024, which will drastically reduce its supply.
 
-### 3. Bitcoin Cash (BCH)
-- **Price:** $264.02
-- **Change:** +22.70%
-- **Analysis:** The surge in Bitcoin Cash is most likely due to anticipation of its upcoming halving event, which will reduce the supply of new coins.
+### 3. POL (ex-MATIC) (POL)
+- **Price:** $0.11
+- **Change:** +28.10%
+- **Analysis:** The surge in POL's price is primarily attributed to advancements in its Polygon 2.0 rollout, which introduces enhanced staking capabilities and a more robust ecosystem vision for its new POL token.
 
 ## Top 3 Losers (24h)
-### 1. Figure Heloc (FIGR_HELOC)
-- **Price:** $1.03
-- **Change:** -1.60%
-- **Analysis:** Figure Heloc's 1.60% dip most likely reflects general market volatility, with no specific news driving this particular movement.
+### 1. Venice Token (VVV)
+- **Price:** $15.66
+- **Change:** -1.50%
+- **Analysis:** Absent specific news impacting the project, Venice Token's 1.50% decline most likely reflects broader cryptocurrency market volatility.
 
-### 2. Lighter (LIT)
-- **Price:** $2.76
-- **Change:** -5.20%
-- **Analysis:** The 5.20% drop in Lighter (lit) most likely follows general cryptocurrency market volatility, as no specific news related to the project has been identified.
+### 2. JUST (JST)
+- **Price:** $0.10
+- **Change:** -2.20%
+- **Analysis:** The 2.20% drop in JUST (JST) most likely reflects general cryptocurrency market volatility, aligning with broader altcoin trends.
 
-### 3. MemeCore (M)
-- **Price:** $1.13
-- **Change:** -7.80%
-- **Analysis:** MemeCore's 7.80% decline most likely mirrors a broader downturn in the cryptocurrency market, influenced by ongoing macroeconomic concerns or general market volatility.
+### 3. Mantle (MNT)
+- **Price:** $0.50
+- **Change:** -3.70%
+- **Analysis:** The 3.70% price drop for Mantle (MNT) most likely reflects general market volatility, as there is no significant specific news driving the movement.
 
