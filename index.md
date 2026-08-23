@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-08-22
+# Daily Crypto Movers - 2026-08-23
 
 ## Top 3 Gainers (24h)
-### 1. Official Trump (TRUMP)
-- **Price:** $2.86
-- **Change:** +67.20%
-- **Analysis:** The Official Trump (TRUMP) cryptocurrency's price surge is most likely due to increased speculation and a rally of support following Donald Trump's recent guilty verdict in his New York trial.
+### 1. Venice Token (VVV)
+- **Price:** $16.87
+- **Change:** +9.50%
+- **Analysis:** The Venice Token's 9.50% increase most likely reflects general market volatility, as there is no specific major news or development to attribute the rise.
 
-### 2. Zcash (ZEC)
-- **Price:** $815.99
-- **Change:** +35.10%
-- **Analysis:** The most likely reason for Zcash's significant price jump is investor anticipation of its upcoming halving event in October 2024, which will drastically reduce its supply.
+### 2. Pump.fun (PUMP)
+- **Price:** $0.01
+- **Change:** +9.40%
+- **Analysis:** Pump.fun's 9.40% price increase most likely reflects renewed speculative interest in the volatile Solana-based meme coin sector and broader crypto market sentiment.
 
-### 3. POL (ex-MATIC) (POL)
-- **Price:** $0.11
-- **Change:** +28.10%
-- **Analysis:** The surge in POL's price is primarily attributed to advancements in its Polygon 2.0 rollout, which introduces enhanced staking capabilities and a more robust ecosystem vision for its new POL token.
+### 3. Lighter (LIT)
+- **Price:** $3.19
+- **Change:** +3.20%
+- **Analysis:** Absent specific news, Lighter (lit)'s 3.20% price increase most likely reflects general cryptocurrency market volatility.
 
 ## Top 3 Losers (24h)
-### 1. Venice Token (VVV)
-- **Price:** $15.66
-- **Change:** -1.50%
-- **Analysis:** Absent specific news impacting the project, Venice Token's 1.50% decline most likely reflects broader cryptocurrency market volatility.
+### 1. Worldcoin (WLD)
+- **Price:** $0.38
+- **Change:** -10.90%
+- **Analysis:** Worldcoin (WLD) is likely down due to ongoing regulatory scrutiny and data privacy concerns surrounding its operations in several countries.
 
-### 2. JUST (JST)
-- **Price:** $0.10
-- **Change:** -2.20%
-- **Analysis:** The 2.20% drop in JUST (JST) most likely reflects general cryptocurrency market volatility, aligning with broader altcoin trends.
+### 2. Cronos (CRO)
+- **Price:** $0.06
+- **Change:** -11.70%
+- **Analysis:** CRO's 11.70% decline most likely reflects broader cryptocurrency market volatility and downward pressure, absent specific negative news directly impacting Cronos.
 
-### 3. Mantle (MNT)
-- **Price:** $0.50
-- **Change:** -3.70%
-- **Analysis:** The 3.70% price drop for Mantle (MNT) most likely reflects general market volatility, as there is no significant specific news driving the movement.
+### 3. Official Trump (TRUMP)
+- **Price:** $2.51
+- **Change:** -17.30%
+- **Analysis:** The 17.30% drop in Official Trump (trump) likely reflects market uncertainty and selling pressure following Donald Trump's recent felony conviction.
 
