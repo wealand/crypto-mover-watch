@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-08-28
+# Daily Crypto Movers - 2026-08-29
 
 ## Top 3 Gainers (24h)
-### 1. Bitway (BTW)
-- **Price:** $0.43
-- **Change:** +5.47%
-- **Analysis:** Bitway's 5.47% price increase most likely reflects general cryptocurrency market volatility, potentially driven by broader positive sentiment across altcoins, rather than specific project news.
+### 1. Dash (DASH)
+- **Price:** $40.09
+- **Change:** +3.84%
+- **Analysis:** Dash's 3.84% price increase is most likely due to general market volatility, as there is no specific recent news driving this movement.
 
-### 2. Figure Heloc (FIGR_HELOC)
-- **Price:** $1.04
-- **Change:** +3.49%
-- **Analysis:** Absent specific news for Figure Heloc, its 3.49% price increase most likely reflects general cryptocurrency market sentiment and typical altcoin volatility.
+### 2. Canton (CC)
+- **Price:** $0.11
+- **Change:** +2.92%
+- **Analysis:** Canton (cc)'s 2.92% price increase is most likely due to general cryptocurrency market volatility, as no specific news related to the token has been reported.
 
-### 3. Rain (RAIN)
-- **Price:** $0.02
-- **Change:** +1.98%
-- **Analysis:** With no specific news driving it, Rain's 1.98% price increase most likely reflects general market volatility common to cryptocurrencies.
+### 3. Internet Computer (ICP)
+- **Price:** $2.46
+- **Change:** +2.79%
+- **Analysis:** The increase likely reflects general positive sentiment in the broader cryptocurrency market, alongside ongoing developments within the Internet Computer ecosystem.
 
 ## Top 3 Losers (24h)
-### 1. VeChain (VET)
-- **Price:** $0.01
-- **Change:** -8.27%
-- **Analysis:** The decline in VeChain's price most likely reflects a broader cryptocurrency market downturn, influenced by recent weakness in Bitcoin.
+### 1. Worldcoin (WLD)
+- **Price:** $0.37
+- **Change:** -5.20%
+- **Analysis:** The decline in Worldcoin's price is most likely driven by ongoing regulatory scrutiny and privacy concerns surrounding its biometric data collection.
 
-### 2. Lighter (LIT)
-- **Price:** $3.38
-- **Change:** -8.56%
-- **Analysis:** The 8.56% price drop for Lighter (lit) most likely reflects general cryptocurrency market volatility and broader macroeconomic pressures, in the absence of specific project-related news.
+### 2. NEXO (NEXO)
+- **Price:** $0.82
+- **Change:** -5.94%
+- **Analysis:** The 5.94% drop in NEXO's price is most likely due to general cryptocurrency market volatility, with no specific recent news event identified.
 
-### 3. Venice Token (VVV)
-- **Price:** $16.58
-- **Change:** -10.17%
-- **Analysis:** The price movement most likely reflects general cryptocurrency market volatility, rather than specific news related to Venice Token.
+### 3. Jupiter (JUP)
+- **Price:** $0.22
+- **Change:** -6.49%
+- **Analysis:** Jupiter's 6.49% price drop likely reflects general cryptocurrency market volatility, as there isn't specific negative news about the project itself in the last 24 hours.
 
