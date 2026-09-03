@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-09-02
+# Daily Crypto Movers - 2026-09-03
 
 ## Top 3 Gainers (24h)
-### 1. Bitway (BTW)
-- **Price:** $0.44
-- **Change:** +13.35%
-- **Analysis:** Bitway (btw) is up by 13.35% over the last 24 hours, most likely reflecting general market volatility and a broader positive sentiment in the cryptocurrency space.
+### 1. Arbitrum (ARB)
+- **Price:** $0.14
+- **Change:** +25.65%
+- **Analysis:** The surge in Arbitrum's price is most likely driven by the recent Arbitrum DAO approval of its ARB staking proposal, creating new demand and utility for the token.
 
-### 2. Filecoin (FIL)
-- **Price:** $0.77
-- **Change:** +10.75%
-- **Analysis:** Filecoin's 10.75% gain most likely reflects positive sentiment across the broader cryptocurrency market and general altcoin trends, rather than a specific project-related news event.
+### 2. PancakeSwap (CAKE)
+- **Price:** $1.98
+- **Change:** +10.44%
+- **Analysis:** PancakeSwap's (CAKE) 10.44% increase likely reflects overall positive sentiment in the broader cryptocurrency market, coupled with strengthening interest in the decentralized finance (DeFi) sector.
 
-### 3. JUST (JST)
-- **Price:** $0.11
-- **Change:** +5.87%
-- **Analysis:** The 5.87% rise in JUST (JST) is most likely attributed to general positive momentum across the broader cryptocurrency market, aligning with recent strength in the Tron ecosystem.
+### 3. Lighter (LIT)
+- **Price:** $3.95
+- **Change:** +8.85%
+- **Analysis:** Absent specific recent news for Lighter, its 8.85% price increase is most likely attributable to general cryptocurrency market volatility.
 
 ## Top 3 Losers (24h)
-### 1. NEAR Protocol (NEAR)
-- **Price:** $1.86
-- **Change:** -6.54%
-- **Analysis:** NEAR Protocol's decline likely reflects a broader cryptocurrency market pullback and profit-taking after its recent strong performance.
+### 1. Figure Heloc (FIGR_HELOC)
+- **Price:** $1.01
+- **Change:** -2.02%
+- **Analysis:** With no specific news affecting Figure Heloc, the 2.02% decline most likely reflects general cryptocurrency market volatility.
 
-### 2. Ethena (ENA)
-- **Price:** $0.15
-- **Change:** -6.97%
-- **Analysis:** The 6.97% drop in Ethena (ENA) most likely reflects general cryptocurrency market volatility and broader altcoin corrections, as no specific negative news about the project has emerged.
+### 2. Sky (SKY)
+- **Price:** $0.07
+- **Change:** -3.19%
+- **Analysis:** The 3.19% drop in Sky's price most likely reflects general cryptocurrency market volatility, aligning with minor fluctuations seen across other altcoins without specific project-related news.
 
-### 3. Dash (DASH)
-- **Price:** $41.98
-- **Change:** -8.46%
-- **Analysis:** Dash's price movement most likely reflects a broader downturn and cautious sentiment across the cryptocurrency market.
+### 3. Morpho (MORPHO)
+- **Price:** $2.42
+- **Change:** -3.46%
+- **Analysis:** Morpho's 3.46% price drop most likely reflects general cryptocurrency market volatility, with no specific project news driving the movement.
 
