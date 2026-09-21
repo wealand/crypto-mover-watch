@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-09-20
+# Daily Crypto Movers - 2026-09-21
 
 ## Top 3 Gainers (24h)
-### 1. Bitway (BTW)
-- **Price:** $0.72
-- **Change:** +21.70%
-- **Analysis:** As there is no specific news surrounding Bitway, its hypothetical 21.70% price increase most likely reflects general cryptocurrency market volatility.
+### 1. Sui (SUI)
+- **Price:** $1.04
+- **Change:** +25.71%
+- **Analysis:** Sui's price increase is most likely due to its rapidly growing Total Value Locked (TVL) and increasing user adoption within its DeFi and gaming ecosystems.
 
-### 2. MemeCore (M)
-- **Price:** $1.53
-- **Change:** +18.61%
-- **Analysis:** The 18.61% price increase for MemeCore (m) is most likely attributed to general cryptocurrency market volatility and speculative interest, as no specific news or development appears to be the direct catalyst.
+### 2. Bitway (BTW)
+- **Price:** $0.90
+- **Change:** +25.14%
+- **Analysis:** Given the lack of specific news regarding Bitway, its 25.14% increase most likely reflects the high volatility and speculative trading inherent in many smaller cryptocurrencies.
 
-### 3. Avalanche (AVAX)
-- **Price:** $10.34
-- **Change:** +12.35%
-- **Analysis:** The most likely reason for AVAX's surge is recent news regarding JPMorgan's Onyx utilizing an Avalanche subnet for a tokenized asset experiment, signaling growing institutional adoption.
+### 3. Arbitrum (ARB)
+- **Price:** $0.23
+- **Change:** +18.06%
+- **Analysis:** The price increase for Arbitrum (ARB) is most likely driven by the positive market sentiment following the recent Ethereum Dencun upgrade, which significantly reduces transaction costs for Layer 2 solutions.
 
 ## Top 3 Losers (24h)
-### 1. Morpho (MORPHO)
-- **Price:** $2.48
-- **Change:** -9.05%
-- **Analysis:** The 9.05% drop in Morpho's price most likely stems from general market volatility and profit-taking typical for altcoins, without specific negative news directly impacting the protocol.
+### 1. World Liberty Financial (WLFI)
+- **Price:** $0.06
+- **Change:** -0.77%
+- **Analysis:** The 0.77% decline for World Liberty Financial (wlfi) most likely reflects general market volatility, as such a small movement is common in the cryptocurrency space without specific news.
 
-### 2. Monero (XMR)
-- **Price:** $529.28
-- **Change:** -9.16%
-- **Analysis:** The 9.16% decline in Monero's price most likely reflects general cryptocurrency market volatility, as there is no specific XMR-related news driving the movement.
+### 2. JUST (JST)
+- **Price:** $0.11
+- **Change:** -1.66%
+- **Analysis:** The 1.66% decline in JUST (JST) most likely reflects general market volatility, with no specific news driving the movement.
 
-### 3. Akedo (AKE)
-- **Price:** $0.05
-- **Change:** -13.57%
-- **Analysis:** The 13.57% decline in Akedo's price most likely reflects general market volatility, as there is no specific recent news explaining the movement.
+### 3. MemeCore (M)
+- **Price:** $1.50
+- **Change:** -2.84%
+- **Analysis:** MemeCore's 2.84% decline most likely reflects general cryptocurrency market volatility and its correlation with broader market sentiment, rather than specific project-related news.
 
