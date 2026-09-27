@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-09-26
+# Daily Crypto Movers - 2026-09-27
 
 ## Top 3 Gainers (24h)
-### 1. Aerodrome Finance (AERO)
-- **Price:** $0.93
-- **Change:** +18.86%
-- **Analysis:** The price surge in Aerodrome (AERO) is most likely due to the continued robust growth and increasing DeFi activity within the Base ecosystem, where it operates as a dominant decentralized exchange.
+### 1. Quant (QNT)
+- **Price:** $159.80
+- **Change:** +53.62%
+- **Analysis:** The most likely reason for Quant's surge is its recent Overledger 2.3.0 upgrade, which significantly enhances interoperability for institutional finance and the ISO 20022 standard.
 
-### 2. Ethena (ENA)
-- **Price:** $0.28
-- **Change:** +17.35%
-- **Analysis:** The surge in Ethena's price is most likely attributed to renewed investor interest in its high-yield USDe stablecoin and the protocol's expanding ecosystem within the broader cryptocurrency market.
+### 2. Bitway (BTW)
+- **Price:** $1.15
+- **Change:** +23.61%
+- **Analysis:** The 23.61% price increase for Bitway (btw) most likely reflects general market volatility and speculative trading common in the cryptocurrency space, potentially tracking broader market sentiment rather than specific significant news.
 
-### 3. Canton (CC)
-- **Price:** $0.14
-- **Change:** +10.19%
-- **Analysis:** Absent specific news directly related to Canton, its 10.19% surge most likely reflects general cryptocurrency market volatility and speculative interest.
+### 3. Worldcoin (WLD)
+- **Price:** $0.57
+- **Change:** +18.06%
+- **Analysis:** Worldcoin's price surge is primarily driven by its ongoing global expansion of Orb verification operations and increasing user adoption.
 
 ## Top 3 Losers (24h)
-### 1. Injective (INJ)
-- **Price:** $7.76
-- **Change:** -5.68%
-- **Analysis:** Injective's price decline most likely reflects broader cryptocurrency market consolidation and profit-taking after recent gains.
+### 1. Mantle (MNT)
+- **Price:** $0.68
+- **Change:** -2.88%
+- **Analysis:** Mantle's 2.88% price drop is most likely attributable to general cryptocurrency market volatility, rather than any specific negative news regarding the project itself.
 
-### 2. Akedo (AKE)
-- **Price:** $0.03
-- **Change:** -6.38%
-- **Analysis:** Akedo's price decline most likely reflects the general negative sentiment or increased volatility across the broader cryptocurrency market, lacking specific recent news for the token itself.
+### 2. Jupiter (JUP)
+- **Price:** $0.34
+- **Change:** -3.22%
+- **Analysis:** The 3.22% drop in Jupiter (JUP) likely reflects broader cryptocurrency market volatility, rather than specific project-related news.
 
-### 3. Bitway (BTW)
-- **Price:** $0.92
-- **Change:** -17.52%
-- **Analysis:** Bitway's 17.52% decline is most likely due to general cryptocurrency market volatility, as there is no specific news currently driving its price.
+### 3. Aerodrome Finance (AERO)
+- **Price:** $0.84
+- **Change:** -6.03%
+- **Analysis:** Aerodrome Finance's 6.03% price drop is most likely due to broader cryptocurrency market volatility, reflecting a general downturn across altcoins.
 
