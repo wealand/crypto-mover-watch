@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-10-02
+# Daily Crypto Movers - 2026-10-03
 
 ## Top 3 Gainers (24h)
-### 1. Midnight (NIGHT)
-- **Price:** $0.05
-- **Change:** +24.49%
-- **Analysis:** Lacking specific major news, Midnight's 24.49% surge likely reflects general altcoin market volatility and speculative buying interest.
+### 1. LayerZero (ZRO)
+- **Price:** $2.03
+- **Change:** +9.32%
+- **Analysis:** The LayerZero (ZRO) token's recent price increase is likely due to ongoing market interest and price discovery following its highly anticipated token launch and airdrop.
 
-### 2. LayerZero (ZRO)
-- **Price:** $1.99
-- **Change:** +18.74%
-- **Analysis:** The price increase for LayerZero (ZRO) is most likely driven by renewed anticipation and speculation surrounding its long-awaited token airdrop.
+### 2. JUST (JST)
+- **Price:** $0.14
+- **Change:** +7.39%
+- **Analysis:** The most likely reason for JUST's 7.39% increase is general cryptocurrency market volatility and speculative trading, as no specific recent news catalysts have been reported for the token.
 
-### 3. Sky (SKY)
-- **Price:** $0.09
-- **Change:** +17.86%
-- **Analysis:** Sky (SKY)'s 17.86% price increase is most likely due to general market volatility, as no specific recent news appears to be driving this movement.
+### 3. Worldcoin (WLD)
+- **Price:** $0.61
+- **Change:** +6.81%
+- **Analysis:** Worldcoin's price increase is most likely driven by renewed investor interest in AI-related cryptocurrencies, buoyed by its association with OpenAI CEO Sam Altman.
 
 ## Top 3 Losers (24h)
-### 1. Lighter (LIT)
-- **Price:** $3.72
-- **Change:** -4.60%
-- **Analysis:** The 4.60% drop in Lighter (lit) most likely reflects general cryptocurrency market volatility rather than specific project news.
+### 1. Venice Token (VVV)
+- **Price:** $27.79
+- **Change:** -6.77%
+- **Analysis:** The Venice Token (vvv) price movement most likely reflects broader cryptocurrency market trends and general market volatility, as no specific major news for the token has been reported.
 
-### 2. Ethena (ENA)
-- **Price:** $0.25
-- **Change:** -5.30%
-- **Analysis:** Ethena's price decline most likely reflects general cryptocurrency market volatility, as many altcoins follow broader market trends without specific negative news impacting ENA directly.
+### 2. Bittensor (TAO)
+- **Price:** $289.57
+- **Change:** -7.42%
+- **Analysis:** Bittensor's 7.42% price drop most likely reflects general cryptocurrency market volatility, as there isn't specific negative news impacting TAO recently.
 
-### 3. Quant (QNT)
-- **Price:** $249.07
-- **Change:** -6.38%
-- **Analysis:** Quant's 6.38% price decline most likely reflects general cryptocurrency market volatility rather than any specific recent news directly impacting QNT.
+### 3. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** -9.91%
+- **Analysis:** Rain's 9.91% decline most likely reflects broader altcoin market volatility, absent any specific project news.
 
