@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-10-10
+# Daily Crypto Movers - 2026-10-11
 
 ## Top 3 Gainers (24h)
-### 1. NEAR Protocol (NEAR)
-- **Price:** $5.36
-- **Change:** +12.00%
-- **Analysis:** NEAR Protocol's price increase is most likely driven by its strong alignment with the ongoing decentralized AI narrative and related developments within the crypto market.
+### 1. Starknet (STRK)
+- **Price:** $0.11
+- **Change:** +43.27%
+- **Analysis:** Starknet's price surge is most likely due to continued market activity and price discovery following its recent "Starknet Provisions" airdrop and subsequent major exchange listings.
 
-### 2. Aerodrome Finance (AERO)
-- **Price:** $0.89
-- **Change:** +11.19%
-- **Analysis:** Aerodrome Finance's price increase is most likely due to the continued strong growth and increasing activity within the Base ecosystem, where it serves as a core decentralized exchange and liquidity hub.
+### 2. Aptos (APT)
+- **Price:** $0.91
+- **Change:** +11.65%
+- **Analysis:** Aptos's price surge is most likely driven by its increasing strategic focus and momentum in the burgeoning Web3 gaming ecosystem, attracting developer and investor interest.
 
-### 3. Worldcoin (WLD)
-- **Price:** $0.54
-- **Change:** +10.99%
-- **Analysis:** Worldcoin's price increase is most likely driven by renewed investor interest in the AI sector, particularly due to its association with OpenAI CEO and co-founder Sam Altman, amidst recent OpenAI developments.
+### 3. Arbitrum (ARB)
+- **Price:** $0.20
+- **Change:** +6.72%
+- **Analysis:** Arbitrum's recent price increase is most likely driven by the continued positive sentiment following the Ethereum Dencun upgrade, which significantly reduced layer-2 transaction fees.
 
 ## Top 3 Losers (24h)
-### 1. LayerZero (ZRO)
-- **Price:** $1.98
-- **Change:** -2.67%
-- **Analysis:** The decline in LayerZero (ZRO) is most likely due to post-airdrop profit-taking from recipients, consistent with general market volatility.
+### 1. Cardano (ADA)
+- **Price:** $0.25
+- **Change:** -3.82%
+- **Analysis:** Cardano's price decline most likely reflects a broader cryptocurrency market downturn and general volatility, influenced by Bitcoin's performance rather than specific ADA-related news.
 
-### 2. Figure Heloc (FIGR_HELOC)
-- **Price:** $1.00
-- **Change:** -2.77%
-- **Analysis:** Absent specific project news, Figure Heloc's 2.77% price drop is most likely due to general cryptocurrency market volatility.
+### 2. Stacks (STX)
+- **Price:** $0.39
+- **Change:** -4.82%
+- **Analysis:** The decline in Stacks (STX) most likely reflects broader cryptocurrency market volatility and a general pullback in altcoins following Bitcoin's recent performance.
 
-### 3. JUST (JST)
-- **Price:** $0.14
-- **Change:** -3.38%
-- **Analysis:** The 3.38% dip in JST's price is most likely a reflection of general cryptocurrency market volatility, as no specific news directly impacting JUST has emerged.
+### 3. MemeCore (M)
+- **Price:** $0.93
+- **Change:** -7.22%
+- **Analysis:** MemeCore's decline most likely reflects a broader downturn and risk-off sentiment currently affecting the overall cryptocurrency market.
 
