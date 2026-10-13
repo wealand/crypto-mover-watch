@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-10-12
+# Daily Crypto Movers - 2026-10-13
 
 ## Top 3 Gainers (24h)
-### 1. Pyth Network (PYTH)
-- **Price:** $0.09
-- **Change:** +13.61%
-- **Analysis:** The Pyth Network's price surge is most likely due to its continuous expansion of oracle data feed integrations and growing adoption within the DeFi ecosystem.
+### 1. Bitway (BTW)
+- **Price:** $1.93
+- **Change:** +9.50%
+- **Analysis:** Bitway's (btw) 9.50% price increase most likely stems from general cryptocurrency market volatility and speculative trading, given the absence of specific project news.
 
-### 2. Beldex (BDX)
-- **Price:** $0.09
-- **Change:** +6.22%
-- **Analysis:** The 6.22% increase in Beldex's price is most likely due to general cryptocurrency market volatility, as no specific major news catalyst has been announced.
+### 2. Stacks (STX)
+- **Price:** $0.43
+- **Change:** +7.05%
+- **Analysis:** The Stacks (STX) price surge is most likely due to the ongoing activation and positive sentiment surrounding its major Nakamoto upgrade, significantly enhancing its Bitcoin-native smart contract capabilities.
 
-### 3. LayerZero (ZRO)
-- **Price:** $2.20
-- **Change:** +6.20%
-- **Analysis:** The price increase for LayerZero (ZRO) likely reflects stabilizing market sentiment and renewed buying interest following its recent token airdrop.
+### 3. Canton (CC)
+- **Price:** $0.13
+- **Change:** +5.66%
+- **Analysis:** Given no specific news is available for Canton (cc), its 5.66% price increase is most likely attributable to general cryptocurrency market volatility.
 
 ## Top 3 Losers (24h)
-### 1. Jupiter (JUP)
-- **Price:** $0.34
-- **Change:** -10.11%
-- **Analysis:** The decline in Jupiter (JUP) price is most likely attributed to general cryptocurrency market volatility, as no significant project-specific negative news has been widely reported.
+### 1. Quant (QNT)
+- **Price:** $207.50
+- **Change:** -9.88%
+- **Analysis:** The decline in Quant's price is most likely due to a broader downturn across the cryptocurrency market, reflecting general market volatility.
 
-### 2. Pump.fun (PUMP)
-- **Price:** $0.01
-- **Change:** -10.21%
-- **Analysis:** The 10.21% decline in Pump.fun most likely reflects broader cryptocurrency market volatility and a general cooling trend impacting altcoins.
+### 2. MemeCore (M)
+- **Price:** $0.85
+- **Change:** -10.44%
+- **Analysis:** The 10.44% drop in MemeCore (m) is most likely due to general cryptocurrency market volatility, common for highly speculative meme coins lacking specific fundamental drivers.
 
-### 3. Starknet (STRK)
-- **Price:** $0.09
-- **Change:** -23.58%
-- **Analysis:** The significant price drop is most likely due to continued profit-taking and selling pressure following its recent large-scale token airdrop and launch.
+### 3. LayerZero (ZRO)
+- **Price:** $2.01
+- **Change:** -12.19%
+- **Analysis:** Analysis unavailable due to error.
 
