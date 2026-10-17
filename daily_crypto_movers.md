@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-10-16
+# Daily Crypto Movers - 2026-10-17
 
 ## Top 3 Gainers (24h)
-### 1. Celestia (TIA)
-- **Price:** $0.70
-- **Change:** +31.39%
-- **Analysis:** Celestia's price surge is most likely driven by its increasing adoption as a modular data availability layer for various rollups and the strong market narrative around blockchain scalability.
+### 1. Bitway (BTW)
+- **Price:** $2.12
+- **Change:** +27.96%
+- **Analysis:** The 27.96% surge in Bitway's price most likely reflects general speculative volatility common in the altcoin market, absent any specific reported news.
 
-### 2. Injective (INJ)
-- **Price:** $9.10
-- **Change:** +27.14%
-- **Analysis:** Injective's significant surge is most likely driven by strong positive sentiment across the broader cryptocurrency market, coupled with its established position as a leading DeFi Layer-1.
+### 2. Lighter (LIT)
+- **Price:** $3.19
+- **Change:** +2.70%
+- **Analysis:** The 2.70% price increase for Lighter (lit) most likely reflects general cryptocurrency market volatility, with no specific news or major trend identified for this individual token.
 
-### 3. LayerZero (ZRO)
-- **Price:** $2.18
-- **Change:** +19.43%
-- **Analysis:** The LayerZero (ZRO) price increase is most likely a recovery rebound from the initial post-airdrop selling pressure following its recent token launch.
+### 3. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** +1.97%
+- **Analysis:** Pump.fun's 1.97% price increase most likely reflects general market volatility, which is typical for memecoin-related platforms, without specific major news driving the movement.
 
 ## Top 3 Losers (24h)
-### 1. Figure Heloc (FIGR_HELOC)
-- **Price:** $1.03
-- **Change:** -0.77%
-- **Analysis:** Figure Heloc's 0.77% dip most likely reflects general cryptocurrency market volatility, as no specific news directly impacting the asset has been reported.
+### 1. ​​Stable (STABLE)
+- **Price:** $0.03
+- **Change:** -7.75%
+- **Analysis:** The 7.75% drop for the cryptocurrency Stable (stable) most likely indicates a significant depegging event, signifying a failure to maintain its intended stable value due to concerns over its underlying collateral or mechanism.
 
-### 2. Canton (CC)
-- **Price:** $0.10
-- **Change:** -3.02%
-- **Analysis:** The decline in Canton's price is most likely attributed to general cryptocurrency market volatility amid broader macroeconomic concerns.
+### 2. Stacks (STX)
+- **Price:** $0.38
+- **Change:** -9.99%
+- **Analysis:** The decline in Stacks (STX) most likely reflects broader cryptocurrency market volatility and recent profit-taking, rather than specific negative news for the project itself.
 
-### 3. Bitway (BTW)
-- **Price:** $1.72
-- **Change:** -13.79%
-- **Analysis:** The Bitway price drop most likely reflects general cryptocurrency market volatility in the absence of specific news for the token itself.
+### 3. LayerZero (ZRO)
+- **Price:** $1.94
+- **Change:** -12.42%
+- **Analysis:** LayerZero's price drop is primarily due to selling pressure from recipients claiming and selling their newly distributed ZRO tokens following its recent airdrop.
 
