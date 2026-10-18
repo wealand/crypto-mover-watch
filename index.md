@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-10-17
+# Daily Crypto Movers - 2026-10-18
 
 ## Top 3 Gainers (24h)
-### 1. Bitway (BTW)
-- **Price:** $2.12
-- **Change:** +27.96%
-- **Analysis:** The 27.96% surge in Bitway's price most likely reflects general speculative volatility common in the altcoin market, absent any specific reported news.
+### 1. Pearl (PRL)
+- **Price:** $1.89
+- **Change:** +10.89%
+- **Analysis:** Pearl's 10.89% price jump is most likely a result of renewed interest and activity within the broader Shiba Inu ecosystem, including its Shibarium layer-2 network, alongside general positive sentiment in the cryptocurrency market.
 
-### 2. Lighter (LIT)
-- **Price:** $3.19
-- **Change:** +2.70%
-- **Analysis:** The 2.70% price increase for Lighter (lit) most likely reflects general cryptocurrency market volatility, with no specific news or major trend identified for this individual token.
+### 2. Bitway (BTW)
+- **Price:** $2.42
+- **Change:** +10.49%
+- **Analysis:** The 10.49% increase in Bitway's price is most likely due to general cryptocurrency market volatility and speculative trading, as no specific news for the project has been reported.
 
-### 3. Pump.fun (PUMP)
-- **Price:** $0.00
-- **Change:** +1.97%
-- **Analysis:** Pump.fun's 1.97% price increase most likely reflects general market volatility, which is typical for memecoin-related platforms, without specific major news driving the movement.
+### 3. Hedera (HBAR)
+- **Price:** $0.09
+- **Change:** +7.09%
+- **Analysis:** The price increase for Hedera (HBAR) most likely reflects broader positive sentiment and an upward trend across the cryptocurrency market.
 
 ## Top 3 Losers (24h)
-### 1. ​​Stable (STABLE)
-- **Price:** $0.03
-- **Change:** -7.75%
-- **Analysis:** The 7.75% drop for the cryptocurrency Stable (stable) most likely indicates a significant depegging event, signifying a failure to maintain its intended stable value due to concerns over its underlying collateral or mechanism.
+### 1. Midnight (NIGHT)
+- **Price:** $0.04
+- **Change:** -4.69%
+- **Analysis:** The 4.69% price drop for Midnight is most likely due to general market volatility, as there isn't any specific recent news or development related to the project driving the movement.
 
-### 2. Stacks (STX)
-- **Price:** $0.38
-- **Change:** -9.99%
-- **Analysis:** The decline in Stacks (STX) most likely reflects broader cryptocurrency market volatility and recent profit-taking, rather than specific negative news for the project itself.
+### 2. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** -4.80%
+- **Analysis:** The decline in Pump.fun's price is most likely a reaction to the recent security exploit by a former employee who drained funds from the platform.
 
-### 3. LayerZero (ZRO)
-- **Price:** $1.94
-- **Change:** -12.42%
-- **Analysis:** LayerZero's price drop is primarily due to selling pressure from recipients claiming and selling their newly distributed ZRO tokens following its recent airdrop.
+### 3. Filecoin (FIL)
+- **Price:** $1.06
+- **Change:** -5.25%
+- **Analysis:** Filecoin's decline most likely reflects broader cryptocurrency market volatility and a general downtrend, rather than specific project-related news.
 
