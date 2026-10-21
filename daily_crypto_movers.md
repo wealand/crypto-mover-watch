@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-10-20
+# Daily Crypto Movers - 2026-10-21
 
 ## Top 3 Gainers (24h)
-### 1. MemeCore (M)
-- **Price:** $0.81
-- **Change:** +19.87%
-- **Analysis:** MemeCore's 19.87% price increase is most likely due to general market volatility and speculative trading, common for meme cryptocurrencies.
+### 1. Pearl (PEARL)
+- **Price:** $2.44
+- **Change:** +24.31%
+- **Analysis:** The 24.31% increase in Pearl (pearl) most likely reflects broader positive cryptocurrency market trends and speculative interest, as no specific news for the project has been widely reported.
 
-### 2. Worldcoin (WLD)
-- **Price:** $0.55
-- **Change:** +8.42%
-- **Analysis:** Worldcoin's price movement is most likely driven by its continued network expansion and sustained speculative interest due to its association with AI and Sam Altman.
+### 2. LayerZero (ZRO)
+- **Price:** $2.06
+- **Change:** +15.54%
+- **Analysis:** The increase in LayerZero (ZRO) price is most likely due to ongoing post-airdrop price discovery and market rebalancing after its recent highly anticipated token launch.
 
-### 3. Pearl (PEARL)
-- **Price:** $1.95
-- **Change:** +5.31%
-- **Analysis:** Absent specific news for Pearl, its 5.31% increase most likely reflects general market volatility and positive trends within the broader cryptocurrency market.
+### 3. Zcash (ZEC)
+- **Price:** $1320.97
+- **Change:** +15.18%
+- **Analysis:** Without specific Zcash-related news, its price surge is most likely a result of general cryptocurrency market volatility and broader positive trends influencing altcoins.
 
 ## Top 3 Losers (24h)
-### 1. NEAR Protocol (NEAR)
-- **Price:** $4.67
-- **Change:** -6.73%
-- **Analysis:** The NEAR Protocol's price decline is most likely due to general cryptocurrency market volatility, absent specific negative news for the project.
+### 1. Monero (XMR)
+- **Price:** $597.57
+- **Change:** -1.69%
+- **Analysis:** Monero's 1.69% price drop likely reflects general cryptocurrency market volatility, rather than any specific recent news directly impacting XMR.
 
-### 2. Stacks (STX)
-- **Price:** $0.34
-- **Change:** -9.69%
-- **Analysis:** The decline in Stacks' price is most likely due to a broader cryptocurrency market downturn and altcoin profit-taking, following Bitcoin's recent consolidation.
+### 2. MemeCore (M)
+- **Price:** $0.76
+- **Change:** -7.37%
+- **Analysis:** MemeCore's 7.37% decline likely reflects general cryptocurrency market volatility and profit-taking, without specific news driving the movement.
 
 ### 3. Bitway (BTW)
-- **Price:** $1.72
-- **Change:** -13.96%
-- **Analysis:** Analysis unavailable due to error.
+- **Price:** $1.55
+- **Change:** -9.08%
+- **Analysis:** Bitway's 9.08% decline most likely reflects broader cryptocurrency market volatility, in the absence of specific news directly impacting BTW.
 
