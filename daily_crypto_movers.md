@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-10-21
+# Daily Crypto Movers - 2026-10-22
 
 ## Top 3 Gainers (24h)
-### 1. Pearl (PEARL)
-- **Price:** $2.44
-- **Change:** +24.31%
-- **Analysis:** The 24.31% increase in Pearl (pearl) most likely reflects broader positive cryptocurrency market trends and speculative interest, as no specific news for the project has been widely reported.
+### 1. MemeCore (M)
+- **Price:** $0.91
+- **Change:** +19.93%
+- **Analysis:** The 19.93% surge in MemeCore is most likely due to general cryptocurrency market volatility and speculative interest, common for meme coins, rather than specific news.
 
-### 2. LayerZero (ZRO)
-- **Price:** $2.06
-- **Change:** +15.54%
-- **Analysis:** The increase in LayerZero (ZRO) price is most likely due to ongoing post-airdrop price discovery and market rebalancing after its recent highly anticipated token launch.
+### 2. Bitway (BTW)
+- **Price:** $1.69
+- **Change:** +8.31%
+- **Analysis:** Given no specific news specific to Bitway, its 8.31% price increase most likely reflects general cryptocurrency market volatility.
 
-### 3. Zcash (ZEC)
-- **Price:** $1320.97
-- **Change:** +15.18%
-- **Analysis:** Without specific Zcash-related news, its price surge is most likely a result of general cryptocurrency market volatility and broader positive trends influencing altcoins.
+### 3. Lighter (LIT)
+- **Price:** $3.69
+- **Change:** +8.10%
+- **Analysis:** Lighter's 8.10% price increase most likely reflects general cryptocurrency market trends and volatility, as no specific project news has been identified.
 
 ## Top 3 Losers (24h)
-### 1. Monero (XMR)
-- **Price:** $597.57
-- **Change:** -1.69%
-- **Analysis:** Monero's 1.69% price drop likely reflects general cryptocurrency market volatility, rather than any specific recent news directly impacting XMR.
+### 1. Injective (INJ)
+- **Price:** $8.03
+- **Change:** -8.16%
+- **Analysis:** Injective's price decline most likely reflects broader cryptocurrency market volatility and general profit-taking after recent gains, rather than specific negative news directly impacting INJ.
 
-### 2. MemeCore (M)
-- **Price:** $0.76
-- **Change:** -7.37%
-- **Analysis:** MemeCore's 7.37% decline likely reflects general cryptocurrency market volatility and profit-taking, without specific news driving the movement.
+### 2. Stacks (STX)
+- **Price:** $0.34
+- **Change:** -9.27%
+- **Analysis:** The decline in Stacks (STX) most likely reflects broader cryptocurrency market consolidation and a slight downward trend in Bitcoin, as there's no specific negative STX-related news.
 
-### 3. Bitway (BTW)
-- **Price:** $1.55
-- **Change:** -9.08%
-- **Analysis:** Bitway's 9.08% decline most likely reflects broader cryptocurrency market volatility, in the absence of specific news directly impacting BTW.
+### 3. LayerZero (ZRO)
+- **Price:** $1.84
+- **Change:** -10.66%
+- **Analysis:** Analysis unavailable due to error.
 
