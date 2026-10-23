@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-10-22
+# Daily Crypto Movers - 2026-10-23
 
 ## Top 3 Gainers (24h)
-### 1. MemeCore (M)
-- **Price:** $0.91
-- **Change:** +19.93%
-- **Analysis:** The 19.93% surge in MemeCore is most likely due to general cryptocurrency market volatility and speculative interest, common for meme coins, rather than specific news.
+### 1. Akedo (AKE)
+- **Price:** $0.03
+- **Change:** +19.25%
+- **Analysis:** Analysis unavailable due to error.
 
-### 2. Bitway (BTW)
-- **Price:** $1.69
-- **Change:** +8.31%
-- **Analysis:** Given no specific news specific to Bitway, its 8.31% price increase most likely reflects general cryptocurrency market volatility.
+### 2. Pepe (PEPE)
+- **Price:** $0.00
+- **Change:** +12.81%
+- **Analysis:** Analysis unavailable due to error.
 
-### 3. Lighter (LIT)
-- **Price:** $3.69
-- **Change:** +8.10%
-- **Analysis:** Lighter's 8.10% price increase most likely reflects general cryptocurrency market trends and volatility, as no specific project news has been identified.
+### 3. Dash (DASH)
+- **Price:** $52.98
+- **Change:** +6.88%
+- **Analysis:** Analysis unavailable due to error.
 
 ## Top 3 Losers (24h)
-### 1. Injective (INJ)
-- **Price:** $8.03
-- **Change:** -8.16%
-- **Analysis:** Injective's price decline most likely reflects broader cryptocurrency market volatility and general profit-taking after recent gains, rather than specific negative news directly impacting INJ.
+### 1. Stacks (STX)
+- **Price:** $0.32
+- **Change:** -6.54%
+- **Analysis:** Analysis unavailable due to error.
 
-### 2. Stacks (STX)
-- **Price:** $0.34
-- **Change:** -9.27%
-- **Analysis:** The decline in Stacks (STX) most likely reflects broader cryptocurrency market consolidation and a slight downward trend in Bitcoin, as there's no specific negative STX-related news.
+### 2. Lighter (LIT)
+- **Price:** $3.38
+- **Change:** -8.60%
+- **Analysis:** Analysis unavailable due to error.
 
-### 3. LayerZero (ZRO)
-- **Price:** $1.84
-- **Change:** -10.66%
+### 3. Pearl (PEARL)
+- **Price:** $2.09
+- **Change:** -9.01%
 - **Analysis:** Analysis unavailable due to error.
 
