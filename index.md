@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-10-27
+# Daily Crypto Movers - 2026-10-28
 
 ## Top 3 Gainers (24h)
-### 1. Morpho (MORPHO)
-- **Price:** $2.17
-- **Change:** +7.68%
-- **Analysis:** The Morpho price surge is most likely driven by the continued growth and increasing Total Value Locked (TVL) within its Morpho Blue lending protocol.
+### 1. Bitway (BTW)
+- **Price:** $1.72
+- **Change:** +16.37%
+- **Analysis:** Absent specific news for Bitway (btw), its 16.37% price increase most likely reflects general cryptocurrency market volatility.
 
-### 2. MemeCore (M)
-- **Price:** $1.03
-- **Change:** +6.32%
-- **Analysis:** Absent specific news, MemeCore's 6.32% price increase most likely reflects general market volatility and the speculative trading common to meme cryptocurrencies.
+### 2. Pepe (PEPE)
+- **Price:** $0.00
+- **Change:** +9.60%
+- **Analysis:** Pepe's price increase most likely reflects a general positive sentiment in the broader cryptocurrency market, particularly favoring speculative memecoins.
 
-### 3. XDC Network (XDC)
-- **Price:** $0.04
-- **Change:** +5.90%
-- **Analysis:** The price increase for XDC Network (xdc) most likely reflects broader positive sentiment and trends across the cryptocurrency market.
+### 3. MemeCore (M)
+- **Price:** $1.11
+- **Change:** +5.16%
+- **Analysis:** Absent specific news, MemeCore's 5.16% increase most likely reflects general market volatility or positive sentiment within the broader cryptocurrency market.
 
 ## Top 3 Losers (24h)
-### 1. Akedo (AKE)
+### 1. XDC Network (XDC)
 - **Price:** $0.03
-- **Change:** -6.68%
-- **Analysis:** Akedo's 6.68% price drop most likely reflects general cryptocurrency market volatility rather than specific news about the project.
+- **Change:** -3.99%
+- **Analysis:** The XDC Network's price decline most likely reflects general cryptocurrency market volatility, as no specific major news regarding the project has been reported.
 
-### 2. Quant (QNT)
-- **Price:** $198.02
-- **Change:** -6.98%
-- **Analysis:** The price movement most likely reflects general market volatility and broader cryptocurrency trends, rather than specific Quant-related news.
+### 2. Venice Token (VVV)
+- **Price:** $24.00
+- **Change:** -5.09%
+- **Analysis:** The decline most likely reflects general cryptocurrency market volatility and broader market trends, as there is no specific news impacting Venice Token (vvv) itself.
 
-### 3. Rain (RAIN)
-- **Price:** $0.01
-- **Change:** -10.68%
-- **Analysis:** The drop in Rain's price most likely reflects general market volatility across the cryptocurrency sector, as no specific negative news for the token has been widely reported.
+### 3. Ethena (ENA)
+- **Price:** $0.19
+- **Change:** -6.55%
+- **Analysis:** Ethena's price decline most likely reflects general market volatility and the broader consolidation trend seen across the cryptocurrency sector.
 
