@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-10-28
+# Daily Crypto Movers - 2026-10-29
 
 ## Top 3 Gainers (24h)
-### 1. Bitway (BTW)
-- **Price:** $1.72
-- **Change:** +16.37%
-- **Analysis:** Absent specific news for Bitway (btw), its 16.37% price increase most likely reflects general cryptocurrency market volatility.
+### 1. Hyperliquid (HYPE)
+- **Price:** $90.69
+- **Change:** +13.61%
+- **Analysis:** The most likely reason for Hyperliquid's price movement is the recent launch of its Hyperlock liquid staking product, enhancing platform utility and attracting new liquidity.
 
-### 2. Pepe (PEPE)
-- **Price:** $0.00
-- **Change:** +9.60%
-- **Analysis:** Pepe's price increase most likely reflects a general positive sentiment in the broader cryptocurrency market, particularly favoring speculative memecoins.
+### 2. Ethena (ENA)
+- **Price:** $0.21
+- **Change:** +6.91%
+- **Analysis:** Ethena's (ENA) price increase is most likely driven by continued investor demand for its high-yielding USDe stablecoin and overall positive sentiment in the decentralized finance (DeFi) market.
 
-### 3. MemeCore (M)
-- **Price:** $1.11
-- **Change:** +5.16%
-- **Analysis:** Absent specific news, MemeCore's 5.16% increase most likely reflects general market volatility or positive sentiment within the broader cryptocurrency market.
+### 3. Pi Network (PI)
+- **Price:** $0.08
+- **Change:** +5.68%
+- **Analysis:** Lacking specific news, Pi Network's 5.68% increase likely reflects general cryptocurrency market volatility, as its mainnet is not yet fully open.
 
 ## Top 3 Losers (24h)
-### 1. XDC Network (XDC)
-- **Price:** $0.03
-- **Change:** -3.99%
-- **Analysis:** The XDC Network's price decline most likely reflects general cryptocurrency market volatility, as no specific major news regarding the project has been reported.
+### 1. Bitcoin Cash (BCH)
+- **Price:** $281.69
+- **Change:** -4.15%
+- **Analysis:** The decline in Bitcoin Cash (BCH) most likely reflects broader cryptocurrency market volatility and its correlation with the general trend of Bitcoin.
 
-### 2. Venice Token (VVV)
-- **Price:** $24.00
-- **Change:** -5.09%
-- **Analysis:** The decline most likely reflects general cryptocurrency market volatility and broader market trends, as there is no specific news impacting Venice Token (vvv) itself.
+### 2. Dash (DASH)
+- **Price:** $50.63
+- **Change:** -4.56%
+- **Analysis:** Dash's price decline most likely reflects general cryptocurrency market volatility, as there is no specific recent news directly impacting the asset.
 
-### 3. Ethena (ENA)
-- **Price:** $0.19
-- **Change:** -6.55%
-- **Analysis:** Ethena's price decline most likely reflects general market volatility and the broader consolidation trend seen across the cryptocurrency sector.
+### 3. Rain (RAIN)
+- **Price:** $0.01
+- **Change:** -7.75%
+- **Analysis:** Analysis unavailable due to error.
 
