@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-04
+# Daily Crypto Movers - 2026-11-05
 
 ## Top 3 Gainers (24h)
-### 1. Ethena (ENA)
-- **Price:** $0.19
-- **Change:** +8.66%
-- **Analysis:** Ethena's recent integration of Bitcoin as a collateral asset for its USDe stablecoin has likely boosted investor confidence and demand for ENA.
+### 1. Pearl (PEARL)
+- **Price:** $1.54
+- **Change:** +3.06%
+- **Analysis:** The 3.06% rise in Pearl's price most likely reflects general cryptocurrency market volatility, as no significant project-specific news has emerged to explain the movement.
 
-### 2. Zcash (ZEC)
-- **Price:** $1305.65
-- **Change:** +8.33%
-- **Analysis:** Zcash's 8.33% price increase most likely reflects general positive sentiment and broader market trends within the cryptocurrency space, as there is no specific major ZEC-related news driving this surge.
+### 2. Injective (INJ)
+- **Price:** $7.92
+- **Change:** +2.08%
+- **Analysis:** The increase in Injective's price likely reflects general positive market sentiment and sustained interest in its active DeFi ecosystem.
 
-### 3. NEAR Protocol (NEAR)
-- **Price:** $4.15
-- **Change:** +7.89%
-- **Analysis:** The price increase for NEAR Protocol is most likely driven by continued positive sentiment surrounding its strong positioning and recent developments in the decentralized AI sector.
+### 3. Figure Heloc (FIGR_HELOC)
+- **Price:** $1.04
+- **Change:** +1.39%
+- **Analysis:** Figure Heloc's 1.39% increase is most likely due to general cryptocurrency market volatility, with no specific news reported for the asset.
 
 ## Top 3 Losers (24h)
-### 1. Hyperliquid (HYPE)
-- **Price:** $85.42
-- **Change:** -1.74%
-- **Analysis:** Hyperliquid's 1.74% decline most likely reflects general cryptocurrency market volatility.
+### 1. Worldcoin (WLD)
+- **Price:** $0.34
+- **Change:** -12.81%
+- **Analysis:** The price decline is most likely driven by ongoing regulatory scrutiny and operational bans Worldcoin faces in several countries.
 
-### 2. World Liberty Financial (WLFI)
-- **Price:** $0.05
-- **Change:** -3.26%
-- **Analysis:** The price movement most likely reflects general cryptocurrency market volatility, as no specific news regarding World Liberty Financial (wlfi) has been reported.
+### 2. Ether.fi (ETHFI)
+- **Price:** $0.53
+- **Change:** -13.03%
+- **Analysis:** The decline in ETHFI's price primarily reflects the broader cryptocurrency market's current volatility and downward trend.
 
-### 3. Rain (RAIN)
-- **Price:** $0.01
-- **Change:** -7.66%
-- **Analysis:** The decline in Rain's price most likely reflects general cryptocurrency market volatility, mirroring trends seen across the broader market.
+### 3. LayerZero (ZRO)
+- **Price:** $1.62
+- **Change:** -13.27%
+- **Analysis:** The decline is most likely due to immediate selling pressure from recipients claiming their newly distributed ZRO tokens following its recent highly anticipated airdrop.
 
