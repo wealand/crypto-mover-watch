@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-06
+# Daily Crypto Movers - 2026-11-07
 
 ## Top 3 Gainers (24h)
-### 1. Bitway (BTW)
-- **Price:** $1.17
-- **Change:** +15.69%
-- **Analysis:** Absent any specific news or project developments for Bitway, its 15.69% price surge likely reflects the broader volatility inherent in the cryptocurrency market.
+### 1. Quant (QNT)
+- **Price:** $200.85
+- **Change:** +6.67%
+- **Analysis:** Quant's price movement most likely reflects a general positive trend in the broader cryptocurrency market rather than specific recent project news.
 
 ### 2. Pearl (PEARL)
-- **Price:** $1.65
-- **Change:** +9.04%
-- **Analysis:** Without specific news driving the movement, the 9.04% increase in Pearl (pearl) most likely reflects general cryptocurrency market volatility.
+- **Price:** $1.74
+- **Change:** +4.77%
+- **Analysis:** The 4.77% price increase for Pearl (pearl) is most likely due to general market volatility, as there is no specific recent news driving this particular movement.
 
-### 3. Arbitrum (ARB)
-- **Price:** $0.17
-- **Change:** +8.83%
-- **Analysis:** Arbitrum's price increase is most likely driven by broader cryptocurrency market strength and ongoing positive sentiment for Ethereum Layer 2 solutions.
+### 3. Mantle (MNT)
+- **Price:** $0.46
+- **Change:** +3.16%
+- **Analysis:** Mantle's 3.16% price increase most likely reflects general market volatility and positive sentiment across the broader cryptocurrency space, with no specific news event identified.
 
 ## Top 3 Losers (24h)
-### 1. NEXO (NEXO)
-- **Price:** $0.73
-- **Change:** -3.01%
-- **Analysis:** Without specific recent news, NEXO's 3.01% decline most likely reflects general cryptocurrency market volatility.
+### 1. Lighter (LIT)
+- **Price:** $3.25
+- **Change:** -4.59%
+- **Analysis:** The decline in Lighter (lit) is most likely attributable to general cryptocurrency market volatility rather than specific project news.
 
-### 2. Bitcoin Cash (BCH)
-- **Price:** $267.70
-- **Change:** -4.56%
-- **Analysis:** The decline in Bitcoin Cash most likely reflects a broader downturn across the cryptocurrency market, consistent with general market volatility rather than specific BCH news.
+### 2. Pump.fun (PUMP)
+- **Price:** $0.00
+- **Change:** -5.80%
+- **Analysis:** Pump.fun's price decline likely stems from lingering investor concerns following the recent exploit involving a former employee.
 
-### 3. XRP (XRP)
-- **Price:** $1.18
-- **Change:** -6.13%
-- **Analysis:** The decline in XRP primarily reflects broader cryptocurrency market volatility and a general downward trend, rather than specific XRP-related news.
+### 3. Bitway (BTW)
+- **Price:** $1.12
+- **Change:** -9.00%
+- **Analysis:** The decline is most likely due to general market volatility, often amplified in altcoins during broader market pullbacks.
 
