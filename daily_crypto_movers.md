@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-10
+# Daily Crypto Movers - 2026-11-11
 
 ## Top 3 Gainers (24h)
-### 1. Bitway (BTW)
+### 1. Midnight (NIGHT)
+- **Price:** $0.05
+- **Change:** +12.33%
+- **Analysis:** Midnight's 12.33% increase most likely reflects general market volatility, as no specific recent news directly explains the movement.
+
+### 2. Gram (prev. Toncoin) (GRAM)
 - **Price:** $1.20
-- **Change:** +10.48%
-- **Analysis:** The Bitway price increase is most likely driven by general market volatility and speculative trading, as no specific significant news has been reported.
+- **Change:** +10.56%
+- **Analysis:** The Gram (Toncoin) price surge is primarily fueled by the continued expansion of its Telegram-integrated ecosystem and growing anticipation for new features like the upcoming ad revenue share program.
 
-### 2. Pi Network (PI)
-- **Price:** $0.07
-- **Change:** +6.46%
-- **Analysis:** The price movement for Pi Network's speculative IOU tokens is most likely due to general market volatility and ongoing anticipation for its eventual open mainnet, rather than specific recent news.
-
-### 3. Gram (prev. Toncoin) (GRAM)
-- **Price:** $1.09
-- **Change:** +4.58%
-- **Analysis:** The price increase for Gram is most likely driven by renewed market enthusiasm following recent bullish endorsements from Telegram founder Pavel Durov about the network's growth and deep integration with the messaging app.
+### 3. Internet Computer (ICP)
+- **Price:** $2.56
+- **Change:** +8.66%
+- **Analysis:** The price movement most likely reflects a broader positive trend and increased sentiment across the cryptocurrency market.
 
 ## Top 3 Losers (24h)
-### 1. Zcash (ZEC)
-- **Price:** $1094.11
-- **Change:** -10.57%
-- **Analysis:** The decline in Zcash's price most likely reflects a broader downturn across the cryptocurrency market.
-
-### 2. Arbitrum (ARB)
-- **Price:** $0.16
-- **Change:** -12.30%
-- **Analysis:** The price movement most likely reflects a broader downturn across the cryptocurrency market, with altcoins often experiencing amplified drops.
-
-### 3. Rain (RAIN)
+### 1. Pepe (PEPE)
 - **Price:** $0.00
-- **Change:** -18.73%
-- **Analysis:** Analysis unavailable due to error.
+- **Change:** -5.12%
+- **Analysis:** The 5.12% drop in Pepe's price is most likely due to general market volatility, typical for highly speculative meme coins.
+
+### 2. Zcash (ZEC)
+- **Price:** $987.77
+- **Change:** -9.25%
+- **Analysis:** The decline in Zcash's price most likely reflects general market volatility and a broader downturn across the cryptocurrency market, rather than specific ZEC-related news.
+
+### 3. Bitway (BTW)
+- **Price:** $1.03
+- **Change:** -13.36%
+- **Analysis:** The 13.36% decline in Bitway (btw) most likely reflects general cryptocurrency market volatility, as no specific news directly impacting BTW has been reported.
 
