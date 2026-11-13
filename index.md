@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-12
+# Daily Crypto Movers - 2026-11-13
 
 ## Top 3 Gainers (24h)
-### 1. Gram (prev. Toncoin) (GRAM)
-- **Price:** $1.26
-- **Change:** +4.22%
-- **Analysis:** The price increase is likely driven by robust ecosystem growth, spurred by the recent Notcoin launch and increasing integration within Telegram's platform.
+### 1. Pearl (PEARL)
+- **Price:** $1.43
+- **Change:** +10.56%
+- **Analysis:** The 10.56% increase in Pearl's price is most likely due to general market volatility and speculative trading, given the absence of specific recent news or major developments.
 
-### 2. Figure Heloc (FIGR_HELOC)
-- **Price:** $1.06
-- **Change:** +2.54%
-- **Analysis:** Without specific news, Figure Heloc's 2.54% increase likely reflects general cryptocurrency market volatility.
+### 2. Injective (INJ)
+- **Price:** $8.04
+- **Change:** +9.38%
+- **Analysis:** The most likely reason for Injective's price increase is a general upturn in the broader cryptocurrency market, rather than a specific project-related news event.
 
-### 3. MemeCore (M)
-- **Price:** $0.81
-- **Change:** +1.18%
-- **Analysis:** The 1.18% price increase for MemeCore (m) most likely reflects general cryptocurrency market volatility or minor positive sentiment, as no significant specific news appears to be driving the movement.
+### 3. LayerZero (ZRO)
+- **Price:** $1.57
+- **Change:** +4.12%
+- **Analysis:** LayerZero's (ZRO) 4.12% increase is most likely due to general cryptocurrency market volatility and ongoing price discovery following its recent token launch, rather than specific recent news.
 
 ## Top 3 Losers (24h)
-### 1. Quant (QNT)
-- **Price:** $163.46
-- **Change:** -9.70%
-- **Analysis:** The decline most likely reflects general cryptocurrency market volatility, as no specific news unique to Quant has emerged.
+### 1. Ether.fi (ETHFI)
+- **Price:** $0.57
+- **Change:** -7.87%
+- **Analysis:** Ether.fi's price movement likely reflects the broader cryptocurrency market's general volatility and recent weakness, rather than specific project-related news.
 
-### 2. Arbitrum (ARB)
-- **Price:** $0.15
-- **Change:** -9.76%
-- **Analysis:** Arbitrum's price decline most likely reflects a general downturn across the broader cryptocurrency market, rather than specific negative news related to the project itself.
+### 2. Gram (prev. Toncoin) (GRAM)
+- **Price:** $1.12
+- **Change:** -11.08%
+- **Analysis:** The decline in Gram's price most likely reflects general cryptocurrency market volatility, as no specific project news has been widely reported for the movement.
 
-### 3. Pepe (PEPE)
-- **Price:** $0.00
-- **Change:** -12.56%
-- **Analysis:** The decline in Pepe's price most likely reflects broader cryptocurrency market volatility and general profit-taking, common for highly speculative meme coins.
+### 3. Bitway (BTW)
+- **Price:** $0.88
+- **Change:** -13.44%
+- **Analysis:** Absent specific news for Bitway, its 13.44% decline most likely reflects general cryptocurrency market volatility or a broader market correction.
 
