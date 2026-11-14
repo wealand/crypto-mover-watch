@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-13
+# Daily Crypto Movers - 2026-11-14
 
 ## Top 3 Gainers (24h)
-### 1. Pearl (PEARL)
-- **Price:** $1.43
-- **Change:** +10.56%
-- **Analysis:** The 10.56% increase in Pearl's price is most likely due to general market volatility and speculative trading, given the absence of specific recent news or major developments.
+### 1. Midnight (NIGHT)
+- **Price:** $0.05
+- **Change:** +8.29%
+- **Analysis:** Lacking specific news, Midnight's 8.29% price increase most likely reflects general cryptocurrency market volatility and speculative trading.
 
-### 2. Injective (INJ)
-- **Price:** $8.04
-- **Change:** +9.38%
-- **Analysis:** The most likely reason for Injective's price increase is a general upturn in the broader cryptocurrency market, rather than a specific project-related news event.
+### 2. Pearl (PEARL)
+- **Price:** $1.52
+- **Change:** +4.96%
+- **Analysis:** Pearl's price increase most likely reflects general cryptocurrency market volatility or a broader positive market trend, as no specific news regarding the project has been widely reported.
 
-### 3. LayerZero (ZRO)
-- **Price:** $1.57
-- **Change:** +4.12%
-- **Analysis:** LayerZero's (ZRO) 4.12% increase is most likely due to general cryptocurrency market volatility and ongoing price discovery following its recent token launch, rather than specific recent news.
+### 3. Figure Heloc (FIGR_HELOC)
+- **Price:** $1.05
+- **Change:** +4.43%
+- **Analysis:** The price increase for Figure Heloc most likely reflects positive momentum in the broader cryptocurrency market rather than specific project news.
 
 ## Top 3 Losers (24h)
-### 1. Ether.fi (ETHFI)
-- **Price:** $0.57
-- **Change:** -7.87%
-- **Analysis:** Ether.fi's price movement likely reflects the broader cryptocurrency market's general volatility and recent weakness, rather than specific project-related news.
+### 1. Lighter (LIT)
+- **Price:** $2.96
+- **Change:** -12.08%
+- **Analysis:** The 12.08% drop in Lighter (lit) most likely reflects general market volatility, as there is no specific news driving its price movement.
 
-### 2. Gram (prev. Toncoin) (GRAM)
-- **Price:** $1.12
-- **Change:** -11.08%
-- **Analysis:** The decline in Gram's price most likely reflects general cryptocurrency market volatility, as no specific project news has been widely reported for the movement.
+### 2. Uniswap (UNI)
+- **Price:** $5.17
+- **Change:** -12.78%
+- **Analysis:** Uniswap's price movement is most likely due to general cryptocurrency market volatility, aligning with broader market trends rather than specific protocol news.
 
 ### 3. Bitway (BTW)
-- **Price:** $0.88
-- **Change:** -13.44%
-- **Analysis:** Absent specific news for Bitway, its 13.44% decline most likely reflects general cryptocurrency market volatility or a broader market correction.
+- **Price:** $0.70
+- **Change:** -23.29%
+- **Analysis:** As there's no specific news regarding Bitway, its substantial drop most likely stems from general cryptocurrency market volatility, which often exaggerates price movements in altcoins.
 
