@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-14
+# Daily Crypto Movers - 2026-11-15
 
 ## Top 3 Gainers (24h)
-### 1. Midnight (NIGHT)
-- **Price:** $0.05
-- **Change:** +8.29%
-- **Analysis:** Lacking specific news, Midnight's 8.29% price increase most likely reflects general cryptocurrency market volatility and speculative trading.
+### 1. Venice Token (VVV)
+- **Price:** $19.38
+- **Change:** +8.50%
+- **Analysis:** The 8.50% rise in Venice Token (vvv) most likely stems from general cryptocurrency market volatility rather than specific recent news.
 
-### 2. Pearl (PEARL)
-- **Price:** $1.52
-- **Change:** +4.96%
-- **Analysis:** Pearl's price increase most likely reflects general cryptocurrency market volatility or a broader positive market trend, as no specific news regarding the project has been widely reported.
+### 2. Jupiter (JUP)
+- **Price:** $0.26
+- **Change:** +2.32%
+- **Analysis:** The 2.32% increase in Jupiter (JUP) most likely reflects positive sentiment across the broader cryptocurrency market, reinforced by the continued strength of the Solana ecosystem where it is a key decentralized exchange aggregator.
 
-### 3. Figure Heloc (FIGR_HELOC)
-- **Price:** $1.05
-- **Change:** +4.43%
-- **Analysis:** The price increase for Figure Heloc most likely reflects positive momentum in the broader cryptocurrency market rather than specific project news.
+### 3. Aave (AAVE)
+- **Price:** $106.37
+- **Change:** +2.30%
+- **Analysis:** Aave's 2.30% price increase is most likely due to general positive sentiment across the broader cryptocurrency and DeFi markets, rather than specific project news.
 
 ## Top 3 Losers (24h)
-### 1. Lighter (LIT)
-- **Price:** $2.96
-- **Change:** -12.08%
-- **Analysis:** The 12.08% drop in Lighter (lit) most likely reflects general market volatility, as there is no specific news driving its price movement.
+### 1. LayerZero (ZRO)
+- **Price:** $1.38
+- **Change:** -11.16%
+- **Analysis:** The decline is most likely due to "sell-the-news" behavior and profit-taking following its highly anticipated token launch and airdrop.
 
-### 2. Uniswap (UNI)
-- **Price:** $5.17
-- **Change:** -12.78%
-- **Analysis:** Uniswap's price movement is most likely due to general cryptocurrency market volatility, aligning with broader market trends rather than specific protocol news.
+### 2. Aster (ASTER)
+- **Price:** $0.53
+- **Change:** -15.53%
+- **Analysis:** Without specific project news for Aster, its 15.53% price decline likely reflects general cryptocurrency market volatility and broader market trends.
 
 ### 3. Bitway (BTW)
-- **Price:** $0.70
-- **Change:** -23.29%
-- **Analysis:** As there's no specific news regarding Bitway, its substantial drop most likely stems from general cryptocurrency market volatility, which often exaggerates price movements in altcoins.
+- **Price:** $0.57
+- **Change:** -18.78%
+- **Analysis:** Absent specific news, Bitway's 18.78% decline most likely reflects general cryptocurrency market volatility.
 
