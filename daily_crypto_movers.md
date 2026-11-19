@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-18
+# Daily Crypto Movers - 2026-11-19
 
 ## Top 3 Gainers (24h)
-### 1. Pieverse (PIEVERSE)
-- **Price:** $3.27
-- **Change:** +63.33%
-- **Analysis:** The 63.33% increase in Pieverse, a largely defunct project with extremely low trading liquidity, is most likely due to a statistical anomaly or minimal trading volume rather than new developments.
+### 1. Bitway (BTW)
+- **Price:** $0.57
+- **Change:** +21.09%
+- **Analysis:** Without specific news, Bitway's price movement most likely reflects general market volatility and broader sentiment within the cryptocurrency market, typical for smaller altcoins.
 
-### 2. Pearl (PEARL)
-- **Price:** $2.15
-- **Change:** +23.34%
-- **Analysis:** The 23.34% price increase for Pearl (pearl) is most likely due to general market volatility common to smaller altcoins, as no specific news has been widely reported to drive such a significant surge.
+### 2. Venice Token (VVV)
+- **Price:** $22.48
+- **Change:** +9.77%
+- **Analysis:** Absent specific news, Venice Token's 9.77% surge likely reflects general cryptocurrency market volatility.
 
-### 3. Bitway (BTW)
-- **Price:** $0.47
-- **Change:** +4.55%
-- **Analysis:** Bitway's 4.55% price increase most likely reflects general cryptocurrency market volatility, as there is no specific news or major trend identified for this particular coin.
+### 3. Ether.fi (ETHFI)
+- **Price:** $0.50
+- **Change:** +8.41%
+- **Analysis:** The price surge for Ether.fi is primarily driven by the strong demand within the liquid restaking sector and ongoing anticipation for developments within the EigenLayer ecosystem.
 
 ## Top 3 Losers (24h)
-### 1. Rain (RAIN)
-- **Price:** $0.00
-- **Change:** -6.48%
-- **Analysis:** The price movement for Rain (RAIN) most likely reflects broader cryptocurrency market volatility, rather than specific news about the project itself.
+### 1. Aster (ASTER)
+- **Price:** $0.51
+- **Change:** -6.26%
+- **Analysis:** Lacking specific negative news for Aster, its 6.26% decline most likely reflects general cryptocurrency market volatility and typical altcoin price fluctuations.
 
-### 2. Pi Network (PI)
-- **Price:** $0.06
-- **Change:** -7.15%
-- **Analysis:** The decline likely reflects general market volatility combined with the speculative and low-liquidity trading of its unofficial IOU tokens, rather than specific direct news.
+### 2. Pieverse (PIEVERSE)
+- **Price:** $2.95
+- **Change:** -8.41%
+- **Analysis:** The decline in Pieverse (pieverse) most likely reflects general cryptocurrency market volatility and broader altcoin trends, as no specific news directly impacting the project has been reported.
 
-### 3. LayerZero (ZRO)
-- **Price:** $1.29
-- **Change:** -8.86%
-- **Analysis:** LayerZero's price decline is primarily due to post-airdrop profit-taking by initial recipients of the recently launched ZRO token.
+### 3. Sky (SKY)
+- **Price:** $0.04
+- **Change:** -25.04%
+- **Analysis:** Sky (SKY)'s 25.04% drop over 24 hours most likely stems from general cryptocurrency market volatility, given the absence of specific negative news regarding the project itself.
 
