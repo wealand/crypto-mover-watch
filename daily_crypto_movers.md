@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-19
+# Daily Crypto Movers - 2026-11-20
 
 ## Top 3 Gainers (24h)
-### 1. Bitway (BTW)
-- **Price:** $0.57
-- **Change:** +21.09%
-- **Analysis:** Without specific news, Bitway's price movement most likely reflects general market volatility and broader sentiment within the cryptocurrency market, typical for smaller altcoins.
+### 1. Sky (SKY)
+- **Price:** $0.04
+- **Change:** +14.92%
+- **Analysis:** Sky's 14.92% price increase most likely reflects general cryptocurrency market volatility, as no significant project-specific news has been widely reported.
 
-### 2. Venice Token (VVV)
-- **Price:** $22.48
-- **Change:** +9.77%
-- **Analysis:** Absent specific news, Venice Token's 9.77% surge likely reflects general cryptocurrency market volatility.
+### 2. Bitway (BTW)
+- **Price:** $0.63
+- **Change:** +11.67%
+- **Analysis:** Analysis unavailable due to error.
 
-### 3. Ether.fi (ETHFI)
-- **Price:** $0.50
-- **Change:** +8.41%
-- **Analysis:** The price surge for Ether.fi is primarily driven by the strong demand within the liquid restaking sector and ongoing anticipation for developments within the EigenLayer ecosystem.
+### 3. Beldex (BDX)
+- **Price:** $0.07
+- **Change:** +1.47%
+- **Analysis:** Analysis unavailable due to error.
 
 ## Top 3 Losers (24h)
-### 1. Aster (ASTER)
-- **Price:** $0.51
-- **Change:** -6.26%
-- **Analysis:** Lacking specific negative news for Aster, its 6.26% decline most likely reflects general cryptocurrency market volatility and typical altcoin price fluctuations.
+### 1. Rain (RAIN)
+- **Price:** $0.00
+- **Change:** -15.50%
+- **Analysis:** Analysis unavailable due to error.
 
-### 2. Pieverse (PIEVERSE)
-- **Price:** $2.95
-- **Change:** -8.41%
-- **Analysis:** The decline in Pieverse (pieverse) most likely reflects general cryptocurrency market volatility and broader altcoin trends, as no specific news directly impacting the project has been reported.
+### 2. Zcash (ZEC)
+- **Price:** $776.52
+- **Change:** -15.67%
+- **Analysis:** Analysis unavailable due to error.
 
-### 3. Sky (SKY)
-- **Price:** $0.04
-- **Change:** -25.04%
-- **Analysis:** Sky (SKY)'s 25.04% drop over 24 hours most likely stems from general cryptocurrency market volatility, given the absence of specific negative news regarding the project itself.
+### 3. Lighter (LIT)
+- **Price:** $2.40
+- **Change:** -16.33%
+- **Analysis:** Analysis unavailable due to error.
 
