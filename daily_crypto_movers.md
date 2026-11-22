@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-21
+# Daily Crypto Movers - 2026-11-22
 
 ## Top 3 Gainers (24h)
-### 1. Venice Token (VVV)
-- **Price:** $23.25
-- **Change:** +17.96%
-- **Analysis:** The 17.96% increase in Venice Token (vvv) most likely reflects general cryptocurrency market volatility, as no specific project-related news or major developments have been announced.
+### 1. Pieverse (PIEVERSE)
+- **Price:** $3.66
+- **Change:** +24.60%
+- **Analysis:** As there is no widely reported specific news for Pieverse, its 24.60% increase is most likely due to speculative trading and general market volatility common for smaller, less liquid cryptocurrencies.
 
-### 2. Pieverse (PIEVERSE)
-- **Price:** $2.94
-- **Change:** +13.56%
-- **Analysis:** Pieverse's 24-hour gain most likely reflects general market volatility and positive sentiment within the broader cryptocurrency market, as no specific news for the project has been reported.
+### 2. Midnight (NIGHT)
+- **Price:** $0.05
+- **Change:** +12.64%
+- **Analysis:** Midnight's 12.64% price increase most likely reflects general market volatility, as no specific recent project news or development has been identified.
 
-### 3. Monero (XMR)
-- **Price:** $476.84
-- **Change:** +7.03%
-- **Analysis:** Monero's 7.03% increase is most likely due to general cryptocurrency market volatility and trading activity, as no specific recent news event directly drove the price movement.
+### 3. Pearl (PEARL)
+- **Price:** $1.98
+- **Change:** +10.30%
+- **Analysis:** Absent any specific news for Pearl, its 10.30% price increase most likely reflects general market volatility common to smaller cryptocurrencies.
 
 ## Top 3 Losers (24h)
-### 1. XDC Network (XDC)
-- **Price:** $0.03
-- **Change:** -3.75%
-- **Analysis:** The XDC Network's 3.75% decline most likely reflects broader cryptocurrency market volatility, as there is no specific project-related news driving the movement.
+### 1. Canton (CC)
+- **Price:** $0.07
+- **Change:** -5.33%
+- **Analysis:** The decline in Canton's price likely reflects broader cryptocurrency market volatility, as no specific news regarding the coin was reported.
 
-### 2. Pearl (PEARL)
-- **Price:** $1.80
-- **Change:** -4.30%
-- **Analysis:** The 4.30% drop in Pearl's price most likely reflects general cryptocurrency market volatility, given the absence of specific project-related news.
+### 2. Sky (SKY)
+- **Price:** $0.04
+- **Change:** -5.39%
+- **Analysis:** With no specific news reported for Sky, its price movement most likely reflects general cryptocurrency market volatility.
 
-### 3. MemeCore (M)
-- **Price:** $0.77
-- **Change:** -9.46%
-- **Analysis:** The 9.46% decline in MemeCore (m) is most likely attributable to general cryptocurrency market volatility and broader shifts in investor sentiment.
+### 3. Rain (RAIN)
+- **Price:** $0.00
+- **Change:** -9.69%
+- **Analysis:** The decline in Rain (RAIN) most likely reflects general crypto market volatility, as there is no specific news driving a unique movement for the project.
 
