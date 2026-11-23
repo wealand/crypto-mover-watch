@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-22
+# Daily Crypto Movers - 2026-11-23
 
 ## Top 3 Gainers (24h)
-### 1. Pieverse (PIEVERSE)
-- **Price:** $3.66
-- **Change:** +24.60%
-- **Analysis:** As there is no widely reported specific news for Pieverse, its 24.60% increase is most likely due to speculative trading and general market volatility common for smaller, less liquid cryptocurrencies.
+### 1. Pearl (PEARL)
+- **Price:** $2.42
+- **Change:** +22.58%
+- **Analysis:** Pearl's 22.58% price increase is most likely a result of general market volatility common to smaller cryptocurrencies, as no specific news or catalysts have been widely reported.
 
-### 2. Midnight (NIGHT)
-- **Price:** $0.05
-- **Change:** +12.64%
-- **Analysis:** Midnight's 12.64% price increase most likely reflects general market volatility, as no specific recent project news or development has been identified.
+### 2. Algorand (ALGO)
+- **Price:** $0.08
+- **Change:** +10.89%
+- **Analysis:** Algorand's price increase most likely reflects the general positive sentiment and volatility seen across the broader cryptocurrency market, rather than specific ALGO-related news.
 
-### 3. Pearl (PEARL)
-- **Price:** $1.98
-- **Change:** +10.30%
-- **Analysis:** Absent any specific news for Pearl, its 10.30% price increase most likely reflects general market volatility common to smaller cryptocurrencies.
+### 3. Quant (QNT)
+- **Price:** $158.32
+- **Change:** +10.83%
+- **Analysis:** Absent specific new developments for Quant, its 10.83% price increase most likely reflects general positive sentiment and inherent volatility within the broader cryptocurrency market.
 
 ## Top 3 Losers (24h)
-### 1. Canton (CC)
+### 1. Beldex (BDX)
 - **Price:** $0.07
-- **Change:** -5.33%
-- **Analysis:** The decline in Canton's price likely reflects broader cryptocurrency market volatility, as no specific news regarding the coin was reported.
+- **Change:** -2.97%
+- **Analysis:** The most likely reason for Beldex's price drop is general cryptocurrency market volatility, rather than specific project news.
 
-### 2. Sky (SKY)
+### 2. World Liberty Financial (WLFI)
 - **Price:** $0.04
-- **Change:** -5.39%
-- **Analysis:** With no specific news reported for Sky, its price movement most likely reflects general cryptocurrency market volatility.
+- **Change:** -3.63%
+- **Analysis:** The price drop likely reflects general cryptocurrency market volatility, as no specific news regarding WLFI has been reported.
 
-### 3. Rain (RAIN)
-- **Price:** $0.00
-- **Change:** -9.69%
-- **Analysis:** The decline in Rain (RAIN) most likely reflects general crypto market volatility, as there is no specific news driving a unique movement for the project.
+### 3. Venice Token (VVV)
+- **Price:** $24.92
+- **Change:** -4.52%
+- **Analysis:** The decline likely reflects general cryptocurrency market volatility, rather than specific news concerning Venice Token itself.
 
