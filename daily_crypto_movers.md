@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-24
+# Daily Crypto Movers - 2026-11-25
 
 ## Top 3 Gainers (24h)
 ### 1. Bitway (BTW)
-- **Price:** $0.75
-- **Change:** +3.48%
-- **Analysis:** Lacking specific news, Bitway's 3.48% increase is most likely a result of general market volatility within the cryptocurrency sector.
-
-### 2. Figure Heloc (FIGR_HELOC)
-- **Price:** $1.06
-- **Change:** +0.83%
-- **Analysis:** Figure Heloc's minor 0.83% increase most likely reflects general market volatility, as no specific news or trends directly affecting it have been reported.
-
-### 3. Beldex (BDX)
-- **Price:** $0.07
-- **Change:** +0.78%
-- **Analysis:** The 0.78% price increase for Beldex most likely reflects general market volatility rather than specific news.
-
-## Top 3 Losers (24h)
-### 1. Injective (INJ)
-- **Price:** $5.82
-- **Change:** -12.32%
-- **Analysis:** The decline in Injective's price is most likely due to general cryptocurrency market volatility, as there is no specific major news directly impacting the project in the last 24 hours.
+- **Price:** $0.90
+- **Change:** +21.65%
+- **Analysis:** Bitway's 21.65% price increase most likely reflects general market volatility and speculative trading activity, as no specific recent news or fundamental development has been widely reported for the project.
 
 ### 2. Pieverse (PIEVERSE)
-- **Price:** $2.98
-- **Change:** -16.85%
-- **Analysis:** The decline in Pieverse's price is most likely due to general cryptocurrency market volatility, which often disproportionately impacts smaller altcoins.
+- **Price:** $3.48
+- **Change:** +13.48%
+- **Analysis:** The 13.48% increase for Pieverse most likely reflects general market volatility and speculative trading, as no specific news or major development has been widely reported.
 
-### 3. Pearl (PEARL)
-- **Price:** $1.94
-- **Change:** -18.83%
-- **Analysis:** Pearl's 18.83% drop most likely reflects general market volatility, a common characteristic of smaller cryptocurrencies without specific news catalysts.
+### 3. Venice Token (VVV)
+- **Price:** $26.41
+- **Change:** +5.52%
+- **Analysis:** The 5.52% increase for Venice Token (vvv) most likely reflects general cryptocurrency market volatility, as no specific news or catalyst has been identified.
+
+## Top 3 Losers (24h)
+### 1. Algorand (ALGO)
+- **Price:** $0.08
+- **Change:** -3.26%
+- **Analysis:** Algorand's price decline most likely reflects general cryptocurrency market volatility or broader market trends, as no significant ALGO-specific news has been reported.
+
+### 2. Mantle (MNT)
+- **Price:** $0.36
+- **Change:** -4.86%
+- **Analysis:** Mantle's 4.86% decline most likely reflects general cryptocurrency market volatility and a broader downtrend seen across altcoins.
+
+### 3. Rain (RAIN)
+- **Price:** $0.00
+- **Change:** -7.29%
+- **Analysis:** With no specific news directly impacting Rain, its 7.29% decline most likely reflects general cryptocurrency market volatility.
 
