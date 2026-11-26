@@ -1,34 +1,34 @@
-# Daily Crypto Movers - 2026-11-25
+# Daily Crypto Movers - 2026-11-26
 
 ## Top 3 Gainers (24h)
-### 1. Bitway (BTW)
-- **Price:** $0.90
-- **Change:** +21.65%
-- **Analysis:** Bitway's 21.65% price increase most likely reflects general market volatility and speculative trading activity, as no specific recent news or fundamental development has been widely reported for the project.
+### 1. Pieverse (PIEVERSE)
+- **Price:** $4.02
+- **Change:** +15.61%
+- **Analysis:** The 15.61% price increase for Pieverse most likely reflects general cryptocurrency market volatility, as no specific news has been identified.
 
-### 2. Pieverse (PIEVERSE)
-- **Price:** $3.48
-- **Change:** +13.48%
-- **Analysis:** The 13.48% increase for Pieverse most likely reflects general market volatility and speculative trading, as no specific news or major development has been widely reported.
+### 2. Sky (SKY)
+- **Price:** $0.05
+- **Change:** +14.38%
+- **Analysis:** Absent specific news, Sky's 14.38% price increase most likely reflects general cryptocurrency market volatility.
 
-### 3. Venice Token (VVV)
-- **Price:** $26.41
-- **Change:** +5.52%
-- **Analysis:** The 5.52% increase for Venice Token (vvv) most likely reflects general cryptocurrency market volatility, as no specific news or catalyst has been identified.
+### 3. Bitway (BTW)
+- **Price:** $0.98
+- **Change:** +9.14%
+- **Analysis:** Absent specific news for Bitway (btw), its 9.14% price movement most likely reflects general cryptocurrency market volatility.
 
 ## Top 3 Losers (24h)
-### 1. Algorand (ALGO)
-- **Price:** $0.08
-- **Change:** -3.26%
-- **Analysis:** Algorand's price decline most likely reflects general cryptocurrency market volatility or broader market trends, as no significant ALGO-specific news has been reported.
+### 1. Zcash (ZEC)
+- **Price:** $703.67
+- **Change:** -4.25%
+- **Analysis:** Zcash's 4.25% decline likely reflects the broader cryptocurrency market's general volatility and recent consolidation after its earlier upward movement.
 
-### 2. Mantle (MNT)
-- **Price:** $0.36
-- **Change:** -4.86%
-- **Analysis:** Mantle's 4.86% decline most likely reflects general cryptocurrency market volatility and a broader downtrend seen across altcoins.
-
-### 3. Rain (RAIN)
+### 2. Rain (RAIN)
 - **Price:** $0.00
-- **Change:** -7.29%
-- **Analysis:** With no specific news directly impacting Rain, its 7.29% decline most likely reflects general cryptocurrency market volatility.
+- **Change:** -9.16%
+- **Analysis:** The decline in Rain (RAIN) most likely reflects general cryptocurrency market volatility and broader market trends, as no specific news for the project has been reported.
+
+### 3. Monero (XMR)
+- **Price:** $444.33
+- **Change:** -13.38%
+- **Analysis:** Monero's price decline most likely reflects a general downturn across the broader cryptocurrency market, with altcoins often amplifying Bitcoin's movements during periods of volatility.
 
